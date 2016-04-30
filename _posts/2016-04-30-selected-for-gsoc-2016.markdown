@@ -26,6 +26,8 @@ My project involves improving the TaskCluster-Treeherder integration by adding a
 
 I will be mentored by [Armen Zambrano](https://mozillians.org/en-US/u/armenzg/) and [Joel Maher](https://mozillians.org/en-US/u/jmaher/) for this project. Hoping to do a good job!
 
+You can read more about my project in my proposal [here](home.iitb.ac.in/~kalpesh1729/gsoc.pdf).
+
 ## What am I expecting from GSoC?
 
 This is going to be exciting 3 months for me. Through this GSoC, I hope to understand Mozilla's CI system through and through. I hope to make some great new friends and guides. I handle a repository in Mozilla (a test results filtering system, [Web Platform Tests Results Viewer](https://github.com/mozilla/wptview)) and I hope to get some newcomers involved in this project, and take it forward.
