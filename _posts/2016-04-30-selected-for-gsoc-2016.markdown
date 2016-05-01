@@ -20,13 +20,13 @@ More specifically, I will be working with the [Engineering Productivity](https:/
 ## What's my Project?
 
 Like every open source project, Mozilla's products have a solid infrastructure for testing. There are tens of thousands of tests which have to be run for each and every change that is made to the Mozilla codebase. You can get an idea by looking at [Treeherder](https://treeherder.mozilla.org/#/jobs?repo=mozilla-central), the user interface for all these tests. To run these tests efficiently on the server farm, Mozilla uses a test scheduler, which schedules builds and the corresponding tests in a logical fashion. This entire process is termed as **Continuous Integration**.
-Mozilla has been using [Buildbot](buildbot.net) for all the job scheduling in the past. Now, a new software, [TaskCluster](http://docs.taskcluster.net/) has been developed to take over Mozilla's CI and is slowly being integrated into Mozilla's testing infrastructure.
+Mozilla has been using [Buildbot](http://buildbot.net) for all the job scheduling in the past. Now, a new software, [TaskCluster](http://docs.taskcluster.net/) has been developed to take over Mozilla's CI and is slowly being integrated into Mozilla's testing infrastructure.
 
 My project involves improving the TaskCluster-Treeherder integration by adding an option to manually schedule TaskCluster jobs. This would primarily involve understanding the TaskCluster APIs and authentication system it follows, along with Mozilla's [Pulse](https://wiki.mozilla.org/Auto-tools/Projects/Pulse) system which is used for communication between the different Engineering Productivity tools. This project will involve work in Python and Javascript.
 
 I will be mentored by [Armen Zambrano](https://mozillians.org/en-US/u/armenzg/) and [Joel Maher](https://mozillians.org/en-US/u/jmaher/) for this project. Hoping to do a good job!
 
-You can read more about my project in my proposal [here](home.iitb.ac.in/~kalpesh1729/gsoc.pdf).
+You can read more about my project in my proposal [here](http://home.iitb.ac.in/~kalpesh1729/gsoc.pdf).
 
 ## What am I expecting from GSoC?
 
