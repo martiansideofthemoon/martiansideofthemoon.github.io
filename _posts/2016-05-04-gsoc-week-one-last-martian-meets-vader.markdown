@@ -16,10 +16,22 @@ So I've officially given up on trying to set up the VPN for my loaner machine li
 
 ## Pulse Actions
 
-I've started work on [Pulse Actions](https://github.com/mozilla/pulse_actions) on a bug to listen and identify [PGO](https://en.wikipedia.org/wiki/Profile-guided_optimization) builds on [mozilla-inbound](https://treeherder.mozilla.org/#/jobs?repo=mozilla-inbound) or [fx-team](https://treeherder.mozilla.org/#/jobs?repo=fx-team) and trigger all Talos jobs twice. More details can be found on the [bug](https://github.com/mozilla/pulse_actions/issues/70).
+I've started work on [Pulse Actions](https://github.com/mozilla/pulse_actions) on a bug to listen and identify [PGO](https://en.wikipedia.org/wiki/Profile-guided_optimization) builds on [mozilla-inbound](https://treeherder.mozilla.org/#/jobs?repo=mozilla-inbound) or [fx-team](https://treeherder.mozilla.org/#/jobs?repo=fx-team) and trigger all Talos jobs for these builds twice. More details can be found on the [bug](https://github.com/mozilla/pulse_actions/issues/70).
 
-My work on this can be found [here](https://github.com/mozilla/pulse_actions/pull/73). Working on this has been interesting so far. I've learnt the basic workflow followed by Pulse Actions, and I discovered a [small bug](https://github.com/mozilla/mozilla_ci_tools/issues/468) in MozCI in this process. I've decided to fix this [here](https://github.com/mozilla/mozilla_ci_tools/pull/469) before I carry on with the Pulse Actions bug.
+My work on this can be found [here](https://github.com/mozilla/pulse_actions/pull/73). Working on this has been interesting so far. I've learnt the basic workflow followed by Pulse Actions, and I discovered two bugs in MozCI in this process. I spent most of this week fixing these two MozCI bugs and now I'm ready to carry on with the Pulse Actions bug.
+
+## MozCI Tools
+
+I did a lot of work for [MozCI Tools](https://github.com/mozilla/mozilla_ci_tools) this week. I did two major additions. The [first](https://github.com/mozilla/mozilla_ci_tools/pull/469) adds [PGO](https://en.wikipedia.org/wiki/Profile-guided_optimization) build type support and testing to MozCI Tools. The [second](https://github.com/mozilla/mozilla_ci_tools/pull/470) adds a function to identify and trigger all talos jobs corresponding to a build (which I need for Pulse Actions).
 
 While working on MozCI I really liked [pytest](https://pytest.org) over Python [unittests](https://docs.python.org/2.7/library/unittest.html), and I hope to write a small tutorial on it soon!
 
 ## Work on mozilla-central
+
+I've kicked off my GSoC project via [Bug 1232005](https://bugzilla.mozilla.org/show_bug.cgi?id=1232005). This fix now produces a [JSON file](https://queue.taskcluster.net/v1/task/LuVD5MjBRKyQVymZ11SlEw/runs/0/artifacts/public%2Fall_tasks.json) containing all possible TaskCluster tasks that **could** have been produced. I now plan to read this file in Treeherder next week.
+
+## Coming up!
+
+I plan to read the [Treeherder docs](https://treeherder.readthedocs.io/) this week and try to understand the workflow of the Django APIs. I do hope to fetch the JSON file I've produced in Treeherder and begin to parse it on the command of the [runnable_jobs](https://treeherder.mozilla.org/docs/#!/project/Runnable_Jobs_list) API. I also hope to complete the Pulse Actions bug. I will try to write a short tutorial on this blog next week!
+
+In other news, I'm travelling on 8th May to New Delhi for the [Cargill Scholarship](http://cargillglobalscholars.com) interview. I do hope to do good job!
