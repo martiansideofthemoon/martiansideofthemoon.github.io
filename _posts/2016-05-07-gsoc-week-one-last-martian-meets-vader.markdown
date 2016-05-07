@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSoC Week One - Last Martian Meets Darth Vader!"
-date:   2016-05-04 03:39:55 +0530
+date:   2016-05-07 11:39:55 +0530
 tags: gsoc
 ---
 I've been absolutely obsessed with Star Wars this week, especially Darth Vader. I've named my [Pull Request](https://github.com/mozilla/mozilla_ci_tools/pull/469) after him, the video chat room with [Armen](https://mozillians.org/en-US/u/armenzg/) and I'm thinking of changing my IRC nickname for a day! It's probably because I just saw the awesome seventh movie in the series!
