@@ -16,8 +16,9 @@ Yes! We have finally merged the [Pull Request](https://github.com/mozilla/pulse_
 
 ![talos]({{ site.url }}/assets/talos.png)
 
-As you can see, all Talos jobs (marked with a **T**) have been completed twice. This has been done to reduce the time taken to get Talos alerts to half. We listen to build completions on a Pulse exchange, and trigger Talos downstream jobs accordingly.
+As you can see, all Talos jobs (marked with a **T** and **T-e10s**) have been completed twice. This has been done to reduce the time taken to get Talos alerts to half. We listen to build completions on a Pulse exchange, and trigger Talos downstream jobs accordingly.
 
 ## Work on mozilla-central
 
 [Bug 1232005](https://bugzilla.mozilla.org/show_bug.cgi?id=1232005) has been re-opened to allow us to generate all_tasks.json in all branches, not just [try](treeherder.mozilla.org/#/jobs?repo=try). There is some ongoing discussion about the best way to do this.
+
