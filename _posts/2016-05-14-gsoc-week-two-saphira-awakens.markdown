@@ -12,7 +12,7 @@ Getting back to work, this is how it's been last week :-
 
 ## Pulse Actions
 
-Yes! We have finally merged the [Pull Request](https://github.com/mozilla/pulse_actions/pull/73) which now schedules two Talos jobs for completed PGO builds in mozilla-inbound and fx-team. I got to learn a bit a [Heroku](https://dashboard.heroku.com/apps) and PaperTrail, so it was a great week in this repsect. Here is a screenshot from Treeherder showing what I achieved :-
+Yes! We have finally merged the [Pull Request](https://github.com/mozilla/pulse_actions/pull/73) which now schedules two Talos jobs for completed PGO builds in mozilla-inbound and fx-team. I got to learn a bit of [Heroku](https://dashboard.heroku.com/apps) and PaperTrail, so it was a great week in this repsect. Here is a screenshot from Treeherder showing what I achieved :-
 
 ![talos]({{ site.url }}/assets/talos.png)
 
