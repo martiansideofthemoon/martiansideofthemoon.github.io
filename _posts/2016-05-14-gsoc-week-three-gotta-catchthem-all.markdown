@@ -12,6 +12,14 @@ I've always loved the [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) vid
 
 Here are the technical details for the week :-
 
-## Pulse Actions
+## Treeherder
 
+I've finally gotten around the huge codebase of Treeherder and have successfully managed to produce the URL to [all_tasks.json](https://public-artifacts.taskcluster.net/Zo4UsXv_QH2VdJhSODwwWQ/0/public/all_tasks.json). I'm sending this URL to the Treeherder backend which downloads the file using [requests](http://docs.python-requests.org/en/master/) and parses it to get it in the Treeherder data structure. Treeherder has a wonderful database which gets all the extra information I need.
+I send this data back and lo and behold, we have TaskCluster jobs in Treeherder!
+(All the code is in this [Pull Request](https://github.com/mozilla/treeherder/pull/1490)).
 
+Original Set of Jobs :-
+![original_jobs]({{ site.url }}/assets/original.png)
+
+"Add New Jobs" (TaskCluster only) :-
+![taskcluster_jobs]({{ site.url }}/assets/tc_jobs.png)
