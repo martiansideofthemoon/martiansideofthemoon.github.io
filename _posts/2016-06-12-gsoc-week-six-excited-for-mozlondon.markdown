@@ -22,7 +22,16 @@ I also fixed the two bugs I'd been given last week, [Bug 1274483](https://bugzil
 
 ## Treeherder
 
-I had a few bits and pieces left in my main [Pull Request](https://github.com/mozilla/treeherder/pull/1490), primarily adding timestamps to pulse messages, adding a few comments, and restricting usage to the try repository. I've completed that and it's ready for final review. The bug is [1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325)
+I had a few bits and pieces left in my main [Pull Request](https://github.com/mozilla/treeherder/pull/1490), primarily adding timestamps to pulse messages, adding a few comments, and restricting usage to the try repository. I've completed that and it's ready for final review. The bug is [1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325).
 
 ## Photometric Redshifts
 
+We've made a lot of progress here, and the highlight of our work is the first working neural network! Here is the plot we've managed to produce (estimated redshift vs actual redshift) :-
+
+![nn]({{ site.url }}/assets/first_nn.png)
+
+There are a few points having a low estimated redshift which are distinctly off the clump of points. These are points having nearly the same value in all five photometric filters. We've isolated them in this [script](https://github.com/martiansideofthemoon/Photometric-Redshifts/blob/0d11f22d8cc58b8aeb89af2afd6ba5358cb76a91/test_codes/basic_nn_kalpesh.py) and are getting better plots on doing so. I'll describe the project in detail later on.
+
+## Coming Up
+
+New friends, New city, and a lot of fun! I hope to have a lot to write about next week! Till then, see you in London :)
