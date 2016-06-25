@@ -22,10 +22,10 @@ Hence we decided NOT to go ahead with [this](https://github.com/mozilla/mozilla_
 Action Tasks are going to be new types of jobs, which will run a new [mach command](https://dxr.mozilla.org/mozilla-central/source/mach) and schedule the jobs specified in the mach command's parameter list. When a user clicks on "Add New Jobs", a pulse message will be sent down to pulse_actions, which in turn will schedule an Action Task in that push on Treeherder.
 This action task runs the new mach command and uses the in-tree code to schedule the required jobs. This is a better approach for a few reasons:
 
-* The action task will have all the logs regarding "Add New Jobs" failures. There is no need to look at the PaperTrail in pulse_actions as long as the Action Task has been scheduled.
-* The action task reuses Dustin's in-tree work and will be easier to maintain.
-* The action task gives users proper feedback. A failed Action Task would mean that "Add New Jobs" has failed. In the current model, the user does not receive any feedback and is forced to file a bug, not knowing what happened.
-* The asynchronous element is slowly going away. Since we just have one job to schedule now, once Treeherder gets its TaskCluster authentication, we could directly schedule Action Tasks using Treeherder. This would remove the need of asynchronous Pulse messages for "Add New Jobs" and slowly make "Add New Jobs" completely synchronous.
+* The action task will have **all the logs regarding "Add New Jobs" failures**. There is no need to look at the PaperTrail in pulse_actions as long as the Action Task has been scheduled.
+* The action task **reuses Dustin's in-tree work** and will be **easier to maintain**.
+* The action task **gives users proper feedback**. A failed Action Task would mean that "Add New Jobs" has failed. In the current model, the user does not receive any feedback and is forced to file a bug, not knowing what happened.
+* The **asynchronous element is slowly going away**. Since we just have one job to schedule now, once Treeherder gets its TaskCluster authentication, we could directly schedule Action Tasks using Treeherder. This would remove the need of asynchronous Pulse messages for "Add New Jobs" and slowly make "Add New Jobs" completely synchronous.
 
 The major disadvantage of action tasks is the non-parallelism with the approach for Buildbot jobs. However, since Buildbot jobs will soon be TaskCluster jobs, it makes sense to go forward with Action Tasks.
 
