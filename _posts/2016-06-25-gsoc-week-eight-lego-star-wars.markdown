@@ -32,7 +32,7 @@ The major disadvantage of action tasks is the non-parallelism with the approach 
 ## Are we going to kill Pulse Actions?
 
 No, not yet. A lot of features rely on Pulse Actions. We will be using pulse_actions to schedule the Action Tasks for now. Since Treeherder is receiving a TaskCluster authentication soon, pulse_actions may not be used in the future to schedule Action Tasks, and we would do it using Treeherder directly.
-However, we might not need pulse_actions in the future once Buildbot jobs have been removed completely. However, this could take a significant amount of time.
+We might not need pulse_actions at all in the future once Buildbot jobs have been removed completely. However, this could take a significant amount of time.
 
 ## Progress with Action Tasks
 
