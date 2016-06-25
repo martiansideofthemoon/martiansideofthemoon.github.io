@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MozLondon - A Dream Come True!"
-date:   2016-06-11 23:39:55 +0530
+date:   2016-06-25 03:39:55 +0530
 tags: gsoc
 ---
 It truly was one mindblowing week! Right from midnight sightseeing walks, to meeting all the people in Mozilla I've ever worked with, to insights on how Mozilla functions and the exciting upcoming technologies, I'll never forget this one week. I did manage to feature in the all-team photo, spot me on the bottom left :)
