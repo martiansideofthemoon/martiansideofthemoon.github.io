@@ -22,7 +22,7 @@ Hence we decided NOT to go ahead with [this](https://github.com/mozilla/mozilla_
 Action Tasks are going to be new types of jobs, which will run a new [mach command](https://dxr.mozilla.org/mozilla-central/source/mach) and schedule the jobs specified in the mach command's parameter list. When a user clicks on "Add New Jobs", a pulse message will be sent down to pulse_actions, which in turn will schedule an Action Task in that push on Treeherder.
 This action task runs the new mach command and uses the in-tree code to schedule the required jobs. This is a better approach for a few reasons:
 
-* The action task will have all the logs regarding "Add New Jobs" faliures. There is no need to look at the PaperTrail in pulse_actions as long as the Action Task has been scheduled.
+* The action task will have all the logs regarding "Add New Jobs" failures. There is no need to look at the PaperTrail in pulse_actions as long as the Action Task has been scheduled.
 * The action task reuses Dustin's in-tree work and will be easier to maintain.
 * The action task gives users proper feedback. A failed Action Task would mean that "Add New Jobs" has failed. In the current model, the user does not receive any feedback and is forced to file a bug, not knowing what happened.
 * The asynchronous element is slowly going away. Since we just have one job to schedule now, once Treeherder gets its TaskCluster authentication, we could directly schedule Action Tasks using Treeherder. This would remove the need of asynchronous Pulse messages for "Add New Jobs" and slowly make "Add New Jobs" completely synchronous.
@@ -58,4 +58,8 @@ In the above picture, `tc-M(dt4)` is the job I passed in the parameters, and it 
 
 ## Other News
 
-It's raining heavily in Mumbai all day, so I'm pretty much indoors. I visited the Facebook Mumbai office and it was really cool! We have started a project in our club named **
+It's raining heavily in Mumbai all day, so I'm pretty much indoors. I visited the Facebook Mumbai office and it was really cool! We have started a new [Seasons of Code](http://wncc-iitb.org/soc/) project in our club named [Rattlesnake](https://github.com/ranveeraggarwal/rattlesnake) to teach people Python. I might do the same tasks in Perl!
+
+## Coming Up
+
+We might have to merge the Treeherder [Pull Request](https://github.com/mozilla/treeherder/pull/1490) putting some UI restrictions to help [Mike Ling](https://github.com/MikeLing) continue with his GSoC project. I hope to complete my action tasks patch and write a function in MozCI / Pulse Actions to schedule Action Tasks on receiving pulse messages.
