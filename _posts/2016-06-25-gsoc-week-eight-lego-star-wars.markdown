@@ -21,6 +21,7 @@ Hence we decided NOT to go ahead with [this](https://github.com/mozilla/mozilla_
 
 Action Tasks are going to be new types of jobs, which will run a new [mach command](https://dxr.mozilla.org/mozilla-central/source/mach) and schedule the jobs specified in the mach command's parameter list. When a user clicks on "Add New Jobs", a pulse message will be sent down to pulse_actions, which in turn will schedule an Action Task in that push on Treeherder.
 This action task runs the new mach command and uses the in-tree code to schedule the required jobs. This is a better approach for a few reasons:
+
 * The action task will have all the logs regarding "Add New Jobs" faliures. There is no need to look at the PaperTrail in pulse_actions as long as the Action Task has been scheduled.
 * The action task reuses Dustin's in-tree work and will be easier to maintain.
 * The action task gives users proper feedback. A failed Action Task would mean that "Add New Jobs" has failed. In the current model, the user does not receive any feedback and is forced to file a bug, not knowing what happened.
@@ -38,9 +39,11 @@ However, we might not need pulse_actions in the future once Buildbot jobs have b
 I've had an excellent week with respect to programming action tasks. It started by filing [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062). As you can see, I've added patches. Yes, we have our first green action tasks! :)
 
 So I started by creating a new mach command, `mach taskgraph action-task`. Here is what a sample command looks like -
+
 ```
 ./mach taskgraph action-task --task-labels="TaskLabel==A-JT3sTNQMSvayONPiHU6A,TaskLabel==AWMGHageQh-L_nkBPsQOvA" --decision-id="TADoGLV5RUWQYivg1ReyTw"
 ```
+
 There are two parameters here, the very same parameters I fetch from Treeherder. The gecko decision task ID and a comma separated list of Task Labels for that decision id. I am sending exactly these two parameters down the Pulse message.
 
 This mach command downloads the corresponding full-tasks-graph file and generates a `TaskGraph` object using it. (`TaskGraph` defined [here](https://dxr.mozilla.org/mozilla-central/source/taskcluster/taskgraph/types.py#44)). This then passes through the in-tree code to generate aritifacts, optimize the task graph and schedule the tasks.
@@ -55,4 +58,4 @@ In the above picture, `tc-M(dt4)` is the job I passed in the parameters, and it 
 
 ## Other News
 
-It's raining heavily in Mumbai all day, so I'm pretty much indoors. I visited the Facebook Mumbai office and it was really cool! 
+It's raining heavily in Mumbai all day, so I'm pretty much indoors. I visited the Facebook Mumbai office and it was really cool! We have started a project in our club named **
