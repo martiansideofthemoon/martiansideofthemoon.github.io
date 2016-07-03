@@ -33,7 +33,8 @@ This is a refactor suggested by Dustin in a review of the Action Tasks patch. We
 The motivation behind this refactor has been the problem with timestamps in the `full-task-graph.json` file. Since tasks haven't strictly been created, it makes no sense adding timestamps here.
 
 This has been refactored into "relative datestamps". So instead of actually putting in timestamps, we put in relative timestamps like this,
-```
+
+```json
 created: {
 	"relative-datestamp": "0 seconds"
 }
@@ -41,6 +42,7 @@ expires: {
 	"relative-datestamp": "7 days"
 }
 ```
+
 Now whenever tasks are created, a timestamp is created to represent `now`. A depth first search of the task JSON follows and all instances of these "relative datestamps" are processed and replaced with the correct timestamp with respect to the timestamp created at in the beginning.
 Now tasks can be easily scheduled via Action Tasks, with proper timestamps in place!
 
