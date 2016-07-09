@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GSoC Week 10 - Songs of ICE & FIRE!"
+title:  "GSoC Week Ten - Songs of ICE & FIRE!"
 date:   2016-07-10 00:39:55 +0530
 tags: gsoc
 ---
