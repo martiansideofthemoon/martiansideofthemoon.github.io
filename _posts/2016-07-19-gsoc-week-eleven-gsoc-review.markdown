@@ -6,9 +6,11 @@ tags: gsoc
 ---
 This blogpost has a list of all patches and pull requests that were merged for the success of the GSoC project. There is also a developer's guide on using this new feature.
 
+This feature is **COMPLETE** and **WORKING**. There are a few follow up bugs which I will mention in this blogpost and were not strictly a part of the project.
+
 ## Treeherder
 
-Treeherder is Mozilla's primary testing and sheriffing dashboard. My work here was to add UI features to show all possible TaskCluster jobs, and allow the users to select jobs they want to schedule.
+Treeherder is Mozilla's primary testing dashboard. My work here was to add UI features to show all possible TaskCluster jobs, and allow the users to select jobs they want to schedule.
 
 This was primarily tracked on Bugzilla in [Bug 1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325), [Bug 1284911](https://bugzilla.mozilla.org/show_bug.cgi?id=1284911) and [Bug 1282906](https://bugzilla.mozilla.org/show_bug.cgi?id=1282906).
 
@@ -18,4 +20,18 @@ Here is the list of pull requests that were merged -
 * [PR #1625](https://github.com/mozilla/treeherder/pull/1625) - This fixed a small UI regression arising from the previous PR.
 * [PR #1633](https://github.com/mozilla/treeherder/pull/1633) - A follow up PR to the previous two, primarily improving the Django code.
 * [PR #1688](https://github.com/mozilla/treeherder/pull/1688) - The final PR which activates the UI and fixes a UI regression which arises due to the presence of Action Tasks.
+
+## MozCI
+
+MozCI is a python package that's utilizes the different parts of Mozilla's Continuous Integration and connects them together via APIs. Originally, my work here was to add functions to schedule all TaskCluster jobs requested, resolving dependencies and fixing task references.
+
+However, since we decided to use Action Tasks, the work here reduced substantially.
+
+Here is the list of pull requests we used -
+
+* [PR #480](https://github.com/mozilla/mozilla_ci_tools/pull/480) - Fetching the full tasks file. We backed out these changes in a latter PR.
+* [PR #486](https://github.com/mozilla/mozilla_ci_tools/pull/486) (CLOSED) - This Pull Request contains the method originally proposed in the GSoC proposal. We didn't merge this due to less reliability and sustainability.
+* [PR #489](https://github.com/mozilla/mozilla_ci_tools/pull/489) - This patch allows us to schedule action tasks, which perform all the magic in-tree.
+* [PR #490](https://github.com/mozilla/mozilla_ci_tools/pull/490) - A small fix to removing an old TODO.
+* [PR #491](https://github.com/mozilla/mozilla_ci_tools/pull/491) - A final refactoring of "schedule_action_task", to allow it to have a `dry_run` feature.
 
