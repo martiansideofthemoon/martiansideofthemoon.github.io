@@ -57,7 +57,7 @@ Here is the list of pull requests we used -
 * [PR #82](https://github.com/mozilla/pulse_actions/pull/82) - The primary patch here, which reads pulse messages and sends the data over to MozCI.
 * [PR #104](https://github.com/mozilla/pulse_actions/pull/104) - Fixing a spelling mistake in the Pulse message.
 
-## TC Scheduler Experiments
+## TaskCluster Scheduler Experiments
 
 Here is the list of pull requests we used -
 
