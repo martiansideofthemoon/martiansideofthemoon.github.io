@@ -14,8 +14,8 @@ This was primarily tracked on Bugzilla in [Bug 1254325](https://bugzilla.mozilla
 
 Here is the list of pull requests that were merged -
 
-*[PR #1490](https://github.com/mozilla/treeherder/pull/1490) - This is the primary pull request which adds major components of the feature. This activates the APIs but does not activate the UI.
-*[PR #1625](https://github.com/mozilla/treeherder/pull/1625) - This fixed a small UI regression arising from the previous PR.
-*[PR #1633](https://github.com/mozilla/treeherder/pull/1633) - A follow up PR to the previous two, primarily improving the Django code.
-*[PR #1688](https://github.com/mozilla/treeherder/pull/1688) - The final PR which activates the UI and fixes a UI regression which arises due to the presence of Action Tasks.
+* [PR #1490](https://github.com/mozilla/treeherder/pull/1490) - This is the primary pull request which adds major components of the feature. This activates the APIs but does not activate the UI.
+* [PR #1625](https://github.com/mozilla/treeherder/pull/1625) - This fixed a small UI regression arising from the previous PR.
+* [PR #1633](https://github.com/mozilla/treeherder/pull/1633) - A follow up PR to the previous two, primarily improving the Django code.
+* [PR #1688](https://github.com/mozilla/treeherder/pull/1688) - The final PR which activates the UI and fixes a UI regression which arises due to the presence of Action Tasks.
 
