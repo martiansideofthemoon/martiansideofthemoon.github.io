@@ -35,3 +35,11 @@ Here is the list of pull requests we used -
 * [PR #490](https://github.com/mozilla/mozilla_ci_tools/pull/490) - A small fix to removing an old TODO.
 * [PR #491](https://github.com/mozilla/mozilla_ci_tools/pull/491) - A final refactoring of "schedule_action_task", to allow it to have a `dry_run` feature.
 
+## Pulse Actions
+
+Pulse Actions is a project which utilizes the MozCI functions on RabbitMQ based Pulse messages. My work here was to identify the TaskCluster requests in the pulse messages and utilize the MozCI library to schedule the action tasks.
+
+* [PR #82](https://github.com/mozilla/pulse_actions/pull/82) - The primary patch here, which reads pulse messages and sends the data over to MozCI.
+* [PR #104](https://github.com/mozilla/pulse_actions/pull/104) - Fixing a spelling mistake in the Pulse message.
+
+
