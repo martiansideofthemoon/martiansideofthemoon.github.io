@@ -8,6 +8,20 @@ This blogpost has a list of all patches and pull requests that were merged for t
 
 This feature is **COMPLETE** and **WORKING**. There are a few follow up bugs which I will mention in this blogpost and were not strictly a part of the project.
 
+## TaskCluster
+
+TaskCluster is a graph based test scheduler which is at the heart of Mozilla's Continuous Integration. My major work in this GSoC project was in the `taskcluster` part of [mozilla-central](https://dxr.mozilla.org/mozilla-central/source/).
+
+My job was to implement Action Tasks which will do the job of scheduling new jobs. I also needed to improve the TaskGraph optimization that was being used.
+
+All my TaskCluster work was recorded in [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062). This was broken down into three different patches finally -
+
+* [Bug 1284005](https://bugzilla.mozilla.org/show_bug.cgi?id=1284005) ([Patch](https://hg.mozilla.org/mozilla-central/rev/7e73e9581bca)) - This is the first bug. This refactors the timestamp mechanism used in `TaskGraph` generation. Now instead of actual timestamps, `relative-datestamps` are used which are replaced with actual timestamps when the tasks are actually created.
+* [Bug 1285755](https://bugzilla.mozilla.org/show_bug.cgi?id=1285755) ([Patch](https://hg.mozilla.org/mozilla-central/rev/b1a86b2b81ff)) - This is the second bug. This adds a feature to build a `TaskGraph` object from a corresponding JSON file, taking care of the special cases for various `Task` subclasses.
+* [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062) ([Patch](https://hg.mozilla.org/mozilla-central/rev/d223b3cdee66)) - The final piece of the puzzle which adds action tasks. This feature also utilized [Dustin](https://github.com/djmitche)'s [patch](https://hg.mozilla.org/mozilla-central/rev/2393f903d0a7) to find python modules.
+
+
+
 ## Treeherder
 
 Treeherder is Mozilla's primary testing dashboard. My work here was to add UI features to show all possible TaskCluster jobs, and allow the users to select jobs they want to schedule.
