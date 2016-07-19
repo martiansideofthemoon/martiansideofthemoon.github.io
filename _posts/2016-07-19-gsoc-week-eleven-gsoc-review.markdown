@@ -17,14 +17,13 @@ My job was to implement Action Tasks which will do the job of scheduling new job
 All my TaskCluster work was recorded in [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062). This was broken down into three different patches finally -
 
 * [Bug 1284005](https://bugzilla.mozilla.org/show_bug.cgi?id=1284005) ([Patch](https://hg.mozilla.org/mozilla-central/rev/7e73e9581bca)) - This is the first bug. This refactors the timestamp mechanism used in `TaskGraph` generation. Now instead of actual timestamps, `relative-datestamps` are used which are replaced with actual timestamps when the tasks are actually created.
-* [Bug 1285755](https://bugzilla.mozilla.org/show_bug.cgi?id=1285755) ([Patch](https://hg.mozilla.org/mozilla-central/rev/b1a86b2b81ff)) - This is the second bug. This adds a feature to build a `TaskGraph` object from a corresponding JSON file, taking care of the special cases for various `Task` subclasses.
-* [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062) ([Patch](https://hg.mozilla.org/mozilla-central/rev/d223b3cdee66)) - The final piece of the puzzle which adds action tasks. This feature also utilized [Dustin](https://github.com/djmitche)'s [patch](https://hg.mozilla.org/mozilla-central/rev/2393f903d0a7) to find python modules.
-
+* [Bug 1285755](https://bugzilla.mozilla.org/show_bug.cgi?id=1285755) ([Patch](https://hg.mozilla.org/mozilla-central/rev/b1a86b2b81ff)) - This is the second bug. This adds a feature to build a `TaskGraph` object from a corresponding JSON file, taking care of the special cases for various `Task` subclasses. This feature also utilized [Dustin](https://github.com/djmitche)'s [patch](https://hg.mozilla.org/mozilla-central/rev/2393f903d0a7) to find python modules.
+* [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062) ([Patch](https://hg.mozilla.org/mozilla-central/rev/d223b3cdee66)) - The final piece of the puzzle which adds action tasks.
 
 
 ## Treeherder
 
-Treeherder is Mozilla's primary testing dashboard. My work here was to add UI features to show all possible TaskCluster jobs, and allow the users to select jobs they want to schedule.
+Treeherder is Mozilla's primary testing dashboard. My work here was to enchance the APIs to show TaskCluster jobs, allow the users to select jobs they want to schedule, and finally send these TaskCluster jobs through a Pulse message.
 
 This was primarily tracked on Bugzilla in [Bug 1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325), [Bug 1284911](https://bugzilla.mozilla.org/show_bug.cgi?id=1284911) and [Bug 1282906](https://bugzilla.mozilla.org/show_bug.cgi?id=1282906).
 
@@ -53,7 +52,19 @@ Here is the list of pull requests we used -
 
 Pulse Actions is a project which utilizes the MozCI functions on RabbitMQ based Pulse messages. My work here was to identify the TaskCluster requests in the pulse messages and utilize the MozCI library to schedule the action tasks.
 
+Here is the list of pull requests we used -
+
 * [PR #82](https://github.com/mozilla/pulse_actions/pull/82) - The primary patch here, which reads pulse messages and sends the data over to MozCI.
 * [PR #104](https://github.com/mozilla/pulse_actions/pull/104) - Fixing a spelling mistake in the Pulse message.
+
+## TC Scheduler Experiments
+
+Here is the list of pull requests we used -
+
+This is mostly an experimental repository which was used for all the experimentation and testing. It was an important part of the project as it has python scripts to quickly schedule action tasks.
+
+* [PR #2](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/2) - The original implementation which was backed out due to less reliability and sustainability.
+* [PR #3](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/3) - The logic actually used in MozCI to schedule Action Tasks.
+* [PR #4](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/4) - Adding command line arguments to the schedule_action_task.py script.
 
 
