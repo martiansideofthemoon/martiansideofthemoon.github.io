@@ -78,5 +78,16 @@ Here are the bugs that have been filed as a follow up. None of them are necessar
 * [Bug 1286813](https://bugzilla.mozilla.org/show_bug.cgi?id=1286813) - This is the bug to improve the `TaskGraph` optimizations when more than one Action Task is scheduled.
 * [Bug 1286897](https://bugzilla.mozilla.org/show_bug.cgi?id=1286897) - This is the bug to fix a wrong naming convention in Treeherder's python files. This is a good-first-bug for beginners.
 
+## Non GSoC Work
 
+I added a number of features outside of the GSoC project during the GSoC period. I will hyperlink them below.
 
+* Treeherder - [PR #1645](https://github.com/mozilla/treeherder/pull/1645), [PR #1646](https://github.com/mozilla/treeherder/pull/1646) and [PR #1661](https://github.com/mozilla/treeherder/pull/1661).
+
+* MozCI - [PR #469](https://github.com/mozilla/mozilla_ci_tools/pull/469), [PR #470](https://github.com/mozilla/mozilla_ci_tools/pull/470), [PR #473](https://github.com/mozilla/mozilla_ci_tools/pull/473), [PR #475](https://github.com/mozilla/mozilla_ci_tools/pull/475), [PR #477](https://github.com/mozilla/mozilla_ci_tools/pull/477), [PR #482](https://github.com/mozilla/mozilla_ci_tools/pull/482), [PR #483](https://github.com/mozilla/mozilla_ci_tools/pull/483), [PR #484](https://github.com/mozilla/mozilla_ci_tools/pull/484) and [PR #485](https://github.com/mozilla/mozilla_ci_tools/pull/485)
+
+* Pulse Actions - [PR #73](https://github.com/mozilla/pulse_actions/pull/73), [PR #75](https://github.com/mozilla/pulse_actions/pull/75), [PR #80](https://github.com/mozilla/pulse_actions/pull/80), [PR #84](https://github.com/mozilla/pulse_actions/pull/84) and [PR #90](https://github.com/mozilla/pulse_actions/pull/90).
+
+* Bugzilla - [PR #14](https://github.com/mozilla-bteam/bmo/pull/14)
+
+* WPT Viewer - [PR #130](https://github.com/mozilla/wptview/pull/130), [PR #131](https://github.com/mozilla/wptview/pull/131), [PR #133](https://github.com/mozilla/wptview/pull/133), [PR #139](https://github.com/mozilla/wptview/pull/139), [PR #140](https://github.com/mozilla/wptview/pull/140) and a lot of code review since I'm the maintainer of this project.
