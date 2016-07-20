@@ -14,18 +14,19 @@ TaskCluster is a graph based test scheduler which is at the heart of Mozilla's C
 
 My job was to implement Action Tasks which will do the job of scheduling new jobs. I also needed to improve the TaskGraph optimization that was being used.
 
-All my TaskCluster work was recorded in [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062). This was broken down into three different patches finally -
+All my TaskCluster work was recorded in [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062). This was broken down into four different patches finally -
 
 * [Bug 1284005](https://bugzilla.mozilla.org/show_bug.cgi?id=1284005) ([Patch](https://hg.mozilla.org/mozilla-central/rev/7e73e9581bca)) - This is the first bug. This refactors the timestamp mechanism used in `TaskGraph` generation. Now instead of actual timestamps, `relative-datestamps` are used which are replaced with actual timestamps when the tasks are actually created.
 * [Bug 1285755](https://bugzilla.mozilla.org/show_bug.cgi?id=1285755) ([Patch](https://hg.mozilla.org/mozilla-central/rev/b1a86b2b81ff)) - This is the second bug. This adds a feature to build a `TaskGraph` object from a corresponding JSON file, taking care of the special cases for various `Task` subclasses. This feature also utilized [Dustin](https://github.com/djmitche)'s [patch](https://hg.mozilla.org/mozilla-central/rev/2393f903d0a7) to find python modules.
 * [Bug 1281062](https://bugzilla.mozilla.org/show_bug.cgi?id=1281062) ([Patch](https://hg.mozilla.org/mozilla-central/rev/d223b3cdee66)) - The final piece of the puzzle which adds action tasks.
+* [Bug 1288220](https://bugzilla.mozilla.org/show_bug.cgi?id=1288220) ([Patch](https://hg.mozilla.org/integration/autoland/rev/d05aa8ecdb0b)) - Adding a `from_json` implementation for `TestTask`, fixing a regression.
 
 
 ## Treeherder
 
 Treeherder is Mozilla's primary testing dashboard. My work here was to enchance the APIs to show TaskCluster jobs, allow the users to select jobs they want to schedule, and finally send these TaskCluster jobs through a Pulse message.
 
-This was primarily tracked on Bugzilla in [Bug 1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325), [Bug 1284911](https://bugzilla.mozilla.org/show_bug.cgi?id=1284911) and [Bug 1282906](https://bugzilla.mozilla.org/show_bug.cgi?id=1282906).
+This was primarily tracked on Bugzilla in [Bug 1254325](https://bugzilla.mozilla.org/show_bug.cgi?id=1254325), [Bug 1284911](https://bugzilla.mozilla.org/show_bug.cgi?id=1284911), [Bug 1282906](https://bugzilla.mozilla.org/show_bug.cgi?id=1282906) and [Bug 1288053](https://bugzilla.mozilla.org/show_bug.cgi?id=1288053)
 
 Here is the list of pull requests that were merged -
 
@@ -33,6 +34,7 @@ Here is the list of pull requests that were merged -
 * [PR #1625](https://github.com/mozilla/treeherder/pull/1625) - This fixed a small UI regression arising from the previous PR.
 * [PR #1633](https://github.com/mozilla/treeherder/pull/1633) - A follow up PR to the previous two, primarily improving the Django code.
 * [PR #1688](https://github.com/mozilla/treeherder/pull/1688) - The final PR which activates the UI and fixes a UI regression which arises due to the presence of Action Tasks.
+* [PR #1710](https://github.com/mozilla/treeherder/pull/1710) - Fixing a regression caused by the new `full-task-graph.json` format.
 
 ## MozCI
 
@@ -47,6 +49,7 @@ Here is the list of pull requests we used -
 * [PR #489](https://github.com/mozilla/mozilla_ci_tools/pull/489) - This patch allows us to schedule action tasks, which perform all the magic in-tree.
 * [PR #490](https://github.com/mozilla/mozilla_ci_tools/pull/490) - A small fix to removing an old TODO.
 * [PR #491](https://github.com/mozilla/mozilla_ci_tools/pull/491) - A final refactoring of "schedule_action_task", to allow it to have a `dry_run` feature.
+* [PR #495](https://github.com/mozilla/mozilla_ci_tools/pull/495) - Fixing a regression caused by the new `full-task-graph.json` format.
 
 ## Pulse Actions
 
@@ -56,6 +59,7 @@ Here is the list of pull requests we used -
 
 * [PR #82](https://github.com/mozilla/pulse_actions/pull/82) - The primary patch here, which reads pulse messages and sends the data over to MozCI.
 * [PR #104](https://github.com/mozilla/pulse_actions/pull/104) - Fixing a spelling mistake in the Pulse message.
+* [PR #107](https://github.com/mozilla/pulse_actions/pull/107) - Fixing a regression caused by the new `full-task-graph.json` format.
 
 Having done this, Pulse Actions was granted the correct scopes through [Bug 1286843](https://bugzilla.mozilla.org/show_bug.cgi?id=1286843).
 
