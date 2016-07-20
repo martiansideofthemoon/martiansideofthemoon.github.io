@@ -57,6 +57,8 @@ Here is the list of pull requests we used -
 * [PR #82](https://github.com/mozilla/pulse_actions/pull/82) - The primary patch here, which reads pulse messages and sends the data over to MozCI.
 * [PR #104](https://github.com/mozilla/pulse_actions/pull/104) - Fixing a spelling mistake in the Pulse message.
 
+Having done this, Pulse Actions was granted the correct scopes through [Bug 1286843](https://bugzilla.mozilla.org/show_bug.cgi?id=1286843).
+
 ## TaskCluster Scheduler Experiments
 
 Here is the list of pull requests we used -
@@ -66,5 +68,15 @@ This is mostly an experimental repository which was used for all the experimenta
 * [PR #2](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/2) - The original implementation which was backed out due to less reliability and sustainability.
 * [PR #3](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/3) - The logic actually used in MozCI to schedule Action Tasks.
 * [PR #4](https://github.com/armenzg/TC_developer_scheduling_experiments/pull/4) - Adding command line arguments to the schedule_action_task.py script.
+
+## Follow-Up Bugs
+
+Here are the bugs that have been filed as a follow up. None of them are necessary for the feature to work, but will improve the code and speed.
+
+* [Bug 1288028](https://bugzilla.mozilla.org/show_bug.cgi?id=1288028) - We need to speed up the first step where we get a list of all possible jobs by clicking "Add New Jobs".
+* [Bug 1286894](https://bugzilla.mozilla.org/show_bug.cgi?id=1286894) - The current feature only works for the try repository (where it is really needed). This bug hopes to assess the risks involved with extending this feature to non-try repositories. It should be fairly straightforward to fix.
+* [Bug 1286813](https://bugzilla.mozilla.org/show_bug.cgi?id=1286813) - This is the bug to improve the `TaskGraph` optimizations when more than one Action Task is scheduled.
+* [Bug 1286897](https://bugzilla.mozilla.org/show_bug.cgi?id=1286897) - This is the bug to fix a wrong naming convention in Treeherder's python files. This is a good-first-bug for beginners.
+
 
 
