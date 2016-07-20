@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code of GSoC 2016 - Add TaskCluster Jobs in Treeherder"
-date:   2016-07-19 00:39:55 +0530
+date:   2016-07-19 01:39:55 +0530
 tags: gsoc
 ---
 This blogpost has a list of all patches and pull requests that were merged for the success of the GSoC project. There is also a developer's guide on using this new feature.
