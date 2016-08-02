@@ -33,4 +33,12 @@ This is converted to a JSON task and scheduled using python TaskCluster client. 
 
 ## TaskCluster
 
-This describes the changes made in-tree, which enable the scheduling of Action Tasks.
+This describes the technical process in-tree, which enable the scheduling of Action Tasks.
+
+The major change here is the addition of a `mach` command, `mach taskgraph action-task`. This command accepts two parameters, `decision-id` and `task-labels`.
+
+This command is parsed and processed in [taskcluster/takgraph/action.py](https://dxr.mozilla.org/mozilla-central/source/taskcluster/taskgraph/action.py). The decision task ID is used to download the full-task-graph file along with the list of exisiting tasks.
+
+Based on the set of task labels requested, the full-task-graph is simplified to leave just the nodes requested along with its dependencies. After this, the graph goes through an optimization procedure where all nodes present in the original push (procured from the task-to-label file in the decision task) are removed unless specially requested by the user.
+
+Once the graph is optimized, the dependencies are replaced with appropriate task IDs and TaskCluster schedules this graph in the same push. The requested jobs then show up on Treeherder.
