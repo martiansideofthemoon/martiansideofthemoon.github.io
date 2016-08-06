@@ -4,7 +4,7 @@ title:  "Code of GSoC 2016 - Add TaskCluster Jobs in Treeherder"
 date:   2016-07-20 00:39:55 +0530
 tags: gsoc
 ---
-This blogpost has a list of all patches and pull requests that were merged for the success of the GSoC project. There is also a developer's guide on using this new feature.
+This blogpost has a list of all patches and pull requests that were merged for the success of the GSoC project. There is also a [developer's guide](https://wiki.mozilla.org/ReleaseEngineering/TryServer#How_to_push_to_try) on using this new feature. Besides this, a [technical blog]({% post_url 2016-07-20-how-i-added-tc-jobs %}) has been added.
 
 This feature is **COMPLETE** and **WORKING**. There are a few follow up bugs which I will mention in this blogpost and were not strictly a part of the project.
 

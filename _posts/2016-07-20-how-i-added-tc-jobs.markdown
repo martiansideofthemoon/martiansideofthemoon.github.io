@@ -5,7 +5,7 @@ date:   2016-07-20 23:00:55 +0530
 tags: gsoc
 ---
 
-This is a technical blog and describes the technical details behind the GSoC project. In case you wish to see a developer's guide to **use** this feature only, kindly refer to this.
+This is a technical blog and describes the technical details behind the GSoC project. In case you wish to see a [developer's guide](https://wiki.mozilla.org/ReleaseEngineering/TryServer#How_to_push_to_try) to **use** this feature only, kindly refer to this. Lastly, there is a [post]({% post_url 2016-07-19-gsoc-code-review %}) with a list of all the PRs in the project.
 
 ## Treeherder
 
