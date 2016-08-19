@@ -11,7 +11,7 @@ The entire project has been hosted on a private repository on Github for now. **
 
 ## Features
 
-All drawings are done on a 512 x 512 black canvas.
+All drawings are done on a 1024 x 640 black canvas.
 This program can draw **lines**, **triangles**, of **any color and thickness**. It has an **eraser** function which paints in the background color. There is a **fill** feature, which emulates any drawing software's Paint Bucket function. Lastly, there is a feature to save your current drawing. This is saved in a vector format, and can be loaded back into the software to reproduce the painting.
 
 Here's a painting of stars on a blue backdrop
@@ -47,3 +47,7 @@ On pressing `Load`, the file is read and divided into op_codes and inputs. The i
 * There is a need to have an UNDO function. This is easy to implement due to the list structure that has been used to store operations.
 * There should be a function to draw circles and ellipses.
 * The eraser is not very useful in the current implementation.
+
+## Finally, an ode to Rio 2016!
+
+![rio]({{ site.url }}/assets/rio.png)
