@@ -44,7 +44,8 @@ Three cameras have been setup, a first person view, a third person view and a fi
 We developed a basic API to add textures to a certain section of any of the surfaces. Here we have added a Mona Lisa painting on the wall and a wooden floor texture on the floor.
 
 These images were loaded from bitmap images. Very large images were causing a lot of lag while trying to move the cycle.
-Additionally, a striped texture has been added to two cylinders of the frame of the cycle. Here is the texture added for reference.
+
+Additionally, a striped texture has been added to two cylinders of the frame of the cycle. Here is the texture added for reference. This is quite evident in the first person view.
 
 ![grad]({{ site.url }}/assets/RedWhiteStripe.jpg)
 
