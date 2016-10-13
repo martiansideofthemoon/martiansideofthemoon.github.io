@@ -35,9 +35,9 @@ The lighting code has been integrated with the `Assembly.cpp` classes.
 
 Three cameras have been setup, a first person view, a third person view and a fixed view close to the top of the ceiling (as you saw earlier). Here are the first and third person views.
 
-![cycle_first]({{ site.url }}/assets/cycle_first.png)
+![cyclefirst]({{ site.url }}/assets/cycle_first.png)
 
-![cycle_third]({{ site.url }}/assets/cycle_third.png)
+![cyclethird]({{ site.url }}/assets/cycle_third.png)
 
 ## Textures
 
