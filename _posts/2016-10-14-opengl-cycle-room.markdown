@@ -46,4 +46,5 @@ We developed a basic API to add textures to a certain section of any of the surf
 These images were loaded from bitmap images. Very large images were causing a lot of lag while trying to move the cycle.
 Additionally, a striped texture has been added to two cylinders of the frame of the cycle. Here is the texture added for reference.
 
-![grad]({{ site.url }}/assets/grad.bmp)
+![grad]({{ site.url }}/assets/RedWhiteStripe.jpg)
+
