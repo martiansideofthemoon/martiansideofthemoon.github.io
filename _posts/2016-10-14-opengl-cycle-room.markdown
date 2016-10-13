@@ -15,7 +15,7 @@ Here is the final output produced in fixed camera mode.
 
 ![cycle4]({{ site.url }}/assets/cycle4.png)
 
-I now go about to describe the basic implementation details. This article reuses the terminology in the previous article.
+I now go about to describe the basic implementation details. This article reuses the terminology in the previous [article]({% post_url 2016-09-28-opengl-cycle %}).
 
 ## The Room
 
