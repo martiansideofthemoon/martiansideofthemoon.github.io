@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From Zero to Trusted! - StackOverflow"
+title:  "From Zero to Established! - StackOverflow"
 date:   2016-12-22 06:00:55 +0530
 tags: stackoverflow
 ---
@@ -38,7 +38,7 @@ I kept a goal of reaching a 1000 points by the end of the year. Bit by bit, I wa
 
 All seemed well, and it looked like I will just manage to reach my target. Until this [question](http://stackoverflow.com/questions/41152287/print-out-per-each-sublist-items-at-time). A 50 point bounty, and a reasonably simple question. The best part? There was no answer to it. I spent the next half an hour drafting the best possible answer and it worked out! I won the bounty and got an additional 75 points. I was very close now.
 
-The next day, I wrote 5-6 answers, all of which were accepted and received 1 or 2 upvotes. I sailed through my goal and I was awarded the title of a "Trusted User"!
+The next day, I wrote 5-6 answers, all of which were accepted and received 1 or 2 upvotes. I sailed through my goal and I was awarded the title of a "Established User"!
 
 ## What's Next?
 
