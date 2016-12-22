@@ -24,7 +24,7 @@ StackOverflow can be very intimidating at first. More so for me, as I'd received
 
 I've been a member of StackOverflow for over a year. In the beginning, I got a large number of downvotes and I was banned from asking new questions. It was just recently (November), that I was allowed to ask a question, which was well-received. Here's what I was doing wrong earlier -
 
-* **Low Quality Questions** - Now as a contributor, I understand which questions are good and fun to answer and which are not. Well researched, minimal snippet, well formatted questions. I was doing *none* of that. Here's a great article to read - [http://stackoverflow.com/help/how-to-ask How to Ask?].
+* **Low Quality Questions** - Now as a contributor, I understand which questions are good and fun to answer and which are not. Well researched, minimal snippet, well formatted questions. I was doing *none* of that. Here's a great article to read - [How to Ask?](http://stackoverflow.com/help/how-to-ask).
 * **Unrelated Answers** - DO NOT answer a question you do not know, even if you might have done the same thing in a different language. You *may* leave it as a comment, but that's not an answer and it deserves downvotes. There is a review queue for answers by newer users and these answers are thoroughly screened.
 * **No Tags** - I didn't have any particular tag in mind, and that's why I felt every question was so difficult. It's better to have a more systematic approach and answer in what you know best.
 
