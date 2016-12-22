@@ -28,7 +28,7 @@ I've been a member of StackOverflow for over a year. In the beginning, I got a l
 * **Unrelated Answers** - DO NOT answer a question you do not know, even if you might have done the same thing in a different language. You *may* leave it as a comment, but that's not an answer and it deserves downvotes. There is a review queue for answers by newer users and these answers are thoroughly screened.
 * **No Tags** - I didn't have any particular tag in mind, and that's why I felt every question was so difficult. It's better to have a more systematic approach and answer in what you know best.
 
-So how did it start? This [question](http://stackoverflow.com/questions/40366430/best-way-to-vectorize-operation-having-input-and-output-history-dependence). I took extra care to ask the question in the best possible way, and it was well-received. I finally ended up answering it myself, taking inspiration from the other answer in the question]. I got two upvotes, and it was the best feeling ever.
+So how did it start? This [question](http://stackoverflow.com/questions/40366430/best-way-to-vectorize-operation-having-input-and-output-history-dependence). I took extra care to ask the question in the best possible way, and it was well-received. I finally ended up answering it myself, taking inspiration from the other answer in the question. I got two upvotes, and it was the best feeling ever.
 
 My endsems were over, and I had a VHDL project to complete. I decided to attack the VHDL questions and old un-answered Python questions. I ended up writing over 15 answers in the first week, and managed to grab a few upvotes / accepts. There was just one idea in mind, **maximize the quality**. It worked.
 
