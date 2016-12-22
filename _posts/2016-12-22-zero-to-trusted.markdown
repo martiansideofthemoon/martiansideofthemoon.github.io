@@ -7,7 +7,7 @@ tags: stackoverflow
 
 It's been a great winter month, and I've finally started my StackOverflow journey. I had a goal of reaching 1000 reputation by New Year's, but I've already surpassed it by 122 points (at this moment) with 9 days to go! StackOverflow has become an important part of my schedule.
 
-Here's is my profile - [martianwars](http://stackoverflow.com/users/5080995/martianwars?tab=profile).
+Here's is my profile - [martianwars](http://stackoverflow.com/users/5080995/martianwars).
 
 ## Getting Started
 
