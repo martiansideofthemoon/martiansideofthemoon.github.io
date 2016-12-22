@@ -43,7 +43,7 @@ The next day, I wrote 5-6 answers, all of which were accepted and received 1 or 
 ## What's Next?
 
 I'm not stopping so soon! I want to get to 10000 reputation (by the end of next year?) and become a "Moderator"! I will be trying to focus on the `tensorflow` and `numpy` tags, along with anything new I learn over the next few months.
-More importantly, I will try to answer "tumbleweeds", or questions which don't have any answer or comment. Over time, I do intend to moving to the harder questions, requiring siginificant time and research to solve.
+More importantly, I will try to answer "tumbleweeds", or questions which don't have any answer or comment. Over time, I do intend to move to the harder questions, requiring significant time and research to solve.
 
 ## Why should you StackOverflow?
 
