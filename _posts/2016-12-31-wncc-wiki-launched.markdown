@@ -39,7 +39,7 @@ My co-manager [Kumar Ayush](https://github.com/cheekujodhpur/), took efforts to 
 The last and perhaps most important step in *Building Grundy* has been its contributors. A lot of people, having nothing to do with WnCC directly, have made tremendous contributions to Grundy and we are so grateful (Check out [ROS](http://wncc-iitb.org/wiki/index.php/ROS) by the Mars Society, India for instance).  
 Our team members have also contributed extensively as well, each of them writing articles in their area of interest. It's incredible that we received so many articles without a strong apparent incentive - truly, the power of online communities is un-parallel!
 
-Personally, it was fun managing the contributions coming in. I contributed more programming articles towards the beginning, but then took on the role on encouraging others to write articles. I'm really glad that most people who I requested readily complied and wrote an article in their area of expertise. I now intend to continue the admin's role and hope to add to Grundy everytime I try out something new!
+Personally, it was fun managing the contributions coming in. I contributed more programming articles towards the beginning, but then took on the role of encouraging others to write articles. I'm really glad that most people who I requested readily complied and wrote an article in their area of expertise. I now intend to continue the admin's role and hope to add to Grundy everytime I try out something new!
 
 ## What's Next?
 
