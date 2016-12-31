@@ -2,7 +2,7 @@
 layout: post
 title:  "Grundy - WnCC Wiki Launched!"
 date:   2016-12-31 06:00:55 +0530
-tags: wncc, wiki
+tags: wncc wiki
 ---
 
 After a month's hard work, we, The Web and Coding Club IIT Bombay, have launched our own wiki website - Grundy! Check it out on [http://wncc-iitb.org/wiki](http://wncc-iitb.org/wiki).
