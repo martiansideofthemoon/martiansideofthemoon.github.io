@@ -27,7 +27,7 @@ Grundy is contribution driven, and needs your active support to be well maintain
 
 ## Building Grundy
 
-It's been quite a month, and this was the second of the four projects I took up this winter (the first being [StackOverflow Contribution]({% post_url 2016-12-22-zero-to-established %}, and two more blogs coming up!)).  
+It's been quite a month, and this was the second of the four projects I took up this winter (the first being [StackOverflow Contribution]({% post_url 2016-12-22-zero-to-established %}), and two more blogs coming up!)).  
 It started off with an idea and a MediaWiki setup by my co-manager on our server. I was at first a bit uncertain about this, but I decided to go ahead and write an article on [Programming 101](http://wncc-iitb.org/wiki/index.php/Programming_101). It was then that I realized how useful this wiki can be to newcomers, who find it so hard to locate the easiest tutorials. It was a great platform to jot down all our knowledge and build some lists of community projects and resources.
 
 Soon we started building it up page by page. First, a few basic articles on general topics like [Game Development](http://wncc-iitb.org/wiki/index.php/Game_Development), [Web Development](http://wncc-iitb.org/wiki/index.php/Web_Development) etc. Then a little digression to build up [Community Resources](http://wncc-iitb.org/wiki/index.php/Community_Resources), [Community Projects](http://wncc-iitb.org/wiki/index.php/Community_Projects) and [GSoC Projects](http://wncc-iitb.org/wiki/index.php/GSoC_Projects). Finally, a large number of [Software Library Guides](http://wncc-iitb.org/wiki/index.php/Software_Library_Guides) and the [Contribution Guide](http://wncc-iitb.org/wiki/index.php/Contribution_Guide) mentioned earlier.
