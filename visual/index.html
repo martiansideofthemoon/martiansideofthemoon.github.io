@@ -40,21 +40,21 @@ text {
         Loss Constant
       </td>
       <td>
-      <input id="ex1" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="1" data-slider-step="0.5" data-slider-value="14"/>
+      <input id="ex1" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="1" data-slider-step="0.5" data-slider-value="1"/>
       </td>
       </tr><tr>
       <td>
       Time Step
       </td>
       <td>
-      <input id="ex2" data-slider-id='ex2Slider' type="text" data-slider-min="0" data-slider-max="99" data-slider-step="1" data-slider-value="14"/>
+      <input id="ex2" data-slider-id='ex2Slider' type="text" data-slider-min="0" data-slider-max="99" data-slider-step="1" data-slider-value="0"/>
       </td>
       </tr><tr>
       <td>
       Epoch
       </td>
       <td>
-      <input id="ex3" data-slider-id='ex3Slider' type="text" data-slider-min="0" data-slider-max="49" data-slider-step="1" data-slider-value="14"/>
+      <input id="ex3" data-slider-id='ex3Slider' type="text" data-slider-min="0" data-slider-max="49" data-slider-step="1" data-slider-value="49"/>
       </td>
     </tr>
     <tr>
@@ -80,7 +80,6 @@ data2.common("ptb_0.5_prob.csv");
 var data3 = new Data();
 data3.common("ptb_0_prob.csv");
 var data = data1;
-document.getElementById("text").innerHTML = data.text_data;
 var slider = new Slider('#ex1', {
   formatter: function(value) {
     return 'Current value: ' + value;
@@ -121,6 +120,11 @@ slider3.on("change", function(slideEvt) {
   prob = data.probability[parseInt(slider3.element.value)][parseInt(slider2.element.value)];
   build_svg(prob);
 });
+var text = data.text_data;
+var html = "<p> " + text.substring(0, parseInt(slider2.element.value)+1) + "<strong><u><code>" +
+          text.substring(parseInt(slider2.element.value)+1,parseInt(slider2.element.value)+2) +
+          "</code></u></strong>" + text.substring(parseInt(slider2.element.value)+2) + "</p>";
+document.getElementById("text").innerHTML = html;
 var diameter = 500,
     format = d3.format(".5f"),
     color = d3.scaleOrdinal(d3.schemeCategory20c);
