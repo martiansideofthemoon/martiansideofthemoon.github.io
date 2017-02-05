@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.1/css/bootstrap-slider.min.css">
+<style>
+text {
+  font: 10px sans-serif;
+}
+#ex1Slider .slider-selection {
+  background: #00CC00;
+}
+#ex2Slider .slider-selection {
+  background: #CC0000;
+}
+#ex3Slider .slider-selection {
+  background: #0000CC;
+}
+.mytable>tbody>tr>td, .mytable>tbody>tr>th, .mytable>tfoot>tr>td, .mytable>tfoot>tr>th, .mytable>thead>tr>td, .mytable>thead>tr>th {
+    padding: 18px;
+}
+
+#text {
+  font-size: 20px;
+}
+</style>
+<head>
+
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+    </div>
+    <div class="col-sm-6">
+      <h3>Sliders</h3>
+      <table class="table mytable">
+      <tbody>
+      <tr>
+      <td>
+        Loss Constant
+      </td>
+      <td>
+      <input id="ex1" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="1" data-slider-step="0.5" data-slider-value="14"/>
+      </td>
+      </tr><tr>
+      <td>
+      Time Step
+      </td>
+      <td>
+      <input id="ex2" data-slider-id='ex2Slider' type="text" data-slider-min="0" data-slider-max="99" data-slider-step="1" data-slider-value="14"/>
+      </td>
+      </tr><tr>
+      <td>
+      Epoch
+      </td>
+      <td>
+      <input id="ex3" data-slider-id='ex3Slider' type="text" data-slider-min="0" data-slider-max="49" data-slider-step="1" data-slider-value="14"/>
+      </td>
+    </tr>
+    <tr>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    <div class="container" id="text"></div>
+  </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="http://underscorejs.org/underscore.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.1/bootstrap-slider.min.js"></script>
+<script src="process.js"></script>
+<script>
+var data1 = new Data();
+data1.common("ptb_1_prob.csv");
+var data2 = new Data();
+data2.common("ptb_0.5_prob.csv");
+var data3 = new Data();
+data3.common("ptb_0_prob.csv");
+var data = data1;
+document.getElementById("text").innerHTML = data.text_data;
+var slider = new Slider('#ex1', {
+  formatter: function(value) {
+    return 'Current value: ' + value;
+  }
+});
+slider.on("change", function(slideEvt) {
+  new_loss = slider.element.value;
+  if (new_loss == 0) {
+    data = data3;
+  } else if (new_loss == 0.5) {
+    data = data2;
+  } else {
+    data = data1;
+  }
+  prob = data.probability[parseInt(slider3.element.value)][parseInt(slider2.element.value)];
+  build_svg(prob);
+});
+var slider2 = new Slider('#ex2', {
+  formatter: function(value) {
+    return 'Current value: ' + value;
+  }
+});
+slider2.on("change", function(slideEvt) {
+  text = data.text_data;
+  html = "<p> " + text.substring(0, parseInt(slider2.element.value)+1) + "<strong><u><code>" +
+          text.substring(parseInt(slider2.element.value)+1,parseInt(slider2.element.value)+2) +
+          "</code></u></strong>" + text.substring(parseInt(slider2.element.value)+2) + "</p>";
+  document.getElementById("text").innerHTML = html;
+  prob = data.probability[parseInt(slider3.element.value)][parseInt(slider2.element.value)];
+  build_svg(prob);
+});
+var slider3 = new Slider('#ex3', {
+  formatter: function(value) {
+    return 'Current value: ' + value;
+  }
+});
+slider3.on("change", function(slideEvt) {
+  prob = data.probability[parseInt(slider3.element.value)][parseInt(slider2.element.value)];
+  build_svg(prob);
+});
+var diameter = 500,
+    format = d3.format(".5f"),
+    color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+var bubble = d3.pack()
+    .size([diameter, diameter])
+    .padding(1.5);
+
+function build_svg(data) {
+  d3.select(".col-sm-6").select("svg").remove();
+  var svg = d3.select(".col-sm-6").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+    .attr("class", "bubble");
+  var root = d3.hierarchy(classes(data))
+      .sum(function(d) { return d.value; })
+      .sort(function(a, b) { return b.value - a.value; });
+
+  bubble(root);
+  var node = svg.selectAll(".node")
+      .data(root.children)
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("title")
+      .text(function(d) { return d.data.className + ": " + format(d.value); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) {
+        return color(d.data.className);
+      });
+
+  node.append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.data.className.substring(0, d.r / 3); });
+  d3.select(self.frameElement).style("height", diameter + "px");
+}
+
+// Returns a flattened hierarchy containing all leaf nodes under the root.
+function classes(root) {
+  var classes = [];
+
+  function recurse(name, node) {
+    if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+    else classes.push({packageName: name, className: node.name, value: node.size});
+  }
+
+  recurse(null, root);
+  return {children: classes};
+}
+
+build_svg(data.probability[0][0]);
+
+
+</script>
