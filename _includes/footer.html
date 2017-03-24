@@ -12,6 +12,17 @@
         </ul>
       </div>
 
+      <div class="footer-col footer-col-2">
+        <!-- <p>{{ site.description }}</p> -->
+        <ul class="social-media-list">
+        {% if site.stackoverflow %}
+          <li>
+            {% include icon-stackoverflow.html username=site.stackoverflow %}
+          </li>
+        {% endif %}
+        </ul>
+      </div>
+
       <div class="footer-col footer-col-3">
         <ul class="social-media-list">
           {% if site.github_username %}
@@ -25,17 +36,6 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <!-- <p>{{ site.description }}</p> -->
-        <ul class="social-media-list">
-        {% if site.stackoverflow %}
-          <li>
-            {% include icon-stackoverflow.html username=site.stackoverflow %}
-          </li>
-        {% endif %}
         </ul>
       </div>
     </div>
