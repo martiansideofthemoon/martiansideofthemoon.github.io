@@ -14,5 +14,8 @@ url: "http://martiansideofthemoon.github.io" # the base hostname & protocol for 
 github_username:  martiansideofthemoon
 stackoverflow: 5080995/martianwars
 
+footer-links-active:
+  stackoverflow: true
+
 # Build settings
 markdown: kramdown
