@@ -25,17 +25,14 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-
-          {% if site.stackoverflow %}
-          <li>
-            {% include icon-stackoverflow.html username=site.stackoverflow %}
-          </li>
-          {% endif %}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <p>{{ site.description }}</p>
+      <div class="footer-col footer-col-3">
+        <!-- <p>{{ site.description }}</p> -->
+        {% if site.stackoverflow %}
+            {% include icon-stackoverflow.html username=site.stackoverflow %}
+        {% endif %}
       </div>
     </div>
 
