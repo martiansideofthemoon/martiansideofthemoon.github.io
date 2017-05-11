@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "A Thousand Kilometres!"
+date:   2017-05-11 16:00:55 +0530
+tags: cycling
+---
+
+It's summertime and I think I am back to writing blogs after a long drought. In my blogpost about [Grundy]({% post_url 2016-12-31-wncc-wiki-launched %}) I mentioned work on four projects, the first two being [StackOverflow Contribution]({% post_url 2016-12-22-zero-to-established %}) and [Grundy]({% post_url 2016-12-31-wncc-wiki-launched %}). My third project was a *fitness* project, a personal challenge which I started in the end of September, 2016.
+
+On 7th of January, 2017, I successfully cycled 1000 tracked kilometres in 90 days, completing 4 months of an epic project.
+
+## Cycling
+
+Cycling has always been a fun way to get around. It's not very exhausting, quick and an excellent way of getting to know what's going on in a campus. It's also a good time to introspect and think about challenging techinical problems (only in traffic-free regions!). Last summer I'd purchased a [BTWIN MyBike](https://www.snapdeal.com/product/btwin-my-bike/639052040129). Midnight campus cycling turned out to be my favourite way of getting around the scorching summer heat. I started tracking my rides using a GPS app [Runkeeper](https://runkeeper.com/).
+
+On a erratic schedule, I was soon trying to beat my own best average speeds, duration and distance. All this came to a sudden stop due to a small accident and the annual monsoon season.
+
+![cycle]({{ site.url }}/assets/cycle.jpg)
+
+## The Challenge
+
+Midway through my fifth semester when the clouds were finally clearing up, I restarted my cycling trips - mostly leisure evening rides on the banks of the serene Powai Lake with the backdrop of the setting sun. I finally made up my mind to make this a *fitness routine*, something I'd never done before.
+
+So it started - a long journey of riding 1000 *tracked* kilometres in a span of 100 days. This would not include any untracked cycle rides, such as the daily commute to the academic area. I didn't want to be too rigid in my first fitness routine, so 10 KM / day sounded fairly reasonable. Due to an erratic academic schedule, I decided not to be stringent about completing exactly 10 KM everyday, but rather focus on completing the lump sum over 100 days. I decided to ignored all days where I would be off-campus for more than 24 hours at a stretch or extremely sick.
+
+## Getting There
+
+The ever-demanding IIT schedule has a lot of exams, and I knew it would be difficult to exercise a day before exams. So I decided to stay ahead of the schedule. By completing 13-14 KM / day, I would gain a free day every 3 days. I stuck to cycling in the IIT campus, simply because a no-traffic region is safer and a lot quicker.
+
+Three simple things really made all the difference (when I compare this routine with all my previous failed attempts) -
+
+* **Tracking** - I continued using [Runkeeper](https://runkeeper.com/), since it provided a very accurate measure of distance travelled. I would analyse the speed and elevation graphs figuring out the best ways to complete kilometres quickly.
+
+![runkeeper]({{ site.url }}/assets/runkeeper.png)
+
+* **Daily Planning** - Before every session, I would approximately decide the number of kilometres I intend to ride. This would primarily depend on my overall fatigue level and academic schedule for the day. With Runkeeper's ride map, I'd soon figured out the paths in IIT I should take to exactly complete those many kilometres. Quite surprisingly, on more than 90% of the trips, I stuck to my plan.
+
+* **Whiteboard** - Using a whiteboard is what really kept me motivated to keep going. I maintained a very simple statistic, *Kilometres Left* vs *Days Left*. I would update this everyday, after every ride. My curious wingmates soon discovered what this statistic meant, and I soon had an additional pressure (drive, rather) to show them a good statistic every day.
+
+## Hurdles
+
+With a good plan and achievable target, I did not expect the routine to be super hard. However, some un-expected hurdles popped up throughout the journey.
+
+* **Street Dogs** - *The nights are dark and full of terrors*. These mad dogs are going to chase you to death. I had to really restrict the routes of my midnight rides to avoid street dogs. Luckily, I got pretty familiar with their activity and behaviour after 20 days and I kept caution.
+
+* **Rain** - A thunderstorm can really ruin your plans. On atleast a couple of occasions, a thunderstorm ruined a 20KM plan, requiring a lot of covering up in the next few days.
+
+* **Home Trips & Illness** - While I did not count these days, trips to Pune would ruin the momentum, since I rarely exercised while at home. I generally ended up wasting a day or two with 5KM rides to get back on track. I also fell quite ill once in the end of October, another roadblock in the routine.
+
+* **Doing it *Daily*** - Yeah, it's harder than it seemed. While a day or two is easy, it gets really tiring without a day's break. The harder part - winning the mental dilemma of staying in a cozy bed vs sweating it out, daily.
+
+## The Journey
+
+While staying on track was hard at first, I soon became accustomed to a daily cycle ride. It was a time of the day I would look forward to, a break from the stressful academic life. By day#30 I was so used to it that I even cycled the day before each of my endsems, light 5-7KM leisure rides, and it helped my exam preparation!
+
+I was three days ahead of my schedule until my winter vacations started. Relieved from my academic load, I covered a lot of KM in the holidays. By the day before my finale, I had 24KM left to cover in 11 days.
+
+On the final day, I broke my distance record for the routines, covering all 24KM in a single session. As a celebration I bought a Cadbury Silk Oreo, and ate the whole bar at once. It was a job well done, and an awesome culmination to a 90 day journey.
+
+## What's Next?
+
+Well, I've never really gotten back to a *fitness* routine after this. I've tried walking / running and restarting cycling, but it's been as erratic as ever. Unfortunately, my sixth semester was too hectic.
+
+I'm hoping to relive these golden days sometime soon in the future (perhaps this summer). While starting something like this takes a lot of mental determination, I atleast now know that I've done it once before, and it won't be too hard to do again!
