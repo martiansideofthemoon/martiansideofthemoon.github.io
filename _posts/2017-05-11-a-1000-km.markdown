@@ -13,7 +13,7 @@ On 7th of January, 2017, I successfully cycled 1000 tracked kilometres in 90 day
 
 Cycling has always been a fun way to get around. It's not very exhausting, quick and an excellent way of getting to know what's going on in a campus. It's also a good time to introspect and think about challenging techinical problems (only in traffic-free regions!). Last summer I'd purchased a [BTWIN MyBike](https://www.snapdeal.com/product/btwin-my-bike/639052040129). Midnight campus cycling turned out to be my favourite way of getting around the scorching summer heat. I started tracking my rides using a GPS app [Runkeeper](https://runkeeper.com/).
 
-On a erratic schedule, I was soon trying to beat my own best average speeds, duration and distance. All this came to a sudden stop due to a small accident and the annual monsoon season.
+On an erratic schedule, I was soon trying to beat my own best average speeds, duration and distance. All this came to a sudden stop due to a small accident and the annual monsoon season.
 
 ![cycle]({{ site.url }}/assets/cycle.jpg)
 
@@ -21,7 +21,7 @@ On a erratic schedule, I was soon trying to beat my own best average speeds, dur
 
 Midway through my fifth semester when the clouds were finally clearing up, I restarted my cycling trips - mostly leisure evening rides on the banks of the serene Powai Lake with the backdrop of the setting sun. I finally made up my mind to make this a *fitness routine*, something I'd never done before.
 
-So it started - a long journey of riding 1000 *tracked* kilometres in a span of 100 days. This would not include any untracked cycle rides, such as the daily commute to the academic area. I didn't want to be too rigid in my first fitness routine, so 10 KM / day sounded fairly reasonable. Due to an erratic academic schedule, I decided not to be stringent about completing exactly 10 KM everyday, but rather focus on completing the lump sum over 100 days. I decided to ignored all days where I would be off-campus for more than 24 hours at a stretch or extremely sick.
+So it started - a long journey of riding 1000 *tracked* kilometres in a span of 100 days. This would not include any untracked cycle rides, such as the daily commute to the academic area. I didn't want to be too rigid in my first fitness routine, so 10 KM / day sounded fairly reasonable. Due to an erratic academic schedule, I decided not to be stringent about completing exactly 10 KM everyday, but rather focus on completing the lump sum over 100 days. I decided to ignore all days where I would be off-campus for more than 24 hours at a stretch or extremely sick.
 
 ## Getting There
 
