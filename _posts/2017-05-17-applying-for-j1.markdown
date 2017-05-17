@@ -26,10 +26,15 @@ In my case, TTIC was having issues with the SEVIS portal which delayed this by 2
 This step was extremely smooth in my case, and I did it on 21st April, the day after I received my SEVIS ID.
 
 * **DS-160** - Having generated a SEVIS ID, one can go ahead and fill up the non-immigrant visa application form, the **DS-160** [here](https://ceac.state.gov/genniv/). This is a very long form with a few confusing fields and takes up to an hour to complete. Luckily, the portal allows you to save the half-complete versions locally and on its server (upto 30 days). This [guide](http://www.immihelp.com/visas/ds-160-usa-visa-form-guide.html) is quite useful. In general, try to stick to information given on your passport as far as possible. Here are some confusing fields and my responses -
+
 ..1. *National Identification Number, U.S. Social Security Number, U.S. Taxpayer ID Number* - I filled "DOES NOT APPLY" for each of them.
+
 ..2. *Address where you will stay in the U.S.* - I filled in my institute's address since I did not have a confirmed accomadation at the moment I was filling the form.
+
 ..3. *Family Information* - I stuck to the name of my parents given on the back cover of my passport rather than theirs.
+
 ..4. *Relationship to You* (US Contact Information) - I filled this as "OTHER". Under the *Travel Information* section, I filled "HOST INSTITUTION".
+
 ..5. *Do you intend to study in the U.S.?* - I filled "YES", since I'm a short term scholar. I filled my course of study as "COMPUTER SCIENCE".
 
 I finished my DS-160 form on 21st April (The SEVIS ID is needed to complete it). Make sure you double-check all your details, since you will not be allowed to edit this form again. A **DS-160 confirmation** page will be generated, which must be carried to the interview. A ** DS-160 confirmation number* is mentioned in the confirmation page which is used in the next step.
