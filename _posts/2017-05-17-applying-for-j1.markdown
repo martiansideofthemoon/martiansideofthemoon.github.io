@@ -47,6 +47,8 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
 
   I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon. (in Mumbai)
 
+*Note - In case you make a mistake during any of the payment steps, feel free to call the customer care service mentioned on the website, they are very helpful.*
+
 ## Documents
 
 From 24th April to 14th May, I collected the documents that could be potentially needed for the biometrics / interview. In this section I'll list all these documents, along with a reason for carry it. I've added a *(Biometrics / Interview / Collection)* for all documents that were actually used in the whole process. The official checklist is given [here](https://j1visa.state.gov/participants/how-to-apply/interviews-documents/).
