@@ -2,7 +2,7 @@
 layout: post
 title:  "ECG Analysis"
 date:   2017-05-17 10:00:55 +0530
-tags: visa info
+tags: ecg dsp
 ---
 
 *(With inputs from [Karan Chadha](https://www.facebook.com/karanchadha005) and [Abhin Shah](https://www.facebook.com/profile.php?id=100006442563676))*.
