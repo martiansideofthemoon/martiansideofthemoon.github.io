@@ -59,7 +59,7 @@ From 24th April to 14th May, I collected the documents that could be potentially
 
 * **SEVIS I-901 Confirmation** *(Interview)* - While not asked for by the interview officer, I was asked to show this while queuing for the interview.
 
-* **DS-160 Confirmation** *(Biometrics)* - This is just two pages, not the entire DS-160 entries. It need not be a color printout.
+* **DS-160 Confirmation** *(Biometrics + Collection)* - This is just two pages, not the entire DS-160 entries. It need not be a color printout.
 
 * **Appointment Letter** *(Biometrics + Collection)* - Make sure the barcode is clearly visible. Read the instructions given carefully.
 
@@ -78,6 +78,8 @@ From 24th April to 14th May, I collected the documents that could be potentially
 * **(2x2 inches) Photograph** - This wasn't needed, but is listed in the official checklist.
 
 ## Interview Preparation
+
+Most of the interview questions are pretty standard. With the above documents, you have a proof of nearly everything that could be asked for. [Here](https://www.internationalstudent.com/immigration/j1-student-visa/j1-visa-interview/) is a list of common questions. When asked about which project you are working on, **try not to** use any term mentioned in the [Technlogical Alert List](http://www.bu.edu/isso/files/pdf/tal.pdf), since this is the most common reason for a [221(g)](https://redbus2us.com/the-beast-called-221g-process-faqs/). Luckily, J-1's are rarely put on hold.
 
 ## Biometrics
 
@@ -108,3 +110,7 @@ Only my **Passport** and **DS-2019** was needed, though I was told to keep my **
 **Me**: *"No"*  
 **Officer**: *"Here you go! Congratulations, you can head straight to the exit."*  
 **Me**: *"Thank you!"*  
+
+## Collection
+
+My visa was processed on the same day (within 3 hours). I needed my **Aadhar Card** and **its xerox copy** to collect my visa at the Visa Application Center. I also needed to show my **Appointment Letter** and **DS-160 Confirmation** as a proof. Quite happy to get back my visa on the same day!
