@@ -88,3 +88,23 @@ Finally, on the day of biometrics I had to visit the VFS Application Center. *Do
 Unlike the biometrics, I recommend you to arrive earlier than your scheduled time, especially if you are in the first slot for the day. There is a huge queue for the interview, (roughly 400 people per slot), and it works on a first-come-first-serve basis. Several people managed to leave the Consulate before 9:00AM, while I had to wait for nearly 1 hour 30 minutes since I arrived at 8:45AM, and was behind in the queue.
 
 Only my **Passport** and **DS-2019** was needed, though I was told to keep my **SEVIS Confirmation** in hand at the venue. After a long queue and biometric check, I finally had my interview with the consulate officer. Here is how it went,
+
+**Me**: *"Good morning!"*  
+**Officer**: *"Morning. Can I have your I-20 please?"*  
+**Me**: *"I'm a J-1 applicant, do you mean DS-2019?"*  
+**Officer**: *"Yes, DS."*  
+*(I hand in DS-2019 and passport)*  
+**Officer**: *"So, are you a student? Which year are you in?"*  
+**Me**: *"Yes, I'm a senior undergraduate studying here at Mumbai."*  
+**Officer**: *"What's your project on?"*  
+**Me**: *"Natural Language Processing."*  
+**Officer**: *"Sorry, what?"*  
+**Me**: *"Computer algorithms to analyse language and text."*  
+**Officer**: *"Wow! How long will you be in the US?"*  
+**Me**: *"8 weeks."*  
+**Officer**: *"Who is funding this trip?"*  
+**Me**: *"TTIC is paying, and some personal funds."*  
+**Officer**: *"Have you received a copy of your fundamental rights in US?"*  
+**Me**: *"No"*  
+**Officer**: *"Here you go! Congratulations, you can head straight to the exit."*  
+**Me**: *"Thank you!"*  
