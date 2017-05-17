@@ -93,13 +93,13 @@ Only my **Passport** and **DS-2019** was needed, though I was told to keep my **
 **Officer**: *"Morning. Can I have your I-20 please?"*  
 **Me**: *"I'm a J-1 applicant, do you mean DS-2019?"*  
 **Officer**: *"Yes, DS."*  
-*(I hand in DS-2019 and passport)**  
+*(I hand in DS-2019 and passport)*  
 **Officer**: *"So, are you a student? Which year are you in?"*  
 **Me**: *"Yes, I'm a senior undergraduate studying here at Mumbai."*  
 **Officer**: *"What's your project on?"*  
 **Me**: *"Natural Language Processing."*  
 **Officer**: *"Sorry, what?"*  
-*Me*: *"Computer algorithms to analyse language and text."*  
+**Me**: *"Computer algorithms to analyse language and text."*  
 **Officer**: *"Wow! How long will you be in the US?"*  
 **Me**: *"8 weeks."*  
 **Officer**: *"Who is funding this trip?"*  
