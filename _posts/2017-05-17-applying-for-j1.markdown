@@ -19,33 +19,33 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
 
 * **DS-2019 / DS-7002 and SEVIS Registration** - This step has to be completed by your sponsor, and they generally ask you to fill up an internal information form. To assist them, you will need to provide a **bank statement**, as proof of your personal funds. Your sponsor must register on [SEVIS](https://egov.ice.gov/sevis/). While doing so, an unique SEVIS ID is generated which has to be entered by you during all the following steps. (and hence you cannot proceed with your application without a SEVIS ID) Your sponsor will also generate a **DS-2019** document, having your SEVIS and funding details. In case you are travelling under an *intern* or *trainee* status, you will also receive a **DS-7002** document, which is a training plan. *These documents will be couriered to you and are needed for the interview!*.
 
-*  In my case, TTIC was having issues with the SEVIS portal which delayed this by 2-3 weeks. I finally received my SEVIS ID on 20th April and my DS-2019 arrived on 25th April by Fedex.
+  In my case, TTIC was having issues with the SEVIS portal which delayed this by 2-3 weeks. I finally received my SEVIS ID on 20th April and my DS-2019 arrived on 25th April by Fedex.
 
 * **SEVIS Fee (I901)** - Having received a SEVIS ID and program code (sent along with SEVIS ID, also mentioned on DS-2019), you need to fill the **SEVIS registration fee** of 180$ [here](https://www.fmjfee.com/) for the given SEVIS ID. You will need a credit card to complete this payment, and it generally completes immediately. A **SEVIS fee receipt** will be generated which might be needed for the interview. Most sponsors ask us to pay this ourselves, and reimburse the 180$ with the receipt.
 
-*  This step was extremely smooth in my case, and I did it on 21st April, the day after I received my SEVIS ID.
+  This step was extremely smooth in my case, and I did it on 21st April, the day after I received my SEVIS ID.
 
 * **DS-160** - Having generated a SEVIS ID, one can go ahead and fill up the non-immigrant visa application form, the **DS-160** [here](https://ceac.state.gov/genniv/). This is a very long form with a few confusing fields and takes up to an hour to complete. Luckily, the portal allows you to save the half-complete versions locally and on its server (upto 30 days). This [guide](http://www.immihelp.com/visas/ds-160-usa-visa-form-guide.html) is quite useful. In general, try to stick to information given on your passport as far as possible. Here are some confusing fields and my responses -
 
-*  1. *National Identification Number, U.S. Social Security Number, U.S. Taxpayer ID Number* - I filled "DOES NOT APPLY" for each of them.
+  1. *National Identification Number, U.S. Social Security Number, U.S. Taxpayer ID Number* - I filled "DOES NOT APPLY" for each of them.
 
-*  2. *Address where you will stay in the U.S.* - I filled in my institute's address since I did not have a confirmed accomadation at the moment I was filling the form.
+  2. *Address where you will stay in the U.S.* - I filled in my institute's address since I did not have a confirmed accomadation at the moment I was filling the form.
 
-*  3. *Family Information* - I stuck to the name of my parents given on the back cover of my passport rather than theirs.
+  3. *Family Information* - I stuck to the name of my parents given on the back cover of my passport rather than theirs.
 
-*  4. *Relationship to You* (US Contact Information) - I filled this as "OTHER". Under the *Travel Information* section, I filled "HOST INSTITUTION".
+  4. *Relationship to You* (US Contact Information) - I filled this as "OTHER". Under the *Travel Information* section, I filled "HOST INSTITUTION".
 
-*  5. *Do you intend to study in the U.S.?* - I filled "YES", since I'm a short term scholar. I filled my course of study as "COMPUTER SCIENCE".
+  5. *Do you intend to study in the U.S.?* - I filled "YES", since I'm a short term scholar. I filled my course of study as "COMPUTER SCIENCE".
 
-*  I finished my DS-160 form on 21st April (The SEVIS ID is needed to complete it). Make sure you double-check all your details, since you will not be allowed to edit this form again. A **DS-160 confirmation** page will be generated, which must be carried to the interview. A **DS-160 confirmation number** is mentioned in the confirmation page which is used in the next step.
+  I finished my DS-160 form on 21st April (The SEVIS ID is needed to complete it). Make sure you double-check all your details, since you will not be allowed to edit this form again. A **DS-160 confirmation** page will be generated, which must be carried to the interview. A **DS-160 confirmation number** is mentioned in the confirmation page which is used in the next step.
 
 * **MRV Fee** - Finally, with a completed DS-160 and SEVIS ID, you can go ahead and book your appointment. [This](http://www.ustraveldocs.com/in/) is the Indian portal to book VISA appointments. (Yeah I know, there are too many different portals, all of which are necessary to go through). After filling in some information, you will be asked to **pay a MRV fee** of 160$, (converted to INR), using a *NEFT transfer*. *This payment only completes in the time mentioned [here](https://en.wikipedia.org/wiki/National_Electronic_Funds_Transfer)*. Every applicant has a **Unique Beneficiary Account Number** in the Bank of America, which is used to identify the applicant. Once the MRV fee is received, (an email is sent as confirmation), you can go ahead and book your VISA appointment.
 
-*  In my case, 22nd April was the fourth Saturday of the month and the earliest my NEFT payment could be completed was Monday morning. I initiated my payment of 10880 INR on Sunday, 23rd April in the morning. It was received on 24th April at 10:00AM.
+  In my case, 22nd April was the fourth Saturday of the month and the earliest my NEFT payment could be completed was Monday morning. I initiated my payment of 10880 INR on Sunday, 23rd April in the morning. It was received on 24th April at 10:00AM.
 
 * **VISA Appointment** - Having completed the MRV fee payment, you can book your VISA appointment. The VISA appointment needs a biometric registration at a Visa Application Center, followed by an interview at a US Consulate. The biometrics are done on weekends as well, and cannot be done on the same day as the interview. There is generally a 15-20 day waiting period at the Mumbai US Consulate. Once the appointment is booked, an **appointment letter** is generated which contains the MRV fee receipt.
 
-*  I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon. (in Mumbai)
+  I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon. (in Mumbai)
 
 ## Documents
 
