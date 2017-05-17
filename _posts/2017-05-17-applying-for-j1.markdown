@@ -37,7 +37,7 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
 
   5. *Do you intend to study in the U.S.?* - I filled "YES", since I'm a short term scholar. I filled my course of study as "COMPUTER SCIENCE".
 
-  I finished my DS-160 form on 21st April (The SEVIS ID is needed to complete it). Make sure you double-check all your details, since you will not be allowed to edit this form again. A **DS-160 confirmation** page will be generated, which must be carried to the interview. A ** DS-160 confirmation number* is mentioned in the confirmation page which is used in the next step.
+  I finished my DS-160 form on 21st April (The SEVIS ID is needed to complete it). Make sure you double-check all your details, since you will not be allowed to edit this form again. A **DS-160 confirmation** page will be generated, which must be carried to the interview. A **DS-160 confirmation number** is mentioned in the confirmation page which is used in the next step.
 
 * **MRV Fee** - Finally, with a completed DS-160 and SEVIS ID, you can go ahead and book your appointment. [This](http://www.ustraveldocs.com/in/) is the Indian portal to book VISA appointments. (Yeah I know, there are too many different portals, all of which are necessary to go through). After filling in some information, you will be asked to **pay a MRV fee** of 160$, (converted to INR), using a *NEFT transfer*. *This payment only completes in the time mentioned [here](https://en.wikipedia.org/wiki/National_Electronic_Funds_Transfer)*. Every applicant has a **Unique Beneficiary Account Number** in the Bank of America, which is used to identify the applicant. Once the MRV fee is received, (an email is sent as confirmation), you can go ahead and book your VISA appointment.
 
@@ -45,5 +45,44 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
 
 * **VISA Appointment** - Having completed the MRV fee payment, you can book your VISA appointment. The VISA appointment needs a biometric registration at a Visa Application Center, followed by an interview at a US Consulate. The biometrics are done on weekends as well, and cannot be done on the same day as the interview. There is generally a 15-20 day waiting period at the Mumbai US Consulate. Once the appointment is booked, an **appointment letter** is generated which contains the MRV fee receipt.
 
-  I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon.
+  I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon. (in Mumbai)
 
+## Documents
+
+From 24th April to 14th May, I collected the documents that could be potentially needed for the biometrics / interview. In this section I'll list all these documents, along with a reason for carry it. I've added a *(Biometrics / Interview / Collection)* for all documents that were actually used in the whole process. The official checklist is given [here](https://j1visa.state.gov/participants/how-to-apply/interviews-documents/).
+
+* **Passport** *(Biometrics + Interview)* - Make sure the passport is valid for atleast 6 months after your intended travel. The passport is needed for both biometrics and interview.
+
+* **DS-2019** *(Interview)* - This should arrive by courier before your interview date. Make sure interviews are scheduled accordingly. This must be signed with the date and venue of the interview on the bottom of the front side.
+
+* **DS-7002** - I did not receive this since I was a *short-term scholar*.
+
+* **SEVIS I-901 Confirmation** *(Interview)* - While not asked for by the interview officer, I was asked to show this while queuing for the interview.
+
+* **DS-160 Confirmation** *(Biometrics)* - This is just two pages, not the entire DS-160 entries. It need not be a color printout.
+
+* **Appointment Letter** *(Biometrics + Collection)* - Make sure the barcode is clearly visible. Read the instructions given carefully.
+
+* **Alternate ID Proof (with Xerox)** *(Collection)* - This is needed to collect your passport. Use a government ID card, such as a Aadhar Card / PAN Card.
+
+* **Bank Statement / Income Tax Returns** - Make sure the statement reflects the personal funds value mentioned in the DS-2019. This document is a proof of personal funds, could be asked for the interview.
+
+* **Institute Offer Letter / DS-2019 information form** - This is a proof of the other information given on the DS-2019, including sponsor's funds.
+
+* **Bonafide Certificate, Transcripts, 10th/12th Marksheets and Pass Certificates, CV / Resume** - This is a proof of academic credentials, often asked for in the VISA needs additional processing.
+
+* **Air Tickets** - Proof of travel to the USA.
+
+* **Contract of Sublease** - Proof of stay in the USA.
+
+## Interview Preparation
+
+## Biometrics
+
+Finally, on the day of biometrics I had to visit the VFS Application Center. *Do not arrive more than 30 minutes before the appointment time*, they do not permit entry. The biometrics were pretty smooth, and only the **DS-160 Confirmation**, **Appointment Letter** and **Passport** was needed. It took me 10 minutes for the whole procedure, and I was out of the centre before 1:30PM, my scheduled appointment time!
+
+## Interview
+
+Unlike the biometrics, I recommend you to arrive earlier than your scheduled time, especially if you are in the first slot for the day. There is a huge queue for the interview, (roughly 400 people per slot), and it works on a first-come-first-serve basis. Several people managed to leave the Consulate before 9:00AM, while I had to wait for nearly 1 hour 30 minutes since I arrived at 8:45AM, and was behind in the queue.
+
+Only my **Passport** and **DS-2019** was needed, though I was told to keep my **SEVIS Confirmation** in hand at the venue.
