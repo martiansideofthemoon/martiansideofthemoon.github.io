@@ -1,7 +1,7 @@
 ---
 layout: post
-title:*  "Applying for a J-1 Visa"
-date:*   2017-05-17 06:00:55 +0530
+title:  "Applying for a J-1 Visa"
+date:   2017-05-17 06:00:55 +0530
 tags: visa info
 ---
 
