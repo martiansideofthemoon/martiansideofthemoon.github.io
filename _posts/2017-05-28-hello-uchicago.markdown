@@ -15,7 +15,7 @@ I arrived on 21st May after a comfortable 16 hour Air India flight. The [O'Hare 
 
 ![park]({{ site.url }}/assets/uchicago-park.jpg)
 
-## First Day
+## First Work Day
 I first visited TTIC on my second day (22nd May), for an HR orientation and a meeting with my advisors. TTIC is a small CS-oriented institute which is doing some amazing work in Machine Learning and CS Theory. After a short HR meeting, I finally met my advisors, [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](ttic.uchicago.edu/~kgimpel/) and [Karen Livescu](ttic.uchicago.edu/~klivescu), all of whom are working on speech and language processing. Since I had some setup work remaining, we decided to push our meeting for the next day. I attended a talk by [Aron Culotta](http://cs.iit.edu/~culotta/) at TTIC the same day before finally heading out to finish my setup chores. By evening, I was given a computer (with a cool GPU) to work on, access to the TTIC computation clusters and met up with all the other awesome people working in the [SLATTIC](ttic.uchicago.edu/~klivescu/SLATTIC/) group at TTIC.
 
 In the evening, I met my roommate [Arasu Arun](https://www.facebook.com/thearasuarun), who is also working at TTIC this summer on CS theory. Thus began a unqiue week of adventures of living truly on my own!
@@ -26,9 +26,8 @@ One of the highlights of this week has been the experience of living on my own. 
 ## The Good Parts
 * **Research Atmosphere** - The environment at TTIC is absolutely amazing. The whole instute has just about 25 professors, 40-45 PhD students, 10 administrative staff and 15 interns, so it's a really close knit group. There are reading groups, institute lectures, course lectures and group meetings every week, and I've spent most of my first week attending each of these research talks (I've attended roughly five in just 4 days!). While I find it hard to follow many of them (due to a limited ML background), it's inspiring to see good ideas being extensively discussed.
 
-I generally have lunch with the other people in [SLATTIC](ttic.uchicago.edu/~klivescu/SLATTIC/), so it's fun to discuss ideas with them and get to know about their backgrounds. In a week, I already feel close to a lot of [SLATTIC](ttic.uchicago.edu/~klivescu/SLATTIC/) members.
-
-I have a cubicle and a whiteboard to myself along with a printer next door, so it's pretty convenient for me to print research papers and immediately begin reading them in a printed format.
+  I generally have lunch with the other people in [SLATTIC](ttic.uchicago.edu/~klivescu/SLATTIC/), so it's fun to discuss ideas with them and get to know about their backgrounds. In a week, I already feel close to a lot of [SLATTIC](ttic.uchicago.edu/~klivescu/SLATTIC/) members.
+  I have a cubicle and a whiteboard to myself along with a printer next door, so it's pretty convenient for me to print research papers and immediately begin reading them in a printed format.
 
 * **Computation Infrastructure** - While I've not used this extensively yet, the clusters are pretty good for research work. The IT director at TTIC has setup a good automated system to schedule jobs making research a lot faster. I really should start using it soon! The internet speed is the best I've seen so far, reaching close to a 1 Gbps.
 
