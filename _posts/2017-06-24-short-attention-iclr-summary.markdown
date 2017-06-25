@@ -19,8 +19,10 @@ Hence, this paper ends by questioning the usefulness of complicated attention mo
 
 # Traditional Attention Models
 
-The main issue with traditional attention is evident from the equations, they try to squeeze three pieces of information in a single vector.
+The main issue with traditional attention is evident from the equations, they try to squeeze three pieces of information in a single vector. (If you haven't heard about attention models, you can head over to colah's [blog](http://distill.pub/2016/augmented-rnns/)). As depicted in the figure below, the paper assumes a fixed length attention span.
 
 ![model1]({{ site.url }}/assets/model1.png)
 
-<span style="color:red">$$a^2$$</span>
+**Notation** - $x_t$ depicts input vectors, $c_t$ depicts the LSTM hidden vector, $h_t$ depicts the LSTM output vectors, $r$ contains the attention information and $h*$ represents the final output vector (after attending to previous $h$ units). Pay close attention to $h_t$ in the following equations,
+
+$$\bold{M}_t = \tanh{W^YY_t + (W^hh_t)1^T}$$
