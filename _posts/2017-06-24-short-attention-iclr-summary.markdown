@@ -23,7 +23,7 @@ The main issue with traditional attention is evident from the equations, they tr
 
 ![model1]({{ site.url }}/assets/model1.png)
 
-**Notation** - $x_t$ depicts input vectors, $c_t$ depicts the LSTM hidden vector, $h_t$ depicts the LSTM output vectors, $r$ contains the attention information and $h*$ represents the final output vector (after attending to previous $h$ units).
+**Notation** - $x_t$ depicts input vectors, $c_t$ depicts the LSTM hidden vector, $h_t$ depicts the LSTM output vectors, $r$ contains the attention information and $h^*$ represents the final output vector (after attending to previous $h$ units).
 
 Pay close attention to $\color{blue}{h_i}$ in the following equations,
 
@@ -66,7 +66,7 @@ This finding motivates the *$N$-Gram RNN*, a simple structure which **always** a
 
 ![model3]({{ site.url }}/assets/model3.png)
 
-The LSTM outputs $N$ output vectors (or equivalently divides $\color{blue}{h_{t}}$ into $N-1$ parts, each of which encode information to help predict the $i^{th}$ (from $1$ to $N-1$) token of the future. It's a very simple neural network, and the four equations in each of the above models are replaced by,
+The LSTM outputs $N-1$ vectors (or equivalently divides $\color{blue}{h_{t}}$ into $N-1$ parts, each of which encode information to help predict the $i^{th}$ (from $1$ to $N-1$) token of the future. It's a very simple neural network, and the four equations in each of the above models are replaced by,
 
 $$\textbf{h}^{*}_{t} = \tanh(\textbf{W}^{N}[\color{blue}{h_{t}^{1}}...\color{red}{h_{t-i+1}^{i}} ... \color{green}{h_{t-N+2}^{N-1} }]^T), i \in \{1, 2, ... N-1\}$$
 
