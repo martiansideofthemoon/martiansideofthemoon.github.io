@@ -25,4 +25,4 @@ The main issue with traditional attention is evident from the equations, they tr
 
 **Notation** - $x_t$ depicts input vectors, $c_t$ depicts the LSTM hidden vector, $h_t$ depicts the LSTM output vectors, $r$ contains the attention information and $h*$ represents the final output vector (after attending to previous $h$ units). Pay close attention to $h_t$ in the following equations,
 
-$$\bold{M}_t = \tanh{W^YY_t + (W^hh_t)1^T}$$
+$$M_t = \tanh{W^Y\textbf{Y_t} + (W^h\color{red}{h_t})1^T}$$
