@@ -23,4 +23,4 @@ The main issue with traditional attention is evident from the equations, they tr
 
 ![model1]({{ site.url }}/assets/model1.png)
 
-$$a^2$$
+<span style="color:red">$$a^2$$</span>
