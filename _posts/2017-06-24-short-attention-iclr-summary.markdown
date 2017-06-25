@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frustratingly Short Attention Spans in NLM (ICLR 2017) - A Summary"
-date:   2017-05-28 10:00:55 +0530
+date:   2017-06-28 10:00:55 +0530
 tags: internship ttic
 ---
 
