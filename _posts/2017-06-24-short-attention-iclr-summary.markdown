@@ -36,9 +36,9 @@ In other words,
 *(Compute final vector using attention information and current output vector)*
 
 Quite clearly, the output vectors $\color{blue}{h_i}$ are being used in a three-fold role -  
-* **Keys** for comparison while computing attention vector.  
-* **Values** for computing $\textbf{r}_t$ from attention weights.  
-* Encode distribution for **prediction** of next token.
+* <span style="color:red">**Keys**</span> for comparison while computing attention vector.  
+* <span style="color:blue">**Values**</span> for computing $\textbf{r}_t$ from attention weights.  
+* Encode distribution for <span style="color:green">**prediction**</span> of next token.
 
 This motivates the *key-value* and the *key-value-prediction* model, which attempts to use different vectors (all output vectors of the LSTM) for each of the three roles.
 
