@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UChicago - Insight Summer Blog"
-date:   2017-06-27 10:00:55 +0530
+date:   2017-06-25 10:00:55 +0530
 tags: internship ttic chicago
 ---
 

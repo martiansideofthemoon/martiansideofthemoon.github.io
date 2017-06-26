@@ -46,11 +46,11 @@ This motivates the *key-value* and the *key-value-prediction* model, which attem
 
 As depicted in Figure 1(b) and 1(c) of the [paper](https://arxiv.org/abs/1702.04521), the LSTM produces multiple output vectors (or equivalently, divides $h_t$ into two or more parts). More concretely,
 
-* **Key-Value Attention** - A different vector is used to compute the attention vector. However, the same vector is still used for the values and predictions.
+* **<span style="color:red">Key</span>-<span style="color:blue">Value</span> Attention** - A different vector is used to compute the attention vector. However, the same vector is still used for the values and predictions.
 
 $$ \begin{align} \textbf{M}_t & = \tanh(\textbf{W}^Y[\color{red}{k_{t-L}} ... \color{red}{k_{t-1}}] + \textbf{W}^h[\color{red}{k_t} ... \color{red}{k_t}]) \\ \pmb{\alpha}_t & = softmax(\textbf{w}^T\textbf{M}_t) \\ \textbf{r}_t & = [\color{blue}{v_{t-L}} ... \color{blue}{v_{t-1}}]\pmb{\alpha}^T \\ \textbf{h}^{*}_t & = \tanh(\textbf{W}^r\textbf{r}_t + \textbf{W}^x\color{blue}{v_t}) \end{align} $$
 
-* **Key-Value-Prediction Attention** - A different vector is used for each of the three roles described above. More specifically,
+* **<span style="color:red">Key</span>-<span style="color:blue">Value</span>-<span style="color:green">Prediction</span> Attention** - A different vector is used for each of the three roles described above. More specifically,
 
 $$ \begin{align} \textbf{M}_t & = \tanh(\textbf{W}^Y[\color{red}{k_{t-L}} ... \color{red}{k_{t-1}}] + \textbf{W}^h[\color{red}{k_t} ... \color{red}{k_t}]) \\ \pmb{\alpha}_t & = softmax(\textbf{w}^T\textbf{M}_t) \\ \textbf{r}_t & = [\color{blue}{v_{t-L}} ... \color{blue}{v_{t-1}}]\pmb{\alpha}^T \\ \textbf{h}^{*}_t & = \tanh(\textbf{W}^r\textbf{r}_t + \textbf{W}^x\color{green}{p_t}) \end{align} $$
 
