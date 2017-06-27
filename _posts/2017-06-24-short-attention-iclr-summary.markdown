@@ -12,10 +12,10 @@ In my opinion, this is a very well written paper with strongly motivated ideas a
 
 ## Motivation
 
-This paper is primarily motivated by the shortcomings of the traditional attention mechanism proposed in the [Bahdanau et al.](https://arxiv.org/pdf/1409.0473.pdf) ICLR-2015 paper. It tries to improve the traditional attention mechanism with a couple of improved and more meaningful models in the context of [language modelling](https://en.wikipedia.org/wiki/Language_model).
+This paper is primarily motivated by the shortcomings of the traditional attention mechanism proposed in the [Bahdanau et al.](https://arxiv.org/pdf/1409.0473.pdf) ICLR-2015 paper. It tries to improve the traditional attention mechanism with a couple of more meaningful models in the context of [language modelling](https://en.wikipedia.org/wiki/Language_model).
 While implementing their new architecture, the authors notice a strange trend in the lengths of the attention spans (and hence the title) which motivates them to build a simple novel architecture, the "N-Gram Recurrent Neural Network", which achieves comparable performance to the more complicated attention models.
 
-Hence, this paper ends by questioning the usefulness of complicated attention models, and tries to highlight that today's state-of-the-art architectures suffer from a long term dependency issue.
+Hence, this paper ends by questioning the usefulness of complicated attention models, and tries to highlight that today's state-of-the-art architectures suffer from a long term dependency issue, especially in language modelling.
 
 ## Traditional Attention Models
 
