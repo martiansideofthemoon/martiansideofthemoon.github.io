@@ -4,6 +4,7 @@ title:  "Frustratingly Short Attention Spans (ICLR 2017) - A Summary"
 date:   2017-06-28 10:00:55 +0530
 tags: internship ttic
 mathjax: true
+comments: true
 ---
 
 Through this blogpost I attempt to summarise the key ideas highlighted in an [ICLR-2017](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1) accepted paper, Frustratingly Short Attention Spans in Neural Language Modelling, (read it [here](https://arxiv.org/abs/1702.04521)), by [Daniluk](https://www.linkedin.com/in/michaldaniluk91/?ppe=1) et al, of the University College London. You can read the official ICLR reviews on [OpenReview](https://openreview.net/forum?id=ByIAPUcee).
