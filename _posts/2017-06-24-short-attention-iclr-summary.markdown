@@ -82,6 +82,13 @@ This paper received a 7/10 in ICLR-2017 and was accepted for a poster presentati
 
 * There was a general consensus that a very thorough experimentation was conducted. The paper was well explained and they liked the idea of the $N$-Gram RNN baseline. The paper raises important questions about attention in neural networks.
 
+## Clarifications from Authors
+I contacted the authors to clarify a few questions raised during the reading group meeting at [SLATTIC](http://ttic.uchicago.edu/~klivescu/SLATTIC/). Here's a brief summary of their reply,
+
+* **BPTT** - There was a concern about the exact mechanism used for Back Propagation Through Time, since the unrolling was done only through a fixed number of timesteps. The input tensors have been broken into chunks of size `batch * bptt_steps * embedding_size`, which is used for all gradient calculations in that timestep. After a training step, the final LSTM hidden vectors produced are passed over as the initial hidden vectors for the next training step. (Unless there is a article break). Except this hidden vector, no information about the previous chunks are used during training.
+Higher `bptt_steps` values were tried, and produced marginal improvement in results, but the GPU memory constraints limited their experimentation.
+* **Short Attention Spans** - Figure 2(a) is a surprising set of results. In the author's words, *"We found that very surprising too. One criticism of our work is that the corpora we trained on might not really need long-range dependencies to learn a good language model -- or in other words, cases where such long-range dependencies are really needed are so rare that they don't provide enough training signal to actually learn a sensible attention mechanism. Check out this thread for the discussion - [Twitter](https://twitter.com/tallinzen/status/832174893152219136).*"
+
 ## Personal Opinions
 I personally agree with the comments on OpenReview and the conclusions drawn by the author, and they have done a great job with the explanations in the paper. I'm a bit skeptical about Figure 2(a), since I did not expect such a *small* variation across attention sizes. A window size of 1 is doing nearly as well as sizes of 5, 10 and 15, which puts a little doubt in my mind about the system. Nevertheless, I think this is great research work since,
 
@@ -89,4 +96,4 @@ I personally agree with the comments on OpenReview and the conclusions drawn by 
 
 * **Great / Fair Comparisons** - I think a good amount of care has been taken to ensure fair comparison between models. The rebuttal on [OpenReview](https://openreview.net/forum?id=ByIAPUcee) supports this.
 
-* **Simpler is Better** - Perhaps the part I liked best in this paper is the simplicity of their $N$-gram network idea. This is one of the first papers I've seen that tries to match its own model with a baseline model, raising crucial questions for the NLP community along the way.
+* **Simpler is Better** - Perhaps the part I liked best in this paper is the simplicity of their $N$-gram network idea. This is one of the first papers I've seen that tries to match its own model with a baseline model, raising crucial questions.
