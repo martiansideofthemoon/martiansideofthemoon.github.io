@@ -31,11 +31,12 @@ The beach was relatively clean and empty, thanks to the "[Versova Clean-Up](http
 
 ## Experience & Stats
 
-![stats-1]({{ site.url }}/assets/stats-1.png)
+![stats1]({{ site.url }}/assets/stats1.png)
 
-![beach]({{ site.url }}/assets/stats-2.png)
+![stats2]({{ site.url }}/assets/stats-2.png)
 
 All in all, it was a great cycling experience. We clocked a low speed, owing to the long cycle breakdown stops, traffic and Google Map checks. Nevertheless, it was surely the best weekend thus far this semester! This trip reminds me of weekends during the summer internship, where I'd explicitly allot time for non-work activities after weeklong planning. Alas, these plans rarely materialize back home in Mumbai. But whenever they do, we do crazy things, right from visiting [Byculla Zoo](https://en.wikipedia.org/wiki/Jijamata_Udyaan) (No, seriously DON'T go there) to biking across town in a rainstorm. So I tweet back to Ayush,
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last weekend&#39;s ride wasn&#39;t such a bad decision after all! <a href="https://twitter.com/kumarayush4ever">@kumarayush4ever</a> <a href="https://twitter.com/sandeshkalantre">@sandeshkalantre</a> <a href="https://twitter.com/hashtag/cycling?src=hash">#cycling</a> <a href="https://twitter.com/hashtag/biking?src=hash">#biking</a> <a href="https://twitter.com/hashtag/Mumbai?src=hash">#Mumbai</a> <a href="https://t.co/8aJImQClLE">https://t.co/8aJImQClLE</a></p>&mdash; Kalpesh Krishna (@kalpeshk2011) <a href="https://twitter.com/kalpeshk2011/status/907730730939273223">September 12, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
