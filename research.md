@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
 <!-- ## Indian Language Datasets
 
 As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releasing the dataset I used to train my neural network language models. These have been mined from Wikipedia and I hope this will help further research in language modelling for morphologically rich languages. The folder also contains the original PTB dataset.
