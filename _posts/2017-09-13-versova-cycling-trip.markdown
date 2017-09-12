@@ -9,8 +9,9 @@ I've generally been pretty skeptical about cycling outside the IIT campus in Mum
 
 Unfortunately, the weather Gods were relentless. Despite relatively clear skies after the recent [floods](https://en.wikipedia.org/wiki/2017_Mumbai_flood)), there was heavy downpour early in the morning. It was looking like another gloomy day until this tweet came along,
 
+<center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">About to take a wrong decision with <a href="https://twitter.com/sandeshkalantre">@sandeshkalantre</a> <a href="https://twitter.com/kalpeshk2011">@kalpeshk2011</a></p>&mdash; Kumar Ayush (@kumarayush4ever) <a href="https://twitter.com/kumarayush4ever/status/904195407177170944">September 3, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Our captains had predicted a memorable day, and decided we must get going in the heavy rain. It was 10:00AM, and boy, what a classic case of prescience it turned out to be.
 
@@ -37,6 +38,7 @@ The beach was relatively clean and empty, thanks to the "[Versova Clean-Up](http
 
 All in all, it was a great cycling experience. We clocked a low speed, owing to the long cycle breakdown stops, traffic and Google Map checks. Nevertheless, it was surely the best weekend thus far this semester! This trip reminds me of weekends during the summer internship, where I'd explicitly allot time for non-work activities after weeklong planning. Alas, these plans rarely materialize back home in Mumbai. But whenever they do, we do crazy things, right from visiting [Byculla Zoo](https://en.wikipedia.org/wiki/Jijamata_Udyaan) (No, seriously DON'T go there) to biking across town in a rainstorm. So I tweet back to Ayush,
 
+<center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last weekend&#39;s ride wasn&#39;t such a bad decision after all! <a href="https://twitter.com/kumarayush4ever">@kumarayush4ever</a> <a href="https://twitter.com/sandeshkalantre">@sandeshkalantre</a> <a href="https://twitter.com/hashtag/cycling?src=hash">#cycling</a> <a href="https://twitter.com/hashtag/biking?src=hash">#biking</a> <a href="https://twitter.com/hashtag/Mumbai?src=hash">#Mumbai</a> <a href="https://t.co/8aJImQClLE">https://t.co/8aJImQClLE</a></p>&mdash; Kalpesh Krishna (@kalpeshk2011) <a href="https://twitter.com/kalpeshk2011/status/907730730939273223">September 12, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
