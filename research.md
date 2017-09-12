@@ -3,11 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">About to take a wrong decision with <a href="https://twitter.com/sandeshkalantre">@sandeshkalantre</a> <a href="https://twitter.com/kalpeshk2011">@kalpeshk2011</a></p>&mdash; Kumar Ayush (@kumarayush4ever) <a href="https://twitter.com/kumarayush4ever/status/904195407177170944">September 3, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- ## Indian Language Datasets
+### Code
 
-As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releasing the dataset I used to train my neural network language models. These have been mined from Wikipedia and I hope this will help further research in language modelling for morphologically rich languages. The folder also contains the original PTB dataset.
+* TensorFlow 1.1 Implementation of Kim et al. 2014, "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)" - [tf-sentence-classification](https://github.com/martiansideofthemoon/tf-sentence-classification)
+
+### Indian Language Datasets
+
+As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releasing the dataset used to train my neural network language models. These have been mined from Wikipedia and I hope this will help further research in language modelling for Indian morphologically rich languages. The folder also contains the original PTB dataset.
 
 * Malayalam (denoted by `ml`)
 * Tamil (denoted by `ta`)
