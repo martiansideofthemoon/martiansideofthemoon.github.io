@@ -31,10 +31,13 @@ The beach was relatively clean and empty, thanks to the "[Versova Clean-Up](http
 ![bikes]({{ site.url }}/assets/bikes.jpg)
 
 ## Experience & Stats
+All activities were GPS-tracked using [Runkeeper](https://runkeeper.com). We paused only at Versova Beach, during lunch and at one of the cycle breakdowns.
 
+<center>
 ![stats1]({{ site.url }}/assets/stats1.png)
 
 ![stats2]({{ site.url }}/assets/stats-2.png)
+</center>
 
 All in all, it was a great cycling experience. We clocked a low speed, owing to the long cycle breakdown stops, traffic and Google Map checks. Nevertheless, it was surely the best weekend thus far this semester! This trip reminds me of weekends during the summer internship, where I'd explicitly allot time for non-work activities after weeklong planning. Alas, these plans rarely materialize back home in Mumbai. But whenever they do, we do crazy things, right from visiting [Byculla Zoo](https://en.wikipedia.org/wiki/Jijamata_Udyaan) (No, seriously DON'T go there) to biking across town in a rainstorm. So I tweet back to Ayush,
 
