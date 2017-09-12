@@ -13,7 +13,7 @@ Unfortunately, the weather Gods were relentless. Despite relatively clear skies 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">About to take a wrong decision with <a href="https://twitter.com/sandeshkalantre">@sandeshkalantre</a> <a href="https://twitter.com/kalpeshk2011">@kalpeshk2011</a></p>&mdash; Kumar Ayush (@kumarayush4ever) <a href="https://twitter.com/kumarayush4ever/status/904195407177170944">September 3, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-Our captains had predicted a memorable day, and decided we must get going in the heavy rain. It was 10:00AM, and boy, what a classic case of prescience it turned out to be.
+Our captains had predicted a memorable day, and decided we must get going in the heavy rain. It was 09:50AM, and boy, what a classic case of prescience it turned out to be.
 
 ## Cycling in Mumbai
 
@@ -33,11 +33,9 @@ The beach was relatively clean and empty, thanks to the "[Versova Clean-Up](http
 ## Experience & Stats
 All activities were GPS-tracked using [Runkeeper](https://runkeeper.com). We paused only at Versova Beach, during lunch and at one of the cycle breakdowns.
 
-<center>
 ![stats1]({{ site.url }}/assets/stats1.png)
 
 ![stats2]({{ site.url }}/assets/stats-2.png)
-</center>
 
 All in all, it was a great cycling experience. We clocked a low speed, owing to the long cycle breakdown stops, traffic and Google Map checks. Nevertheless, it was surely the best weekend thus far this semester! This trip reminds me of weekends during the summer internship, where I'd explicitly allot time for non-work activities after weeklong planning. Alas, these plans rarely materialize back home in Mumbai. But whenever they do, we do crazy things, right from visiting [Byculla Zoo](https://en.wikipedia.org/wiki/Jijamata_Udyaan) (No, seriously DON'T go there) to biking across town in a rainstorm. So I tweet back to Ayush,
 
