@@ -17,7 +17,7 @@ Our captains had predicted a memorable day, and decided we must get going in the
 
 ## Cycling in Mumbai
 
-The onward journey was scary. As Mumbai does not have significant cycling tracks [yet](http://timesofindia.indiatimes.com/city/mumbai/mumbai-ready-for-a-cycle-track-from-marine-drive-to-worli/articleshow/60408985.cms), cyclists generally use service roads or stick to the leftmost parts of the shared vehicle roads. Unfortunately, the night's downpour had filled the sides with puddles and potholes. There was a constant drizzle with occasional heavy downpour. The worst part was the traffic, especially due to the late morning hours and wrong route choices (most of our onward journey was on [Metro Line 1](https://en.wikipedia.org/wiki/Line_1_(Mumbai_Metro)). Slowly and steadily, and after a couple of incorrect turns, we finally reached Versova Beach - a sight to soothe sour eyes!
+The onward journey was scary. As Mumbai does not have significant cycling tracks [yet](http://timesofindia.indiatimes.com/city/mumbai/mumbai-ready-for-a-cycle-track-from-marine-drive-to-worli/articleshow/60408985.cms), cyclists generally use service roads or stick to the leftmost parts of the shared vehicle roads. Unfortunately, the night's downpour had filled the sides with puddles and potholes. There was a constant drizzle with occasional heavy downpour. The worst part was the traffic, especially due to the late morning hours and wrong route choices (most of our onward journey was on [Metro Line 1](https://en.wikipedia.org/wiki/Line_1_(Mumbai_Metro))). Slowly and steadily, and after a couple of incorrect turns, we finally reached Versova Beach - a sight to soothe sour eyes!
 
 ![cycling]({{ site.url }}/assets/cycling.jpg)
 
