@@ -6,12 +6,22 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.full_name }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-3">
+        <!-- <p>{{ site.description }}</p> -->
+        <ul class="social-media-list">
+        {% if site.stackoverflow %}
+          <li>
+            {% include icon-stackoverflow.html username=site.stackoverflow %}
+          </li>
+        {% endif %}
         </ul>
       </div>
       <div class="footer-col footer-col-2">
@@ -27,17 +37,6 @@
             {% include icon-linkedin.html username=site.linkedin_username full_name=site.full_name %}
           </li>
           {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <!-- <p>{{ site.description }}</p> -->
-        <ul class="social-media-list">
-        {% if site.stackoverflow %}
-          <li>
-            {% include icon-stackoverflow.html username=site.stackoverflow %}
-          </li>
-        {% endif %}
         </ul>
       </div>
       
