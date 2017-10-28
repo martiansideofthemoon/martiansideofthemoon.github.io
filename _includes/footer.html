@@ -5,7 +5,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.full_name }}</li>
+          <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {% if site.github_username %}
           <li>
@@ -14,17 +14,7 @@
           {% endif %}
         </ul>
       </div>
-      <div class="footer-col footer-col-2">
-        <!-- <p>{{ site.description }}</p> -->
-        <ul class="social-media-list">
-        {% if site.stackoverflow %}
-          <li>
-            {% include icon-stackoverflow.html username=site.stackoverflow %}
-          </li>
-        {% endif %}
-        </ul>
-      </div>
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-1">
         <ul class="social-media-list">
 
           {% if site.twitter_username %}
@@ -37,6 +27,16 @@
             {% include icon-linkedin.html username=site.linkedin_username full_name=site.full_name %}
           </li>
           {% endif %}
+        </ul>
+      </div>
+      <div class="footer-col footer-col-1">
+        <!-- <p>{{ site.description }}</p> -->
+        <ul class="social-media-list">
+        {% if site.stackoverflow %}
+          <li>
+            {% include icon-stackoverflow.html username=site.stackoverflow %}
+          </li>
+        {% endif %}
         </ul>
       </div>
       
