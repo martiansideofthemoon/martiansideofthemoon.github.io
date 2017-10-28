@@ -18,6 +18,8 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 * Python implementation of O'Brien and Hodgins 1999, "[Graphical Modeling and Animation of Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)" - [brittle-fracture-simulation](https://github.com/martiansideofthemoon/brittle-fracture-simulation)
 
+* Python implementation of parts of Christopher Buck, Aneesh Sampath 2013, “[ECG Signal Analysis for Myocardial Infarction Detection.](https://cnx.org/contents/VZtarYnV@2.1:WO1d4SJW@1/Introduction)” - [ecg-analysis](https://github.com/martiansideofthemoon/ecg-analysis)
+
 #### **Indian Language Datasets**
 
 As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releasing the dataset used to train my neural network language models. These have been mined from Wikipedia and I hope this will help further research in language modelling for Indian morphologically rich languages. The folder also contains the original PTB dataset.
