@@ -141,6 +141,11 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+.footer-col-4 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
@@ -149,6 +154,11 @@
     }
 
     .footer-col-3 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-4 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
