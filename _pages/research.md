@@ -10,7 +10,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 * **Kalpesh Krishna**, Liang Lu, Kevin Gimpel, Karen Livescu  
 "A Study of All-Convolutional Encoders for Connectionist Temporal Classification"  
 *Submitted to ICASSP-2018*  
-\[arxiv\] \[code\]
+\[[arXiv](https://arxiv.org/abs/1710.10398)\] \[code\]
 
 #### **Research Implementations**
 
