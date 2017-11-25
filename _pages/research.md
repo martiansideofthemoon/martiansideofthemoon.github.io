@@ -14,6 +14,10 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 #### **Research Implementations**
 
+* Macro Actions in Reinforcement Learning - A suite of five algorithms (including ideas from "[Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning](https://arxiv.org/abs/1702.06054)") encouraging agents to repeat actions - [macro-actions-rl](https://github.com/martiansideofthemoon/macro-action-rl)
+
+* Single Image Haze Removal - An implementation of He et al. 2009, "[Single Image Haze Removal using Dark Channel Prior](https://www.robots.ox.ac.uk/~vgg/rg/papers/hazeremoval.pdf)" and an ongoing implementation of Bahat & Irani 2016, "[Blind Dehazing using Internal Patch Recurrence](http://ieeexplore.ieee.org/document/7492870/)" - [blind-dehazing](https://github.com/martiansideofthemoon/blind-dehazing)
+
 * TensorFlow 1.1 implementation of Kim 2014, "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)" - [tf-sentence-classification](https://github.com/martiansideofthemoon/tf-sentence-classification)
 
 * Python implementation of O'Brien and Hodgins 1999, "[Graphical Modeling and Animation of Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)" - [brittle-fracture-simulation](https://github.com/martiansideofthemoon/brittle-fracture-simulation)
