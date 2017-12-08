@@ -2,10 +2,12 @@
 layout: post
 title:  "GRE and TOEFL Preparation"
 date:   2017-12-08 00:00:55 +0530
-tags: gre toefl grad ms phd
+tags: gre grad ms phd
 ---
 
 I recently gave the GRE and TOEFL exams in preparation for MS / PhD applications. While there exist several excellent resources to help you prepare ([Magoosh](https://magoosh.com/), [Princeton Review](https://www.princetonreview.com/), [Manhattan](https://www.manhattanprep.com/gre/)), I thought it would be useful to share my personal experience with both tests. I might write a blog on grad school admission in the future (of course, conditioned on the admits I get!)
+
+This guide will focus on preparation for GRE, while the next [guide]({% post_url 2017-12-08-gre-toefl-preparation-2 %}) will focus on TOEFL.
 
 ## Introduction
 
@@ -86,10 +88,12 @@ For Linux users, you don't need to change your operating system while giving the
 
 ### Exam Day Preparation
 
-Make sure you carry your passport and snacks for the 10 minute break. Be sure you completely understand the exam pattern. Water is NOT ALLOWED in the exam room. The 10 minute break is the only time you will get to use the restroom, eat, or drink something. Carrying a jacket is ALLOWED, and a good idea since the exam hall is cold. The actual GRE exam has an extra test section, and takes about four hours in total. If you are well prepared, it should be like any other exam.
+Make sure you carry your passport and snacks for the 10 minute break. Be sure you completely understand the exam pattern. Water is NOT ALLOWED in the exam room. The 10 minute break is the only time you will get to use the restroom, eat, or drink something. Carrying a jacket is ALLOWED, and a good idea since the exam hall is cold. The actual GRE exam has an extra experimental section, and takes about four hours in total. If you are well prepared, it should be like any other exam.
 
 **IMPORTANT** - Make sure you have decided a list of 4 colleges to send your scores to. Do check whether the program requires GRE scores at all (MIT EECS and UIUC CS doesn't, for instance). You will waste additional 108$ if you do not select 4 colleges immediately after your exam.
 
 I finally scored 161 in Verbal, 170 in Quant and 5.5 in AWA. This was close to my expectation after the exam and I am pretty happy with these scores! Most of my friends got scores within 2 marks of their practice test scores.
 
 ## TOEFL - Test of English as a Foreign Language
+
+Please check the next [guide]({% post_url 2017-12-08-gre-toefl-preparation-2 %}).
