@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GRE and TOEFL Preparation - 2"
-date:   2017-12-08 00:00:55 +0530
+date:   2017-12-08 01:00:55 +0530
 tags: gre grad ms phd
 ---
 
