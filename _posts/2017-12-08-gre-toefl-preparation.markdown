@@ -2,7 +2,7 @@
 layout: post
 title:  "GRE and TOEFL Preparation"
 date:   2017-12-08 00:00:55 +0530
-tags: gre grad ms phd
+tags: gre toefl grad ms phd
 ---
 
 I recently gave the GRE and TOEFL exams in preparation for MS / PhD applications. While there exist several excellent resources to help you prepare ([Magoosh](https://magoosh.com/), [Princeton Review](https://www.princetonreview.com/), [Manhattan](https://www.manhattanprep.com/gre/)), I thought it would be useful to share my personal experience with both tests. I might write a blog on grad school admission in the future (of course, conditioned on the admits I get!)
@@ -29,7 +29,7 @@ I tried to study for GRE during my summer internship, but couldn't do much beyon
 
 #### Preparation Material
 
-I used four books in all, the official ETS material and Barron's books. Additionally, I used the two free online PowerPrep tests (everyone gets them during registration). If you are up for a challenge, I recommend the Manhattan verbal books.
+I used four books in all, the official ETS material and Barron's books. Additionally, I used the two free online PowerPrep tests (everyone gets them during registration). If you are up for a challenge, I recommend the Manhattan verbal books. Besides this, I saw most of the [Magoosh videos](https://drive.google.com/open?id=0B36C1JLEtF-7d3c1VUppWVFIUGs) linked above.
 
 <img src="{{ site.url }}/assets/gre-1.png" height="233">
 <img src="{{ site.url }}/assets/gre-2.jpg" height="233">
