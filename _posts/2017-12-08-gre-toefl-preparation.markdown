@@ -29,11 +29,10 @@ I tried to study for GRE during my summer internship, but couldn't do much beyon
 
 I used four books in all, the official ETS material and Barron's books. Additionally, I used the two free online tests (everyone gets them during registration). If you are up for a challenge, I recommend the Manhattan verbal books.
 
-![gre-1]({{ site.url }}/assets/gre-1.png =180x)
-![gre-2]({{ site.url }}/assets/gre-2.jpg =180x)
-![gre-3]({{ site.url }}/assets/gre-3.jpg =180x)
-![gre-4]({{ site.url }}/assets/gre-4.jpg =180x)
-
+<img src="{{ site.url }}/assets/gre-1.png" width="180">
+<img src="{{ site.url }}/assets/gre-2.jpg" width="180">
+<img src="{{ site.url }}/assets/gre-3.jpg" width="180">
+<img src="{{ site.url }}/assets/gre-4.jpg" width="180">
 
 #### Diagnostic Test
 
