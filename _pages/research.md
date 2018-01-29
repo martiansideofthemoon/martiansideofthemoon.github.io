@@ -5,11 +5,11 @@ permalink: /research/
 ---
 My interests include Natural Language Processing, Speech Recognition and Computer Graphics. I've primarily worked on three research projects - End-to-End Speech Recognition during my summer internship at [Toyota Technological Institute at Chicago](http://ttic.edu/), Neural Language Modelling as a part of a RnD Project at IIT Bombay and Constraint-Driven Learning for NLP applications as a part of my Bachelor's thesis at IIT Bombay.
 
-#### **Preprints**
+#### **Publications**
 
 * **Kalpesh Krishna**, Liang Lu, Kevin Gimpel, Karen Livescu  
 "A Study of All-Convolutional Encoders for Connectionist Temporal Classification"  
-*Submitted to ICASSP-2018*  
+*Accepted to ICASSP-2018*  
 \[[arXiv](https://arxiv.org/abs/1710.10398)\] \[code\]
 
 #### **Research Implementations**
