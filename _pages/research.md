@@ -9,7 +9,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 * Kalpesh Krishna, [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 "A Study of All-Convolutional Encoders for Connectionist Temporal Classification"  
-**ICASSP-2018** *(to appear)*
+**ICASSP-2018** *(to appear)*  
 \[[arXiv](https://arxiv.org/abs/1710.10398)\]
 
 #### **Research Implementations**
