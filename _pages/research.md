@@ -7,7 +7,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 #### **Publications**
 
-* Kalpesh Krishna, [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
+* [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 "A Study of All-Convolutional Encoders for Connectionist Temporal Classification"  
 **ICASSP-2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arXiv](https://arxiv.org/abs/1710.10398)\]
