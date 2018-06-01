@@ -35,15 +35,13 @@ Prof. Jason Eisner has written several excellent advice articles [here](http://w
 
 * [Christopher Fletcher's Guide on Personal Statements](http://cwfletcher.net/Pages/SoP.php) - This guide includes his personal statements as well. He has shared some more advice articles [here](http://cwfletcher.net/Pages/Thoughts.php).
 
+* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools (post-selection). This article advises against using college rankings and focussing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html).
+
 ### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
 
 * [Jean Yang's Experience](http://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
-
-### Choosing Correct Graduate School
-
-* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This is geared towards PhD applicants who typically spend 5-6 years at the chosen school.
 
 ### PhD Advice
 These articles are guides for having a more successful PhD (*after* joining a PhD program).
