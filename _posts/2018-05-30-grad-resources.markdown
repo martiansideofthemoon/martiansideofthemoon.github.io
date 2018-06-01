@@ -8,11 +8,11 @@ tags: grad ms phd
 I previously wrote an [article]({% post_url 2017-12-08-gre-toefl-preparation %}) on GRE and TOEFL preparation. This is my second blogpost on graduate school admissions. I have tried to compile all the online resources I used to prepare my graduate school application.  
 Most of this advice is written by professors and is focussed towards PhD applicants. Several webpages shared in this blog contain a wide-spectrum of advice articles, many of which are relevant to undergraduates and graduate school applicants.
 
-## MS Application Guides
+### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
 
-## PhD Application Guides
+### PhD Application Guides
 
 * [Mor Harchol Balter's Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - An excellent but slightly out-dated guide on writing good PhD applications by a CMU professor. This is a very comprehensive article which starts with the pros and cons of a PhD degree, moves to the application process and ends with some advice on choosing the correct graduate program.
 
@@ -33,17 +33,17 @@ Prof. Jason Eisner has written several excellent advice articles [here](http://w
 
 * [Justine Sherry's Guide](https://people.eecs.berkeley.edu/~justine/advice.pdf) - A University of Washington CSE student's guide on graduate school applications. A bit specific to UW.
 
-## PhD Experiences
+### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
 
 * [Jean Yang's Experience](http://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
-## Choosing Correct Graduate School
+### Choosing Correct Graduate School
 
 * [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This is geared towards PhD applicants who typically spend 5-6 years at the chosen school.
 
-## PhD Advice
+### PhD Advice
 These articles are guides for having a more successful PhD (*after* joining a PhD program).
 
 * [Mark Dredze and Hannah Wallach's Guide](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) - A guide with a number of tips to have a successful PhD in NLP / ML. It is quite comprehensive and contains very good advice written by two top NLP researchers.
