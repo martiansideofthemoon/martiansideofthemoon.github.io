@@ -16,7 +16,7 @@ Most of this advice is written by professors and is focussed towards PhD applica
 
 * [Mor Harchol Balter's Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - An excellent but slightly out-dated guide on writing good PhD applications by a CMU professor. This is a very comprehensive article which starts with the pros and cons of a PhD degree, moves to the application process and ends with some advice on choosing the correct graduate program.
 
-* [Philip Guo's Five-Minute Guide](http://www.pgbovine.net/PhD-application-tips.htm) - A short guide describing the initial screening process during PhD admissions. Lots of interesting videos / articles in the "related pages" section at the end of the guide. YOu might find the Statements of Purpose linked in this article useful.
+* [Philip Guo's Five-Minute Guide](http://www.pgbovine.net/PhD-application-tips.htm) - A short guide describing the initial screening process during PhD admissions. Lots of interesting videos / articles in the "related pages" section at the end of the guide. You might find the Statements of Purpose linked in this article useful.
 
 * [Philip Guo's Older Guide](http://www.pgbovine.net/grad-school-app-tips.htm) - A more comprehensive article listing the best strategies to maximize your chances of selection. This was written while Philip Guo was still a graduate student.
 
