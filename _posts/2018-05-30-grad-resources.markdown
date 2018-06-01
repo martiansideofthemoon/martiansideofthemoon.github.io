@@ -33,6 +33,8 @@ Prof. Jason Eisner has written several excellent advice articles [here](http://w
 
 * [Justine Sherry's Guide](https://people.eecs.berkeley.edu/~justine/advice.pdf) - A University of Washington CSE student's guide on graduate school applications. A bit specific to UW.
 
+* [Christopher Fletcher's Guide on Personal Statements](http://cwfletcher.net/Pages/SoP.php) - This guide includes his personal statements as well. He has shared some more advice articles [here](http://cwfletcher.net/Pages/Thoughts.php).
+
 ### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
@@ -49,3 +51,9 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [Mark Dredze and Hannah Wallach's Guide](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) - A guide with a number of tips to have a successful PhD in NLP / ML. It is quite comprehensive and contains very good advice written by two top NLP researchers.
 
 * [Kevin Gimpel's Advice](http://ttic.uchicago.edu/~kgimpel/etc/phd-advice.pdf) - A gem of an article with a unique perspective on the PhD experience. Titled "How to be a Happier PhD Student", it's a motivating read to recover from bad, unproductive days.
+
+* [Andrej Karpathy's Guide](http://karpathy.github.io/2016/09/07/phd/) (*A Survival Guide to a PhD*) - A famous blog by an ex-Stanford PhD student. Andrej Karpathy's articles are quite famous in the machine learning community.
+
+* [H.T. Kung's Advice](https://www.eecs.harvard.edu/htk/phdadvice/)
+
+* [Phillip Torr's Guides](http://www.robots.ox.ac.uk/~phst/)
