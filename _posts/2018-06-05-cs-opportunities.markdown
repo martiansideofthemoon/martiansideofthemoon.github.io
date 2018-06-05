@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Science Opportunities"
-date:   2018-05-30 00:00:55 +0530
+date:   2018-06-04 09:00:55 +0530
 tags: computer science iitb
 ---
 
