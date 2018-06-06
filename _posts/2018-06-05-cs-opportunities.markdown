@@ -24,7 +24,7 @@ An RnD project (CS490) or a 6xx / 7xx CS course could be included in the minor d
 
 * **Reading Groups, Talks** - There are a plethora of events happening daily in IIT Bombay, and talks on Computer Science are no exception. The CSE Department has a number of weekly talks at the FC Kohli Auditorium, often by our own faculty (Faculty Unplugged Seminar Series / FUSS) or professors from outside IIT Bombay (CSE Department Talks). A number of reading groups are organized on a weekly / bi-weekly schedule, notably the [AIML reading group](https://www.cse.iitb.ac.in/~ml/). [The Web and Coding Club](http://wncc-iitb.org/) at IIT Bombay organize informal talks on undegraduate research experiences ([Reflections](https://wncc-iitb.org/wiki/index.php/Reflections)). Finally, the [CSE Cybersecurity Club](https://www.facebook.com/groups/csec.iitb/) and [BioBytes Student Reading Group](https://www.facebook.com/groups/BioBytesIITB/) are two student-run clubs organizing biweekly talks on computer security and biological computing respectively.
 
-### Intership Opportunities
+### Internship Opportunities
 
 * **Google Summer of Code (GSoC) / Outreachy** - These are exciting opportunities in the world of open source - a chance to get to work on a real-world codebase with excellent developers from across the world. Selection into this program is completely based on prior open source experience and a final project proposal. [The Web and Coding Club](http://wncc-iitb.org/) at IIT Bombay runs an incubation cell for GSoC projects and has a detailed guide [here](https://wncc-iitb.org/wiki/index.php/Open_Source).
 
