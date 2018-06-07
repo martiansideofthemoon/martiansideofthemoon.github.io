@@ -5,7 +5,7 @@ date:   2018-06-05 09:00:55 +0530
 tags: nlp research crowd
 ---
 
-I recently used crowd-sourced experiments for the first time during my Bachelor's Thesis Project. In this blog I will share a few essential steps we took to improve the quality of our crowd-sourced data. I sincerely thank [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) for suggesting several useful suggestions during the project, many of which will appear throughout this blog.
+I recently used crowd-sourced experiments for the first time during my Bachelor's Thesis Project with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). In this blog I will share a few essential steps we took to improve the quality of our crowd-sourced data. I sincerely thank [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) for suggesting several useful suggestions during these experiments, many of which will appear throughout this blog.
 
 ### Introduction
 
@@ -57,4 +57,5 @@ A very important section here is the price per judgement. It is recommended to p
 
 ### Monitoring & Speed
 
+Now that the job has been launched, you can sit back and enjoy the magic of crowdsourcing! The Figure Eight interface is kind-of addicting, since on one end you can see how fast your judgements are coming in, 
 Internal workforce
