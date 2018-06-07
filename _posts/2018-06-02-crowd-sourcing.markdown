@@ -60,4 +60,13 @@ A very important section here is the price per judgement. It is recommended to p
 Now that the job has been launched, you can sit back and enjoy the magic of crowdsourcing! The Figure Eight interface is kind-of addicting and you can monitor indvidual contributors as well as assess the overall progress. It is important to keep track of the test questions many workers are marking incorrectly, since they might be ambiguous or mistakes on your part. Workers might contest test questions and you can forgive workers who present a valid explanation for their answers. Finally, some workers might fill a job feedback survey, which is an assessment of the ease, clarity and payment in the job.
 
 Jobs might not run as fast as you need them to. Here are a few useful tricks to speed up your jobs,
-Internal workforce
+
+* **Increase Payment** - This is the most reliable way to speed up data collection. However, I could not find a way to increase the payment for data rows that were in progress. Maybe it is a better idea not to order all data rows at once.
+* **Increase Judgements Per User** - This is a helpful trick but might reduce the quality of data collected. This setting can eadjusted under the "Quality Control" setting tab.
+* **Contributor Channels** - Reducing the minimum contributor level (Level 3 to Level 2 for instance) or making the geographic settings more liberal will certainly speed up jobs. Again do this with care to not compromise too much on the quality.
+* **Internal Workforce** - Yes, you can ask your friends to perform the task too, free of cost! While the maximum judgements per user limit would still apply, this is a very reliable way to speed up your crowdsourced experiments. You won't compromise on quality either, since internal workers need to pass the test too, and I am sure you would choose your friends wisely! :)
+
+### Results
+Once jobs complete, there are several detailed reports available for download. (under the "Results" tab). Make sure you adjust the settings to download data in the most suitable format for post-processing.
+
+I have had a lot of fun in my first crowd-sourcing experiment, and I hope to continue doing such experiments during my PhD. If you would like to add something to this article, feel free to get in touch!
