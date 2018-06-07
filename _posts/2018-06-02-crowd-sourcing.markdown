@@ -57,5 +57,7 @@ A very important section here is the price per judgement. It is recommended to p
 
 ### Monitoring & Speed
 
-Now that the job has been launched, you can sit back and enjoy the magic of crowdsourcing! The Figure Eight interface is kind-of addicting, since on one end you can see how fast your judgements are coming in, 
+Now that the job has been launched, you can sit back and enjoy the magic of crowdsourcing! The Figure Eight interface is kind-of addicting and you can monitor indvidual contributors as well as assess the overall progress. It is important to keep track of the test questions many workers are marking incorrectly, since they might be ambiguous or mistakes on your part. Workers might contest test questions and you can forgive workers who present a valid explanation for their answers. Finally, some workers might fill a job feedback survey, which is an assessment of the ease, clarity and payment in the job.
+
+Jobs might not run as fast as you need them to. Here are a few useful tricks to speed up your jobs,
 Internal workforce
