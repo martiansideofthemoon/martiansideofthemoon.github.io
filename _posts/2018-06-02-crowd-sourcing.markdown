@@ -45,7 +45,7 @@ In my experience, **test questions should be very close to the actual task**, bu
 
 Keeping good test questions isn't the only quality assurance technique (and often not enough). A few additional settings can often improve the data collected significantly. Here are a few such settings,
 
-* **Contributor Channels** - Keep this Level 3 if time is a premium or Level 2 if you are in a rush. Level 2 and 3 crowdworkers have a reputation of getting test questions correct (based on their contribution history on Figure Eight) and are less likely to be spammers. Advanced settings include choosing contributor channels (Figure Eight has a [guide](https://success.figure-eight.com/hc/en-us/articles/203219195-Job-Settings-Guide-To-Contributors-Channels-Page) on this) and language restrictions.
+* **Contributor Channels** - Keep this at Level 3 if time is not a constraint, but switch to Level 2 if you are in a rush. Level 2 and 3 crowdworkers have a reputation of getting test questions correct (based on their contribution history on Figure Eight) and are less likely to be spammers. Advanced settings include choosing contributor channels (Figure Eight has a [guide](https://success.figure-eight.com/hc/en-us/articles/203219195-Job-Settings-Guide-To-Contributors-Channels-Page) on this) and language restrictions.
 
 * **Geography** - It might help allowing crowdworkers from certain locations only for your experiments. For instance in complicated English NLP tasks, it is a good idea to allow workers only from predominantly English speaking countries. For regional tasks, it makes no sense allowing workers not residing in that region.
 
@@ -54,7 +54,8 @@ Keeping good test questions isn't the only quality assurance technique (and ofte
 ### Launch & Payment
 
 Finally, jobs can be launched in the "Launch" tab on Figure Eight. Figure Eight recommends launching a part of the data (typically 100 rows) as a test run before launching the rest of the data. The "Judgements per Row" setting is again very experiment-specific. Figure Eight offers a "Dynamic Judgements" option, an automated solution to evaluate rows with a less agreement multiple times. ([here](https://success.figure-eight.com/hc/en-us/articles/203219205-Job-Settings-Guide-to-Dynamic-Judgments) is their guide)  
-A very important section here is the price per judgement. It is recommended to pay atleast 6$ per hour (**minimum wage** in some parts of world). One way to convert this to "Price per Judgement" is to perform the task yourself and assess the time it takes per judgement. Generally, a larger payment will cost you significantly more but will speed up the data collection. Figure Eight has a [Jobs Cost FAQ](https://success.figure-eight.com/hc/en-us/articles/202703165-Get-Results-Job-Costs) aricle for reference.
+A very important section here is the price per judgement. It is recommended to pay atleast 7.25$ per hour (**minimum wage** in USA). One way to convert this to "Price per Judgement" is to perform the task yourself and assess the time it takes per judgement. Generally, a larger payment will cost you significantly more but will speed up the data collection. The difficulty of the task should also be considered. **Crowdworkers tend to prefer easier, repetitive tasks** (like sentiment classification) rather than more challenging tasks requiring mental effort (like summary writing). Be prepared to pay higher wages to convince crowdworkers that the extra effort is worth it!  
+Figure Eight has a [Jobs Cost FAQ](https://success.figure-eight.com/hc/en-us/articles/202703165-Get-Results-Job-Costs) aricle for reference.
 
 ### Monitoring & Speed
 
