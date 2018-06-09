@@ -5,7 +5,11 @@
     {% include head.html %}
     {% include mathjax.html %}
     {% seo %}
-    <meta content="https://avatars1.githubusercontent.com/u/8805240" property="og:image" />
+    {% if page.image %}
+      <meta content="{{ page.image }}" property="og:image" />
+    {% else %}
+      <meta content="https://avatars1.githubusercontent.com/u/8805240" property="og:image" />
+    {% endif %}
   </head>
 
   <body>
