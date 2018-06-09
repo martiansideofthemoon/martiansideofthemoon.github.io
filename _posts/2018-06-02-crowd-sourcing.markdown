@@ -10,7 +10,8 @@ I recently used crowdsourced experiments for the first time during my Bachelor's
 
 ### Introduction
 
-Google defines crowdsourcing as "the practice of obtaining information or input into a task or project by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet". With the advent of deep learning, it is getting increasingly important to create high-quality large-scale datasets. This is where crowdsourcing can play an important role.  
+Google defines crowdsourcing as "the practice of obtaining information or input into a task or project by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet". With the advent of deep learning, it is getting increasingly important to create high-quality large-scale datasets. This is where crowdsourcing can play an important role.
+
 Crowdsourcing is very common in companies having products with a large userbase. For instance, Google deploys crowdsourcing on a very large scale for obtaining live traffic updates. Facebook can potentially use Messenger conversations for intelligent dialog agents.
 
 ### Services
@@ -53,8 +54,10 @@ Keeping good test questions isn't the only quality assurance technique (and ofte
 
 ### Launch & Payment
 
-Finally, jobs can be launched in the "Launch" tab on Figure Eight. Figure Eight recommends launching a part of the data (typically 100 rows) as a test run before launching the rest of the data. The "Judgements per Row" setting is again very experiment-specific. Figure Eight offers a "Dynamic Judgements" option, an automated solution to evaluate rows with a less agreement multiple times. ([here](https://success.figure-eight.com/hc/en-us/articles/203219205-Job-Settings-Guide-to-Dynamic-Judgments) is their guide)  
-A very important section here is the price per judgement. It is recommended to pay atleast 7.25$ per hour (**minimum wage** in USA). One way to convert this to "Price per Judgement" is to perform the task yourself and assess the time it takes per judgement. Generally, a larger payment will cost you significantly more but will speed up the data collection. The difficulty of the task should also be considered. **Crowdworkers tend to prefer easier, repetitive tasks** (like sentiment classification) rather than more challenging tasks requiring mental effort (like summary writing). Be prepared to pay higher wages to convince crowdworkers that the extra effort is worth it!  
+Finally, jobs can be launched in the "Launch" tab on Figure Eight. Figure Eight recommends launching a part of the data (typically 100 rows) as a test run before launching the rest of the data. The "Judgements per Row" setting is again very experiment-specific. Figure Eight offers a "Dynamic Judgements" option, an automated solution to evaluate rows with a less agreement multiple times. ([here](https://success.figure-eight.com/hc/en-us/articles/203219205-Job-Settings-Guide-to-Dynamic-Judgments) is their guide)
+
+A very important section here is the price per judgement. It is recommended to pay atleast 7.25$ per hour (**minimum wage** in USA). One way to convert this to "Price per Judgement" is to perform the task yourself and assess the time it takes per judgement. Generally, a larger payment will cost you significantly more but will speed up the data collection. The difficulty of the task should also be considered. **Crowdworkers tend to prefer easier, repetitive tasks** (like sentiment classification) rather than more challenging tasks requiring mental effort (like summary writing). Be prepared to pay higher wages to convince crowdworkers that the extra effort is worth it!
+
 Figure Eight has a [Jobs Cost FAQ](https://success.figure-eight.com/hc/en-us/articles/202703165-Get-Results-Job-Costs) aricle for reference.
 
 ### Monitoring & Speed
