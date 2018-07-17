@@ -9,6 +9,9 @@ In the past, I've primarily worked on three research projects - End-to-End Speec
 
 #### **Publications**
 
+* [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
+Hierarchical Multitask Learning for CTC-based Speech Recognition  
+*Submitted to SLT-2018*  
 * [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 **ICASSP-2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
