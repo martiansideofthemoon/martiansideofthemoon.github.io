@@ -11,7 +11,8 @@ In the past, I've primarily worked on three research projects - End-to-End Speec
 
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
-**EMNLP 2018** *(accepted)*
+**EMNLP 2018** *(short)*  
+\[arxiv\]
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 *Submitted to SLT 2018*  
