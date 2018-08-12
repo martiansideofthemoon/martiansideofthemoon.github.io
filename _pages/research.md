@@ -3,9 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My interests include Natural Language Processing, Speech Recognition and Computer Graphics. I am currently working on hierarchial multitask learning in lexicon-free end-to-end speech recognition using the CTC algorithm.
-
-In the past, I've primarily worked on three research projects - End-to-End Speech Recognition during my summer internship at [Toyota Technological Institute at Chicago](http://ttic.edu/), Neural Language Modelling as a part of a RnD Project at IIT Bombay and Constraint-Driven Learning for Sentiment Analysis as a part of my Bachelor's thesis at IIT Bombay.
+My interests include Natural Language Processing, Speech Recognition and Computer Graphics.
 
 #### **Publications**
 
