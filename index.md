@@ -3,11 +3,11 @@ layout: page
 ---
 {% include JB/setup %}
 
-My name is Kalpesh Krishna, and I will be starting a PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) in Fall 2018. I recently graduated from the Electrical Engineering Department at [IIT Bombay](http://iitb.ac.in).
+My name is Kalpesh Krishna, and I will be starting a PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) in Fall 2018. I recently graduated from the Electrical Engineering department at [IIT Bombay](http://iitb.ac.in).
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/assets/cv_long.pdf).
 
-I [blog](http://martiansideofthemoon.github.io/archive.html) every now and then, often compiling my personal experiences. Feel free to read a bit [more about me](http://martiansideofthemoon.github.io/about/)!
+I [blog](http://martiansideofthemoon.github.io/archive.html) every now and then compiling my personal experiences. Feel free to read a bit [more about me](http://martiansideofthemoon.github.io/about/)!
 
 #### Updates
 
