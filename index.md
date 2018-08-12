@@ -9,7 +9,7 @@ To get an insight on my academic life so far, you can have a look at my [CV]({{ 
 
 You can head over to my [blog](http://martiansideofthemoon.github.io/archive.html) or read a bit [more about me](http://martiansideofthemoon.github.io/about/).
 
-### Updates
+##### Updates
 
 * Aug. 2018: paper on logic rules in sentiment classification accepted to EMNLP 2018
 * Aug. 2018: graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal
