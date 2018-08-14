@@ -23,9 +23,9 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 #### **Thesis**
 
 * Constraint Driven Learning  
-*under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)*  
-**IIT Bombay**  
-[pdf]({{ site.url }}/assets/btp-report.pdf)
+*(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
+**IIT Bombay** *(2017-2018)*  
+\[[pdf]\]({{ site.url }}/assets/btp-report.pdf)
 
 #### **Research Implementations**
 
