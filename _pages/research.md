@@ -20,6 +20,13 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arxiv](https://arxiv.org/abs/1710.10398)\] \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]
 
+#### **Thesis**
+
+* Constraint Driven Learning  
+*under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)*  
+**IIT Bombay**  
+[pdf]({{ site.url }}/assets/btp-report.pdf)
+
 #### **Research Implementations**
 
 * [Inference Networks for Structured Prediction]() - A TensorFlow implementation for the multi-label classification experiments in [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376). Also contains experiments on the [FIGMENT](http://cistern.cis.lmu.de/figment/) dataset and a extension to Inference Network training algorithm based on the paper [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028).
