@@ -20,7 +20,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arxiv](https://arxiv.org/abs/1710.10398)\] \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]
 
-#### **Thesis**
+#### **Bachelor's Thesis**
 
 * Constraint Driven Learning  
 *(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
