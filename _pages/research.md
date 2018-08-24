@@ -10,7 +10,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **EMNLP 2018** *(short)*  
-\[arxiv\] \[[data](https://github.com/martiansideofthemoon/logic-rules-sentiment/tree/master/crowd-data)\]
+\[[arxiv](https://arxiv.org/abs/1808.07733)\] \[[data](https://github.com/martiansideofthemoon/logic-rules-sentiment/tree/master/crowd-data)\]
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 *Submitted to SLT 2018*  

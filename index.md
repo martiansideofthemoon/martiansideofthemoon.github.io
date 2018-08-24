@@ -11,7 +11,7 @@ I [blog](http://martiansideofthemoon.github.io/archive.html) every now and then 
 
 #### Updates
 
-* Aug. 2018: paper on logic rules for sentiment classification accepted to EMNLP 2018
+* Aug. 2018: [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification accepted to EMNLP 2018
 * Aug. 2018: graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal
 * Jul. 2018: [paper](https://arxiv.org/abs/1807.06234) on hierarchical multitask learning submitted to SLT 2018
 * Jun. 2018: new blogs on [grad resources]({% post_url 2018-05-30-grad-resources %}), [IIT Bombay CS opportunities]({% post_url 2018-06-05-cs-opportunities %}) and [crowdsourcing]({% post_url 2018-06-02-crowd-sourcing %})
