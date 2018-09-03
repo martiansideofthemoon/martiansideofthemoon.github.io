@@ -5,7 +5,7 @@ permalink: /research/
 ---
 My interests include Natural Language Processing, Speech Recognition and Computer Graphics.
 
-#### **Publications**
+#### **Papers**
 
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
@@ -13,7 +13,6 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 \[[arxiv](https://arxiv.org/abs/1808.07733)\] \[[data](https://github.com/martiansideofthemoon/logic-rules-sentiment/tree/master/crowd-data)\]
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
-*Submitted to SLT 2018*  
 \[[arxiv](https://arxiv.org/abs/1807.06234)\]
 * A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
