@@ -13,6 +13,7 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 \[[arxiv](https://arxiv.org/abs/1808.07733)\] \[[code + data](https://github.com/martiansideofthemoon/logic-rules-sentiment/)\] \[[slides]({{ site.url }}/assets/emnlp-2018.pdf)\]
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
+*Submitted to **ICASSP 2019** *
 \[[arxiv](https://arxiv.org/abs/1807.06234)\]
 * A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
