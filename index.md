@@ -11,9 +11,10 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* Aug. 2018: [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification accepted in EMNLP 2018
+* Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 in Brussels, Belgium ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
+* Oct. 2018: [paper](https://arxiv.org/abs/1807.06234) on hierarchical multitask learning submitted to ICASSP 2019
+* Sep. 2018: started my PhD in Computer Science at UMass Amherst
 * Aug. 2018: graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal
 * Jul. 2018: new [preprint](https://arxiv.org/abs/1807.06234) on hierarchical multitask learning
 * Jun. 2018: new blogs on [grad resources]({% post_url 2018-05-30-grad-resources %}), [IIT Bombay CS opportunities]({% post_url 2018-06-05-cs-opportunities %}) and [crowdsourcing]({% post_url 2018-06-02-crowd-sourcing %})
-* Apr. 2018: presented [paper](https://arxiv.org/abs/1710.10398) on CNNs for end-to-end speech recognition at ICASSP 2018
-* Apr. 2018: will be joining UMass Amherst as a CS PhD student in Fall 2018
+* Apr. 2018: presented [paper](https://arxiv.org/abs/1710.10398) on CNNs for end-to-end speech recognition at ICASSP 2018 in Calgary, Canada ([poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf))
