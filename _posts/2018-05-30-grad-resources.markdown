@@ -39,6 +39,8 @@ Prof. Jason Eisner has written several excellent advice articles [here](http://w
 
 * [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools (post-selection). This article advises against using college rankings and focussing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html).
 
+* [Tim Dettmer's Guide](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
+
 ### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
