@@ -35,14 +35,22 @@ for url, word, theme, answer, worker in zip(urls, words, themes, answers, worker
 all_data = [(url, data) for url, data in all_data.items()]
 all_data.sort(key=lambda x: sum([ans == x[1]['word'] for ans in x[1]['answers']]), reverse=True)
 all_workers = []
+unique_workers = {}
 for d in all_data:
+    for answer, worker in zip(d[1]['answers'], d[1]['workers']):
+        if worker in unique_workers:
+            unique_workers[worker].append(answer == d[1]['word'])
+        else:
+            unique_workers[worker] = [answer == d[1]['word']]
     all_workers.extend(d[1]['workers'])
 
+for k, v in unique_workers.items():
+    print("%s = %d / %d" % (k, sum(v), len(v)))
 
 html_code = "<center><table border=1><tr><b><td>Doodle</td><td>Theme</td><td>Word</td><td>Score</td><td>Answers</td></b></tr>"
 
 for (url, data) in all_data:
-    answer_worker = '<br>'.join(["%s = %s" % (w, ans) for w, ans in zip(data['workers'], data['answers'])])
+    answer_worker = '<br>'.join(["<b>%s = %s</b>" % (w, ans) if ans == data['word'] else "%s = %s" % (w, ans) for w, ans in zip(data['workers'], data['answers'])])
     row_data = "<td><img src='%s'></td><td>%s</td><td>%s</td><td>%d / 5</td><td>%s</td>" % (url, data['theme'], data['word'], sum([ans == data['word'] for ans in data['answers']]), answer_worker)
     html_code += "<tr>%s</tr>" % row_data
 
