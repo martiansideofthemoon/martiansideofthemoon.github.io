@@ -11,7 +11,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* Mar. 2019: new [preprint](https://arxiv.org/abs/1903.07820) on thematic doodle generation
+* Mar. 2019: new [preprint](https://arxiv.org/abs/1903.07820) on thematic doodle generation for artistic typography
 * Jan. 2019: will be spending Summer 2019 at [Google AI Language](https://ai.google/research/teams/language/) in New York
 * Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
 * Sep. 2018: started my PhD in Computer Science at UMass Amherst
