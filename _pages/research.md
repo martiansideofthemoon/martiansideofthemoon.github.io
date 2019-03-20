@@ -7,6 +7,9 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 #### **Papers**
 
+* Trick or TReAT: Thematic Reinforcement for Artistic Typography  
+[Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
+\[[arxiv](https://arxiv.org/abs/1903.07820)\]
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **EMNLP 2018** *(oral presentation, short paper)*  

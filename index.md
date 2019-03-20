@@ -11,7 +11,9 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 in Brussels, Belgium ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
+* Mar. 2019: new [preprint](https://arxiv.org/abs/1903.07820) on thematic doodle generation
+* Jan. 2019: will be spending Summer 2019 at [Google AI Language](https://ai.google/research/teams/language/) in New York
+* Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
 * Sep. 2018: started my PhD in Computer Science at UMass Amherst
 * Aug. 2018: graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal
 * Jul. 2018: new [preprint](https://arxiv.org/abs/1807.06234) on hierarchical multitask learning for speech recognition
