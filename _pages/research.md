@@ -9,15 +9,18 @@ My interests include Natural Language Processing, Speech Recognition and Compute
 
 * Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
-**International Conference on Computational Creativity (ICCC) 2019**
+**ICCC 2019**  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\]  
+
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **EMNLP 2018** *(oral presentation, short paper)*  
 \[[arxiv](https://arxiv.org/abs/1808.07733)\] \[[code + data](https://github.com/martiansideofthemoon/logic-rules-sentiment/)\] \[[slides]({{ site.url }}/assets/emnlp-2018.pdf)\]  
+
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 \[[arxiv](https://arxiv.org/abs/1807.06234)\]  
+
 * A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
