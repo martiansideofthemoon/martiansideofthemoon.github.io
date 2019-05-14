@@ -3,9 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My interests include Natural Language Processing, Speech Recognition and Computer Graphics.
+My interests include Natural Language Processing, Speech Recognition, Machine Learning and Computer Security.
 
 #### **Papers**
+
+* Generating Question-Answer Hierarchies  
+[Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
+**ACL 2019**  
 
 * Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
