@@ -13,7 +13,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 
 * Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
-**ICCC 2019**  
+**ICCC 2019** *(oral presentation)*  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\]  
 
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
