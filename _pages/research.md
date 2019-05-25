@@ -27,7 +27,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 
 * Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
-\[[arxiv](https://arxiv.org/abs/1807.06234)\]  
+\[[arxiv](https://arxiv.org/abs/1807.06234)\] \[[external video](https://www.youtube.com/watch?v=OSpFS8kyibw)\]  
 
 * A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
