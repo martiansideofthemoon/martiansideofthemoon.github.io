@@ -10,6 +10,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 * Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
+\[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[webpage](http://squash.cs.umass.edu/)\]
 
 * Syntactically Supervised Transformers for Faster Neural Machine Translation.  
 [Nader Akoury](https://github.com/dojoteef), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
