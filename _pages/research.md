@@ -15,7 +15,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 * Syntactically Supervised Transformers for Faster Neural Machine Translation.  
 [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
-\[[arxiv](https://arxiv.org/abs/1906.02780)\]
+\[[arxiv](https://arxiv.org/abs/1906.02780)\] \[[code](https://github.com/dojoteef/synst)\]
 
 * Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
