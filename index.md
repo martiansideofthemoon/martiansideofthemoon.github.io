@@ -11,7 +11,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* May 2019: new papers on QA generation and faster transformer decoding to appear in ACL 2019
+* May 2019: new papers on [QA generation](https://arxiv.org/abs/1906.02622) and [faster transformer decoding](https://arxiv.org/abs/1906.02780) to appear in ACL 2019
 * Apr. 2019: new [paper](https://arxiv.org/abs/1903.07820) on thematic doodle generation to appear in [ICCC 2019](http://www.computationalcreativity.net/iccc2019/)
 * Jan. 2019: will be spending Summer 2019 at [Google AI Language](https://ai.google/research/teams/language/) in New York
 * Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
