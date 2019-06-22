@@ -21,7 +21,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
 **ICCC 2019** *(oral presentation)*  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\]  
-*[Best Presentation Award](https://twitter.com/jmacunha/status/1142184529026662400)*
+(<span style="color:red">*[Best Presentation Award](https://twitter.com/jmacunha/status/1142184529026662400)*</span>)
 
 * Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
