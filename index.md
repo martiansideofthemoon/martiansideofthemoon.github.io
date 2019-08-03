@@ -11,10 +11,10 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* Jul 2019: Released a [web demo](http://squash.cs.umass.edu/) for our ACL 2019 [paper](https://arxiv.org/abs/1906.02622) on QA generation
+* Jul 2019: Presented papers on [hierarchical QA generation](https://arxiv.org/abs/1906.02622) and [faster transformer decoding](https://arxiv.org/abs/1906.02780) at ACL 2019. Check out our [web demo](http://squash.cs.umass.edu/) on QA generation!
+* Jul 2019: Awarded the [ACL 2019 Student Scholarship](http://www.acl2019.org/EN/student-scholarship-applications-volunteers.xhtml) and the [Victor Lesser Graduate Scholarship 2019](https://www.cics.umass.edu/support#lesser).
 * Jun 2019: [Purva Tendulkar](http://purvaten.github.io/) won the [*Best Presentation Award*](https://twitter.com/jmacunha/status/1142184529026662400) for our [paper](https://arxiv.org/abs/1903.07820) in ICCC 2019!
 * May 2019: started summer internship at [Google AI Language](https://ai.google/research/teams/language/) in New York
-* May 2019: new papers on [QA generation](https://arxiv.org/abs/1906.02622) and [faster transformer decoding](https://arxiv.org/abs/1906.02780) to appear in ACL 2019
 * Apr. 2019: talk at the UMass [Data Science Research Symposium 2019](https://ds.cs.umass.edu/news-events/events/data-science-research-symposium-2019)
 * Apr. 2019: new [paper](https://arxiv.org/abs/1903.07820) on thematic doodle generation to appear in [ICCC 2019](http://www.computationalcreativity.net/iccc2019/)
 * Nov. 2018: presented [paper](https://arxiv.org/abs/1808.07733) on logic rules for sentiment classification at EMNLP 2018 ([slides]({{ site.url }}/assets/emnlp-2018.pdf))
