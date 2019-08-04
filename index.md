@@ -11,7 +11,10 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
-* Aug 2019: invited to give a lightning talk at the [AllenNLP](https://allennlp.org/) Summit 2019
+<table>
+	<tr><td>Aug 2019</td>invited to give a lightning talk at the [AllenNLP](https://allennlp.org/) Summit 2019<td></td></tr>
+</table>
+
 * Jul 2019: Presented papers on [hierarchical QA generation](https://arxiv.org/abs/1906.02622) and [faster transformer decoding](https://arxiv.org/abs/1906.02780) at ACL 2019. Check out our [web demo](http://squash.cs.umass.edu/) on hierarchical QA generation!
 * Jul 2019: Awarded the [ACL 2019 Student Scholarship](http://www.acl2019.org/EN/student-scholarship-applications-volunteers.xhtml) and the [Victor Lesser Graduate Scholarship](https://www.cics.umass.edu/support#lesser).
 * Jun 2019: [Purva Tendulkar](http://purvaten.github.io/) won the [*Best Presentation Award*](https://twitter.com/jmacunha/status/1142184529026662400) for our [paper](https://arxiv.org/abs/1903.07820) in ICCC 2019!
