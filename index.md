@@ -12,7 +12,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 #### Updates
 
 <table>
-	<tr><td>Aug 2019</td>invited to give a lightning talk at the [AllenNLP](https://allennlp.org/) Summit 2019<td></td></tr>
+	<tr><td>Aug 2019</td><td>invited to give a lightning talk at the [AllenNLP](https://allennlp.org/) Summit 2019</td></tr>
 </table>
 
 * Jul 2019: Presented papers on [hierarchical QA generation](https://arxiv.org/abs/1906.02622) and [faster transformer decoding](https://arxiv.org/abs/1906.02780) at ACL 2019. Check out our [web demo](http://squash.cs.umass.edu/) on hierarchical QA generation!
