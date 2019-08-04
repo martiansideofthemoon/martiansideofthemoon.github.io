@@ -12,7 +12,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 #### Updates
 
 
-<table>
+<table >
 <tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> Presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019
 <tr><td><b>Jul 2019:</b></td><td>Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
@@ -26,5 +26,5 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Aug 2018:</b></td><td> graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal</td></tr>
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
-<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr></table>
-<p></p>
+<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
+</table >
