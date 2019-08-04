@@ -11,6 +11,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
+
 <table>
 <tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> Presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019
@@ -28,5 +29,4 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
 </table>
 
------
 
