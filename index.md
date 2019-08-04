@@ -27,6 +27,4 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
 <tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr></table>
-
-
-hello there
+<p></p>
