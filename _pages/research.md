@@ -7,32 +7,32 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 
 #### **Papers**
 
-* Generating Question-Answer Hierarchies  
+Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
 \[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[project page](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[code](https://github.com/martiansideofthemoon/squash-generation)\] \[[dataset](https://drive.google.com/open?id=1FlVtPgyBiJIEOIecnNLH3cg0EbKkK0Z4)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\]
 
-* Syntactically Supervised Transformers for Faster Neural Machine Translation.  
+Syntactically Supervised Transformers for Faster Neural Machine Translation.  
 [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
 \[[arxiv](https://arxiv.org/abs/1906.02780)\] \[[code](https://github.com/dojoteef/synst)\]
 
-* Trick or TReAT: Thematic Reinforcement for Artistic Typography  
+Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
 **ICCC 2019** *(oral presentation)*  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\] \[[code](https://github.com/purvaten/treat)\] \[[slides](https://purvaten.github.io/data/TReAT-talk.pdf)\] \[[video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3)\] \[[demo](http://doodle.cloudcv.org/)\]  
 (<a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
-* Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
+Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **EMNLP 2018** *(oral presentation, short paper)*  
 \[[arxiv](https://arxiv.org/abs/1808.07733)\] \[[code + data](https://github.com/martiansideofthemoon/logic-rules-sentiment/)\] \[[slides]({{ site.url }}/assets/emnlp-2018.pdf)\] \[[video](https://vimeo.com/306136412)\]  
 
-* Hierarchical Multitask Learning for CTC-based Speech Recognition  
+Hierarchical Multitask Learning for CTC-based Speech Recognition  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Shubham Toshniwal](http://ttic.uchicago.edu/~shtoshni/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 \[[arxiv](https://arxiv.org/abs/1807.06234)\] \[[external video](https://www.youtube.com/watch?v=OSpFS8kyibw)\]  
 
-* A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
+A Study of All-Convolutional Encoders for Connectionist Temporal Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arxiv](https://arxiv.org/abs/1710.10398)\] \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]
