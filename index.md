@@ -12,7 +12,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 #### Updates
 
 <table>
-<tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019!</td></tr>
+<tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019</td></tr>
 <tr><td></td><td>Check out the AllenNLP homework I designed for our grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> Presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019
 <tr><td></td><td>Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
