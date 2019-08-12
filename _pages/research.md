@@ -44,6 +44,10 @@ A Study of All-Convolutional Encoders for Connectionist Temporal Classification
 IIT Bombay *(2017-2018)*  
 \[[pdf](https://people.cs.umass.edu/~kalpesh/btp-report.pdf)\]
 
+#### **Course Materials**
+
+[Homework](https://github.com/martiansideofthemoon/allennlp-probe-hw) on linguistic probe tasks for UMass Amherst's graduate NLP class 690D, designed using [AllenNLP](https://allennlp.org/).
+
 #### **Research Implementations**
 
 [Inference Networks for Structured Prediction](https://github.com/TheShadow29/infnet-spen) - A TensorFlow implementation for the multi-label classification experiments in [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376). Also contains experiments on the [FIGMENT](http://cistern.cis.lmu.de/figment/) dataset and a extension to Inference Network training algorithm based on the paper [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028).  
