@@ -12,7 +12,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 #### Updates
 
 <table>
-<tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019. Check out the AllenNLP HW I designed for a grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
+<tr><td><b>Aug 2019:</b></td><td> invited to give a lightning talk at the <a href="https://allennlp.org/">AllenNLP</a> Summit 2019.<br> Check out the AllenNLP HW I designed for a grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> Presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019
 <tr><td><b>Jul 2019:</b></td><td>Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> Awarded the <a href="http://www.acl2019.org/EN/student-scholarship-applications-volunteers.xhtml">ACL 2019 Student Scholarship</a> and the <a href="https://www.cics.umass.edu/support#lesser">Victor Lesser Graduate Scholarship</a></td></tr>

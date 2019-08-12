@@ -46,7 +46,7 @@ IIT Bombay *(2017-2018)*
 
 #### **Course Materials**
 
-[Homework](https://github.com/martiansideofthemoon/allennlp-probe-hw) on linguistic probe tasks for UMass Amherst's graduate NLP class 690D, designed using [AllenNLP](https://allennlp.org/).
+[Homework](https://github.com/martiansideofthemoon/allennlp-probe-hw) on linguistic probe tasks designed for UMass Amherst's grad NLP class using [AllenNLP](https://allennlp.org/).
 
 #### **Research Implementations**
 
