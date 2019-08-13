@@ -10,12 +10,12 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
-\[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[project page](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[code](https://github.com/martiansideofthemoon/squash-generation)\] \[[dataset](https://drive.google.com/open?id=1FlVtPgyBiJIEOIecnNLH3cg0EbKkK0Z4)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\]
+\[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[project page (with code + data)](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\]
 
 Syntactically Supervised Transformers for Faster Neural Machine Translation  
 [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
-\[[arxiv](https://arxiv.org/abs/1906.02780)\] \[[code](https://github.com/dojoteef/synst)\]
+\[[arxiv](https://arxiv.org/abs/1906.02780)\] \[[code](https://github.com/dojoteef/synst)\] \[[poster](https://people.cs.umass.edu/~nsa/posters/synst-acl2019.pdf)\]
 
 Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
