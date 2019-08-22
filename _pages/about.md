@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I am working with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) on question generation. I am interested in Natural Language Processing, Speech Recognition and Computer Security. Currently, I am spending a summer at the [Google AI Language](https://ai.google/research/teams/language/) team in New York working with [Gaurav Singh Tomar](https://ai.google/research/people/GauravSinghTomar/) and [Ankur Parikh](https://ai.google/research/people/104995/).
+My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I am working with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I am interested in Natural Language Processing, Speech Recognition and Computer Security. Currently, I am spending a summer at the [Google AI Language](https://ai.google/research/teams/language/) team in New York working with [Gaurav Singh Tomar](https://ai.google/research/people/GauravSinghTomar/) and [Ankur Parikh](https://ai.google/research/people/104995/).
 
 I graduated with a Bachelors in Electrical Engineering at [IIT Bombay](http://iitb.ac.in) in 2018. I was a part of the [CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/) group and was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
