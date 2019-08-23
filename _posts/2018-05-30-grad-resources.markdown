@@ -64,3 +64,5 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [H.T. Kung's Advice](https://www.eecs.harvard.edu/htk/phdadvice/)
 
 * [Phillip Torr's Guides](http://www.robots.ox.ac.uk/~phst/)
+
+* [Phil Agre's Guide](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html) on professional skills for PhD students
