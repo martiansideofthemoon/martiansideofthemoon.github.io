@@ -37,7 +37,7 @@ Prof. Jason Eisner has written several excellent advice articles [here](http://w
 
 * [Christopher Fletcher's Guide on Personal Statements](http://cwfletcher.net/Pages/SoP.php) - This guide includes his personal statements as well. He has shared some more advice articles [here](http://cwfletcher.net/Pages/Thoughts.php).
 
-* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools (post-selection). This article advises against using college rankings and focussing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html).
+* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This article advises against using college rankings and focusing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html).
 
 * [Tim Dettmer's Guide](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
 
