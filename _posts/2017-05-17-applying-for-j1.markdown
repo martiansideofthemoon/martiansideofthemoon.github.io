@@ -7,6 +7,8 @@ tags: visa info
 
 After a month's work, I've finally received my J1 visa and I'm ready to visit [TTIC](http://www.ttic.edu/) at the University of Chicago campus. In this blog I'll try to collect a few resources that helped me through the application process, along with my experience. Unfortunately, a number of seemingly disconnected steps need to be completed to have a successful application.
 
+For details on urgent J-1 visa requests, refer to the [Emergency Appointment](#emergency) section written by [Yash Kant](https://yashkant.github.io/).
+
 ## J-1 Visa
 
 The [J-1 Visa](https://j1visa.state.gov/) to the United States is a non-immigrant short term visa for exchange visits and internships. It is necessary for a person to be supported by a university or organization's program to be eligible for a J-1 visa. You can read more on [Wikipedia](https://en.wikipedia.org/wiki/J-1_visa).
@@ -21,7 +23,7 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
 
   In my case, TTIC was having issues with the SEVIS portal which delayed this by 2-3 weeks. I finally received my SEVIS ID on 20th April and my DS-2019 arrived on 25th April by Fedex.
 
-* **SEVIS Fee (I901)** - Having received a SEVIS ID and program code (sent along with SEVIS ID, also mentioned on DS-2019), you need to fill the **SEVIS registration fee** of 180$ [here](https://www.fmjfee.com/) for the given SEVIS ID. You will need a credit card to complete this payment, and it generally completes immediately. A **SEVIS fee receipt** will be generated which might be needed for the interview. Most sponsors ask us to pay this ourselves, and reimburse the 180$ with the receipt.
+* **SEVIS Fee (I901)** - Having received a SEVIS ID and program code (sent along with SEVIS ID, also mentioned on DS-2019), you need to fill the **SEVIS registration fee** of 220$ [here](https://studyinthestates.dhs.gov/2019/05/sevp-announces-changes-to-program-fees) for the given SEVIS ID. You will need a credit card to complete this payment, and it generally completes immediately. A **SEVIS fee receipt** will be generated which might be needed for the interview. Most sponsors ask us to pay this ourselves, and reimburse the 180$ with the receipt.
 
   This step was extremely smooth in my case, and I did it on 21st April, the day after I received my SEVIS ID.
 
@@ -48,6 +50,15 @@ The preparatory steps for the J-1 visa application and somewhat complicated. Her
   I booked my appointments on 24th April. The earliest appointment I was getting was 12th May. I finally settled for a 14th May biometrics at 1:30PM and a 15th May appointment at 9:00AM. The 9:00AM slot is recommended for the interview, since the processing is generally completed on the same day by afternoon. (in Mumbai)
 
 *Note - In case you make a mistake during any of the payment steps, feel free to call the customer care service mentioned on the website, they are very helpful.*
+
+## Emergency Appointment
+<a name="emergency"></a>
+
+(credits - [Yash Kant](https://yashkant.github.io/))
+
+* **Emergency visa (eligibility)** - To apply for an emergency appointment you need to book a regular appointment first, then check the eligibility criteria [here](https://www.ustraveldocs.com/in/in-niv-expeditedappointment.asp). Essentially, you are eligible when the start date of your program (as mentioned on DS-2019) is within 60 days and you haven't been refused a visa within last 6 months. If you're eligible, proceed to below point to book an emergency appointment. 
+
+* **Emergency visa (application)** - Raise an emergency appointment request [here](https://cgifederal.secure.force.com/), you need to attach DS-2019 as your supporting document. You can attach up to five supporting documents, I attached my DS-2019, and additionally the SEVIS fee receipt, regular appointment confirmation, and offer letter. Next, you are required to briefly explain your situation in words, try to write this in 3-4 sentences, here's [mine](https://gist.github.com/yashkant/d281772dfb5b5448404f36aa719ec6a9). After this, the consulate will review your request and get back to you within 48 hours. Once it is approved (yay!) you need to login [here](https://cgifederal.secure.force.com/) again and book new VAC and interview appointments. This time you will find closer dates available for interview appointment. 
 
 ## Documents
 
@@ -112,6 +123,12 @@ Only my **Passport** and **DS-2019** was needed, though I was told to keep my **
 **Me**: *"No"*  
 **Officer**: *"Here you go! Congratulations, you can head straight to the exit."*  
 **Me**: *"Thank you!"*  
+
+## Tracking
+
+(credits - [Yash Kant](https://yashkant.github.io/))
+
+If you choose to get the passport delivered, you can track your passport as mentioned [here](https://www.ustraveldocs.com/in/in-niv-passporttrack.asp). The easiest alternative is sending an email to passportstatus@ustraveldocs.com with your passport number as subject and body.
 
 ## Collection
 
