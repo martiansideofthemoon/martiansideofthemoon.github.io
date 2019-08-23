@@ -128,7 +128,7 @@ Only my **Passport** and **DS-2019** was needed, though I was told to keep my **
 
 (credits - [Yash Kant](https://yashkant.github.io/))
 
-If you choose to get the passport delivered, you can track your passport as mentioned [here](https://www.ustraveldocs.com/in/in-niv-passporttrack.asp). The easiest alternative is sending an email to passportstatus@ustraveldocs.com with your passport number as subject and body.
+If you choose to get the passport delivered, you can track your passport as mentioned [here](https://www.ustraveldocs.com/in/in-niv-passporttrack.asp). The easiest alternative is sending an email to [passportstatus@ustraveldocs.com](mailto:passportstatus@ustraveldocs.com) with your passport number as subject and body.
 
 ## Collection
 
