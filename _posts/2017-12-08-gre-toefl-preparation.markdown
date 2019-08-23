@@ -25,7 +25,7 @@ I gave my GRE exam on 28th August, 2017 (for reference, my graduate applications
 
 ### GRE Preparation
 
-I tried to study for GRE during my summer internship, but couldn't do much beyond understanding the exam pattern. I started off with [these](https://drive.google.com/open?id=0B36C1JLEtF-7d3c1VUppWVFIUGs) Magoosh / GreenlightTestPrep videos (download them quickly before they are taken off!). I recommend fully understanding the different question types and exam pattern before venturing into hardcore preparation. I resumed my GRE preparation between 24th and 30th July, and finally 5th August to 27th August (examination day). I would have loved to prepare for 1-2 weeks more, but I am happy with the final outcome.
+I tried to study for GRE during my summer internship, but couldn't do much beyond understanding the exam pattern. I started off with [these](https://drive.google.com/open?id=0B36C1JLEtF-7d3c1VUppWVFIUGs) Magoosh / GreenlightTestPrep videos. I recommend fully understanding the different question types and exam pattern before venturing into hardcore preparation. I resumed my GRE preparation between 24th and 30th July, and finally 5th August to 27th August (examination day). I would have loved to prepare for 1-2 weeks more, but I am happy with the final outcome.
 
 #### Preparation Material
 
