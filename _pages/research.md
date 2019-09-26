@@ -7,7 +7,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 
 #### **Papers**
 
-Thieves on Sesame Street! Model Extraction of BERT-based APIs
+Thieves on Sesame Street! Model Extraction of BERT-based APIs  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 *(preprint, available on request)*
 
