@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Open-Source
+permalink: /open_source/
 ---
 
-Outlining my non-research projects and code here. My research work can be seen [here](/research/).
+Outlining my non-research, open source contributions here. My research work can be seen [here](/research/).
 
 #### **Open Source**
 
