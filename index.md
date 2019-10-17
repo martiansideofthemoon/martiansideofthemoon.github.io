@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 25%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
 
 My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing.
 
@@ -15,6 +15,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 
 #### Updates
 
+<div style="height:100px;overflow:auto;">
 <table>
 <tr><td><b>Aug 2019:</b></td><td> lightning talk at the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit 2019</a> on using AllenNLP for education.</td></tr>
 <tr><td></td><td>Check out the AllenNLP homework I designed for our grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
@@ -31,3 +32,4 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
 <tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
+</div>
