@@ -3,9 +3,12 @@ layout: page
 ---
 {% include JB/setup %}
 
+<img style="float: right;" src=" {{ site.url }}/assets/profile.jpg ">
+
 My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing.
 
 Previously, I was an undergraduate student at [IIT Bombay](http://iitb.ac.in).  I have spent summers at [Google AI Language](https://ai.google/research/teams/language/) in New York (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
+
 ![New Hampshire!]({{ site.url }}/assets/profile.jpg)
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/cv).
