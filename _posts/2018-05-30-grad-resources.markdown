@@ -5,12 +5,10 @@ date:   2018-05-30 00:00:55 +0530
 tags: grad ms phd
 ---
 
-I previously wrote an [article]({% post_url 2017-12-08-gre-toefl-preparation %}) on GRE and TOEFL preparation. This is my second blogpost on graduate school admissions. I have tried to compile all the online resources I used to prepare my graduate school application.  
-Most of this advice is written by professors and is focussed towards PhD applicants. Several webpages shared in this blog contain a wide-spectrum of advice articles, many of which are relevant to undergraduates and graduate school applicants.
+Previously, I wrote an [article]({% post_url 2017-12-08-gre-toefl-preparation %}) on GRE and TOEFL preparation. This is my second blogpost on graduate school admissions. I have tried to compile all the online resources I used to prepare my graduate school application.  
+Most of this advice is **written by professors** and is focused towards PhD applicants. Several webpages shared in this blog contain a wide-spectrum of advice articles, many of which are relevant to undergraduates and graduate school applicants.
 
-### MS Application Guides
-
-* [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
+**Students' Perspective on Grad School Applications** - Most recently, we have surveyed twelve recent NLP PhD applicants on their experience while applying to graduate school. Unlike the remainder of this article, this article was written by young PhD students who applied to graduate school in the last 3 years. Check it out [here](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)!
 
 ### PhD Application Guides
 
@@ -66,3 +64,7 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [Phillip Torr's Guides](http://www.robots.ox.ac.uk/~phst/)
 
 * [Phil Agre's Guide](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html) on professional skills for PhD students
+
+### MS Application Guides
+
+* [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
