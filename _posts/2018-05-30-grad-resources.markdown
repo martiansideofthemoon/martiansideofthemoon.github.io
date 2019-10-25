@@ -44,6 +44,10 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Vijay Chidambaram's Tweet](https://twitter.com/vj_chidambaram/status/933388419589459969) - A detailed tweet on best practices while writing SOPs.
 
+### MS Application Guides
+
+* [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
+
 ### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
@@ -64,7 +68,3 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [Phillip Torr's Guides](http://www.robots.ox.ac.uk/~phst/)
 
 * [Phil Agre's Guide](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html) on professional skills for PhD students
-
-### MS Application Guides
-
-* [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
