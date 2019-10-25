@@ -6,7 +6,7 @@ tags: nlp research graduate school phd students
 image: https://blog.nelsonliu.me/content/images/2019/10/thumbnail.gif
 ---
 
-Recently, we compiled a survey of NLP PhD applicants on their graduate school application experience. An article summarizing the main results can be found [here](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)!
+Recently, we compiled a survey of NLP PhD applicants on their graduate school application experience. Our survey can be found [here](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)!
 
 **This post was written by**: [Akari Asai](https://akariasai.github.io/), [John Hewitt](https://nlp.stanford.edu/~johnhew/), [Sidd Karamcheti](https://www.siddkaramcheti.com/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Nelson Liu](http://nelsonliu.me), [Roma Patel](http://cs.brown.edu/people/rpatel59/), and [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/).
 
