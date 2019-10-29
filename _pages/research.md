@@ -9,7 +9,7 @@ My interests include Natural Language Processing, Speech Recognition, Machine Le
 
 Thieves on Sesame Street! Model Extraction of BERT-based APIs  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
-*(preprint, available on request)*
+\[[arxiv](https://arxiv.org/abs/1910.12366)\]
 
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
