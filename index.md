@@ -19,7 +19,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Dec 2019:</b></td><td> new <a href="https://arxiv.org/abs/1910.12366">paper</a> on model extraction attacks on BERT-based models to appear at ICLR 2020</td></tr>
+<tr><td><b>Dec 2019:</b></td><td> new <a href="https://arxiv.org/abs/1910.12366">paper</a> on model extraction attacks on BERT-based models to appear at ICLR 2020.</td></tr>
 <tr><td><b>Oct 2019:</b></td><td> new <a href="https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/">blog</a> surveying twelve recent NLP PhD applicants on the graduate school admission process! Also an <a href="https://www.insightiitb.org/umass-amherst-kalpesh-krishna-univ-series/">Insight IITB article</a> on my personal experience.</td></tr>
 <tr><td><b>Aug 2019:</b></td><td> lightning talk at the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit 2019</a> on using AllenNLP for education. Check out the AllenNLP homework I designed for our grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
 <tr><td><b>Jul 2019:</b></td><td> presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019. Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
