@@ -68,3 +68,5 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [Phillip Torr's Guides](http://www.robots.ox.ac.uk/~phst/)
 
 * [Phil Agre's Guide](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html) on professional skills for PhD students
+
+* [Karl Stratos' article](http://karlstratos.com/#student) on being a successful PhD student
