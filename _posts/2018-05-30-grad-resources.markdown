@@ -54,6 +54,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Jean Yang's Experience](http://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
+* [Andreas Madsen's Experience](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b) on becoming an independent researcher. While this is not a strict application guide, it talks about the competitive nature of today's PhD admission process in machine learning, and the steps he took to become an independent researcher.
+
 ### PhD Advice
 These articles are guides for having a more successful PhD (*after* joining a PhD program).
 
