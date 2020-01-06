@@ -44,6 +44,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Vijay Chidambaram's Tweet](https://twitter.com/vj_chidambaram/status/933388419589459969) - A detailed tweet on best practices while writing SOPs.
 
+* [Mark Corner's Admission Notes](https://emeryberger.com/admission-notes/) on requirements and common mistakes made by international students applying for PhD programs in USA.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
