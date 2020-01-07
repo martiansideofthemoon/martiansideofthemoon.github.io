@@ -14,7 +14,7 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Mor Harchol Balter's Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - An excellent but slightly out-dated guide on writing good PhD applications by a CMU professor. This is a very comprehensive article which starts with the pros and cons of a PhD degree, moves to the application process and ends with some advice on choosing the correct graduate program.
 
-* [Philip Guo's Five-Minute Guide](http://www.pgbovine.net/PhD-application-tips.htm) - A short guide describing the initial screening process during PhD admissions. Lots of interesting videos / articles in the "related pages" section at the end of the guide. You might find the Statements of Purpose linked in this article useful.
+* [Philip Guo's Five-Minute Guide](http://www.pgbovine.net/PhD-application-tips.htm) - A short guide describing the initial screening process during PhD admissions. Lots of interesting videos / articles in the "related pages" section at the end of the guide. You might find the Statements of Purpose linked in this article useful. Philip Guo also has a Vlog on [finding computer science PhD programs](http://www.pgbovine.net/PG-Vlog-203-applying-to-CS-PhD-programs.htm) to apply to using [CSRankings](csrankings.org/).
 
 * [Philip Guo's Older Guide](http://www.pgbovine.net/grad-school-app-tips.htm) - A more comprehensive article listing the best strategies to maximize your chances of selection. This was written while Philip Guo was still a graduate student.
 
@@ -28,7 +28,7 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
   Finally, [here](https://www.cs.cmu.edu/~ddanish/blog/mlt-to-phd/) is an article by Danish Pruthi discussing the conversion statistics from an MLT degree to a PhD degree, an important question many NLP PhD candidates have.
 
-* [Matthew Might's Guide](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) - An excellent blog focussing on the importance of good recommendation letters and prior research experience (preferrably publications). Has some nice examples of accepted and rejected applications towards the end. Matthew Might has written many comprehensive advice articles (see "Related posts") on sending emails, doing research etc. One celebrated article (rather, a collection of pictures) is [An Illustrated Guide to A PhD](http://matt.might.net/articles/phd-school-in-pictures/).
+* [Matthew Might's Guide](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) - An excellent blog focussing on the importance of good recommendation letters and prior research experience (preferrably publications). Has some nice examples of accepted and rejected applications towards the end. Matthew Might has written many comprehensive advice articles (see "Related posts") on sending emails, doing research etc. One celebrated article (rather, a collection of pictures) is [An Illustrated Guide to A PhD](http://matt.might.net/articles/phd-school-in-pictures/). He also has an article on [asking for a recommendation letter](http://matt.might.net/articles/how-to-recommendation-letter/).
 
 * [David Evan's Guide for Writing Emails](http://www.cs.virginia.edu/~evans/advice/prospective.html) - A popular article on the optimal strategy to emailing prospective PhD advisors. A must-read if you are planning to send out emails to professors.
 
@@ -42,13 +42,15 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Tim Dettmer's Guide](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
 
-* [Vijay Chidambaram's Tweet](https://twitter.com/vj_chidambaram/status/933388419589459969) - A detailed tweet on best practices while writing SOPs.
+* [Vijay Chidambaram's Tweet](https://twitter.com/vj_chidambaram/status/933388419589459969) - A detailed tweet on best practices while writing SOPs. He also has an article on [choosing the right graduate school](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246).
 
 * [Mark Corner's Admission Notes](https://emeryberger.com/admission-notes/) on requirements and common mistakes made by international students applying for PhD programs in USA.
 
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
+
+* [Shriram Krishnamurthi's article](http://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/) on financial aid in computer science master's programs.
 
 ### PhD Experiences
 
