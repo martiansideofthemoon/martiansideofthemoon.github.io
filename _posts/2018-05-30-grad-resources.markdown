@@ -76,3 +76,12 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 * [Phil Agre's Guide](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html) on professional skills for PhD students
 
 * [Karl Stratos' article](http://karlstratos.com/#student) on being a successful PhD student
+
+### Research Advice
+These articles are more general pieces of advice to have a more impactful research career.
+
+* [David Patterson's slides](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) on how to have a bad career in research. Here is a newer [video](https://www.youtube.com/watch?v=Rn1w4MRHIhc) with the talk.
+
+* [Emery Berger's article](https://blog.sigplan.org/2019/10/29/how-to-have-real-world-impact-five-easy-pieces/) on having real-world impact via your research.
+
+* [Richard Hamming's talk transcript](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) on how to do world-class research. Here is a [video](https://www.youtube.com/watch?v=a1zDuOPkMSw) for the talk.
