@@ -20,7 +20,7 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Jean Yang's Guide](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-1-deciding-to-apply.html) - A seven-part comprehensive article on the whole PhD admission process. Jean Yang's Statement of Purpose is very well-written, and helped me considerably. This guide also contains details about what to look for during visit days.
 
-* [Jason Eisner's Guide](http://www.cs.jhu.edu/~jason/advice/prospective-students.html) for JHU / CLSP - A very nice article on graduate admission process, with a focus on JHU admissions into the [Center for Language and Speech Processing (CLSP)](http://clsp.jhu.edu/) (a top research group for prospective NLP / Speech students). This article contains an important section on school rankings (and why they should be taken with a grain of salt). Prof. Jason Eisner has written several excellent advice articles [here](http://www.cs.jhu.edu/~jason/advice/), some of which are relevant to graduate school admissions. He is also quite active on Quora.  
+* [Jason Eisner's Guide](http://www.cs.jhu.edu/~jason/advice/prospective-students.html) for JHU / CLSP - A very nice article on graduate admission process, with a focus on JHU admissions into the [Center for Language and Speech Processing (CLSP)](http://clsp.jhu.edu/) (a top research group for prospective NLP / Speech students). This article contains an important section on school rankings (and why they should be taken with a grain of salt). Prof. Jason Eisner has written several excellent advice articles [here](http://www.cs.jhu.edu/~jason/advice/), some of which are relevant to graduate school admissions. He is also quite active on Quora.
 
   CLSP has also written a broader PhD admission FAQ [here](https://www.clsp.jhu.edu/apply-for-phd/phd-admissions-faq/).
 
@@ -46,6 +46,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Mark Corner's Admission Notes](https://emeryberger.com/admission-notes/) on requirements and common mistakes made by international students applying for PhD programs in USA.
 
+* [Andreas Madsen's Experience](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b) on becoming an independent researcher. While this is not a strict application guide, it talks about the competitive nature of today's PhD admission process in machine learning, and the steps he took to become an independent researcher.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
@@ -57,8 +59,6 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
 
 * [Jean Yang's Experience](http://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
-
-* [Andreas Madsen's Experience](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b) on becoming an independent researcher. While this is not a strict application guide, it talks about the competitive nature of today's PhD admission process in machine learning, and the steps he took to become an independent researcher.
 
 ### PhD Advice
 These articles are guides for having a more successful PhD (*after* joining a PhD program).
@@ -85,3 +85,5 @@ These articles are more general pieces of advice to have a more impactful resear
 * [Emery Berger's article](https://blog.sigplan.org/2019/10/29/how-to-have-real-world-impact-five-easy-pieces/) on having real-world impact via your research.
 
 * [Richard Hamming's talk transcript](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) on how to do world-class research. Here is a [video](https://www.youtube.com/watch?v=a1zDuOPkMSw) for the talk.
+
+* 
