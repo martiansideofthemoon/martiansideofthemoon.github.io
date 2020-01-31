@@ -86,4 +86,6 @@ These articles are more general pieces of advice to have a more impactful resear
 
 * [Richard Hamming's talk transcript](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) on how to do world-class research. Here is a [video](https://www.youtube.com/watch?v=a1zDuOPkMSw) for the talk.
 
-* 
+* [John Schulman's guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+
+* [Michael Nielsen's article on Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/)
