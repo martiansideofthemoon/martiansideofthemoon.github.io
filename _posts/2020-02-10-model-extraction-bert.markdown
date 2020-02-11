@@ -30,7 +30,7 @@ There are three important differences when comparing this process to distillatio
 
 ### How much do these attacks cost?
 
-**Commercial APIs tend to be cheap.** Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs $62.35 to extract SST2; $430.56 to extract a speech recognition dataset of the size Switchboard; and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address and it's possible to collect datasets for much lesser costs if data collection is distributed across IP addresses.
+**Commercial APIs tend to be cheap.** Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs $62.35 to extract SST2; $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address and it's possible to collect datasets for much lesser costs if data collection is distributed across IP addresses.
 
 ### What kind of attacks do we study in our paper?
 
