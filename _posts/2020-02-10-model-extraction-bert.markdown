@@ -41,11 +41,18 @@ Our key finding is that model extraction attacks are surprisingly effective with
 
 <style>
 table {
+	border-collapse: collapse;
     width:100%;
+    border-spacing: 0;
     border: 1px solid;
 }
-td{
+th{
     border:1px solid #000000;
+    text-align: right;
+}
+td{
+    border:1px solid;
+    text-align: right;
 }
 </style>
 
@@ -57,6 +64,8 @@ td{
 | `RANDOM`            | upto 10x          | 90.5     | 78.5     | 85.8       |
 | `WIKI`              | 1x                | 91.4     | 77.8     | 86.1       |
 | `WIKI`              | upto 10x          | 91.7     | 79.3     | 89.4       |
+
+
 
 ### Did language model pre-training make model extraction easier?
 
