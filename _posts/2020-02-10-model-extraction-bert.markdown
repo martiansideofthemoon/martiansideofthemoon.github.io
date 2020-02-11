@@ -3,7 +3,7 @@ layout: post
 title:  "Model Extraction Attacks on BERT-based APIs"
 date:   2020-02-10 09:00:55 +0530
 tags: nlp research security model extraction stealing bert ML
-image: http://martiansideofthemoon.github.io/assets/extraction-squad.png
+image: http://martiansideofthemoon.github.io/assets/extraction_sst2.png
 ---
 
 ### Overview
@@ -16,11 +16,11 @@ This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame S
 
 Let's say a company hosts a publicly accessible deep learning inference API (the **victim model**), possibly behind a pay-wall allowing users to query the API with any input of their choice. A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which work on the victim model.
 
-The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based SQuAD question answering model below.
-
-![extraction_squad]({{ site.url }}/assets/extraction_squad.png)
+The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based sentiment classifier below.
 
 ![extraction_sst2]({{ site.url }}/assets/extraction_sst2.png)
+
+![extraction_squad]({{ site.url }}/assets/extraction_squad.png)
 
 There are three important differences when comparing this process to distillation.
 
