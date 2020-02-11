@@ -3,7 +3,7 @@ layout: post
 title:  "Crowdsourcing 101"
 date:   2018-06-05 09:00:55 +0530
 tags: nlp research crowd
-image: https://ideascale.com/wp-content/uploads/2015/08/employee-crowdsourcing.jpg
+image: http://martiansideofthemoon.github.io/assets/extraction-squad.png
 ---
 
 I recently used crowdsourced experiments for the first time during my Bachelor's Thesis Project with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). In this blog I will share a few important steps we took to improve the quality of our crowdsourced data. I sincerely thank [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) for suggesting several useful tips during these experiments, many of which will appear throughout this blog.
