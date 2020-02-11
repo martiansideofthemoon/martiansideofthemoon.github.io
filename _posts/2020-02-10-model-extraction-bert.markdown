@@ -57,6 +57,7 @@ td{
 }
 </style>
 
+<br/>
 
 |                     | Number of Queries | SST2 (%) | MNLI (%) | SQuAD (F1) |
 |---------------------|-------------------|----------|----------|------------|
@@ -66,7 +67,7 @@ td{
 | `WIKI`              | 1x                | 91.4     | 77.8     | 86.1       |
 | `WIKI`              | upto 10x          | 91.7     | 79.3     | 89.4       |
 
-
+<br/>
 
 ### Did language model pre-training make model extraction easier?
 
