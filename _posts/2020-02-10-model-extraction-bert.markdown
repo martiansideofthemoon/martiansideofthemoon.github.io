@@ -44,6 +44,9 @@ table {
     width:100%;
     border: 1px solid;
 }
+td{
+    border:1px solid #000000;
+}
 </style>
 
 
