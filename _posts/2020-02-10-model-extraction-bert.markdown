@@ -39,25 +39,13 @@ We use two strategies to construct attack queries. The first strategy (`RANDOM`)
 
 Our key finding is that model extraction attacks are surprisingly effective with our RANDOM strategy and improves with the WIKI strategy. For instance, the original BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our RANDOM strategy, we can reach up to 85.8 F1 without the model seeing a single grammatically valid paragraph or question during training. With our WIKI strategy, performance jumps to 89.4 F1 without seeing a single real training data point.
 
-<center>
-
-<table border="1">
-	<tr><th></th><th>Number of Queries</th><th>SST2 (%)</th><th>MNLI (%)</th><th>SQuAD (F1)</th></tr>
-	<tr><td>API / Victim Model</td><td>1x</td><td>93.1</td><td>85.8</td><td>90.6</td></tr>
-	<tr><td>`RANDOM`</td><td>1x</td><td>90.1</td><td>76.3</td><td>79.1</td></tr>
-	<tr></tr>
-	<tr></tr>
-</table>
-
-|                     |  |  |  |  |
+|                     | Number of Queries | SST2 (%) | MNLI (%) | SQuAD (F1) |
 |---------------------|-------------------|----------|----------|------------|
-|  | 1x                | 93.1     | 85.8     | 90.6       |
+| API / Victim Model  | 1x                | 93.1     | 85.8     | 90.6       |
 | `RANDOM`            | 1x                | 90.1     | 76.3     | 79.1       |
 | `RANDOM`            | upto 10x          | 90.5     | 78.5     | 85.8       |
 | `WIKI`              | 1x                | 91.4     | 77.8     | 86.1       |
 | `WIKI`              | upto 10x          | 91.7     | 79.3     | 89.4       |
-
-</center>
 
 ### Did language model pre-training make model extraction easier?
 
