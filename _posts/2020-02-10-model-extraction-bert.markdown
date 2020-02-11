@@ -39,6 +39,14 @@ We use two strategies to construct attack queries. The first strategy (`RANDOM`)
 
 Our key finding is that model extraction attacks are surprisingly effective with our RANDOM strategy and improves with the WIKI strategy. For instance, the original BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our RANDOM strategy, we can reach up to 85.8 F1 without the model seeing a single grammatically valid paragraph or question during training. With our WIKI strategy, performance jumps to 89.4 F1 without seeing a single real training data point.
 
+<style>
+table {
+    width:100%;
+    border: 1px solid;
+}
+</style>
+
+
 |                     | Number of Queries | SST2 (%) | MNLI (%) | SQuAD (F1) |
 |---------------------|-------------------|----------|----------|------------|
 | API / Victim Model  | 1x                | 93.1     | 85.8     | 90.6       |
