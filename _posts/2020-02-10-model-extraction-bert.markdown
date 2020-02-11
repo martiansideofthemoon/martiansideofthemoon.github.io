@@ -20,6 +20,8 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 ![extraction_squad]({{ site.url }}/assets/extraction_squad.png)
 
+![extraction_sst2]({{ site.url }}/assets/extraction_sst2.png)
+
 There are three important differences when comparing this process to distillation.
 
 1. **Training Data** - Distillation usually assumes access to the original training dataset. In model extraction settings the training data is generally unknown to the attacker.
