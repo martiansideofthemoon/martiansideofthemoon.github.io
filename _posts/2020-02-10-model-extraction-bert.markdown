@@ -45,14 +45,15 @@ table {
     width:100%;
     border-spacing: 0;
     border: 1px solid;
+    padding: 1px;
 }
 th{
     border:1px solid #000000;
-    text-align: right;
+    text-align: center;
 }
 td{
     border:1px solid;
-    text-align: right;
+    text-align: center;
 }
 </style>
 
