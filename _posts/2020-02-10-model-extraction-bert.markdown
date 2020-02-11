@@ -13,13 +13,11 @@ This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame S
 
 ### What are model extraction attacks?
 
-Let's say a company hosts a publicly accessible deep learning inference API (we call this the **victim model**), possibly behind a pay-wall allowing users to query the API with any input of their choice. A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which work on the victim model.
+Let's say a company hosts a publicly accessible deep learning inference API (the **victim model**), possibly behind a pay-wall allowing users to query the API with any input of their choice. A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which work on the victim model.
 
-The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based SQuAD question answering model and BERT-based sentiment classification model in the figures below.
+The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based SQuAD question answering model below.
 
 ![extraction_squad]({{ site.url }}/assets/extraction_squad.png)
-
-![extraction_sst2]({{ site.url }}/assets/extraction_sst2.png)
 
 There are three important differences when comparing this process to distillation.
 
@@ -41,16 +39,16 @@ We use two strategies to construct attack queries. The first strategy (**RANDOM*
 
 Our key finding is that model extraction attacks are surprisingly effective with our RANDOM strategy and improves with the WIKI strategy. For instance, the original BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our RANDOM strategy, we can reach up to 85.8 F1 without the model seeing a single grammatically valid paragraph or question during training. With our WIKI strategy, performance jumps to 89.4 F1 without seeing a single real training data point.
 
-
-
+<center>
+{:class="table table-bordered"}
 |                     | Number of Queries | SST2 (%) | MNLI (%) | SQuAD (F1) |
 |---------------------|-------------------|----------|----------|------------|
 | API / Victim Model  | 1x                | 93.1     | 85.8     | 90.6       |
-| RANDOM              | 1x                | 90.1     | 76.3     | 79.1       |
-| RANDOM              | upto 10x          | 90.5     | 78.5     | 85.8       |
-| WIKI                | 1x                | 91.4     | 77.8     | 86.1       |
-| WIKI                | upto 10x          | 91.7     | 79.3     | 89.4       |
-
+| **RANDOM**          | 1x                | 90.1     | 76.3     | 79.1       |
+| **RANDOM**          | upto 10x          | 90.5     | 78.5     | 85.8       |
+| **WIKI**            | 1x                | 91.4     | 77.8     | 86.1       |
+| **WIKI**            | upto 10x          | 91.7     | 79.3     | 89.4       |
+</center>
 
 ### Did language model pre-training make model extraction easier?
 
@@ -72,10 +70,10 @@ In this work we studied model extraction attacks in natural language processing.
 
 Besides work on attack-defense mechanisms, we see two other avenues for research building on this body of work.
 
-1) Improving distillation - Since distillation is possible with random sequences of tokens, this might be a good way to perform distillation in low-resource NLP settings where the original training data is not available. Random sequences (perhaps with the intelligent data selection strategy) could also be used to augment real training data for distillation. It will be interesting to check whether random sequences can be leveraged to reduce the performance gap between the original and distilled models.
+1) **Improving Distillation** - Since distillation is possible with random sequences of tokens, this might be a good way to perform distillation in low-resource NLP settings where the original training data is not available. Random sequences (perhaps with the intelligent data selection strategy) could also be used to augment real training data for distillation. It will be interesting to check whether random sequences can be leveraged to reduce the performance gap between the original and distilled models.
 
-2) Closeness of input distributions - Model extraction might be a good way to understand the closeness between two input distributions, where one input distribution is used to extract a model trained on another input distribution. This technique could be used as a method to tackle an important open problem in NLP ("[What is a domain?](https://twitter.com/yoavgo/status/1205989007852810244)").
+2) **Closeness of Input Distributions** - Model extraction might be a good way to understand the closeness between two input distributions, where one input distribution is used to extract a model trained on another input distribution. This technique could be used as a method to tackle an important open problem in NLP ("[What is a domain?](https://twitter.com/yoavgo/status/1205989007852810244)").
 
 ### Contact
 
-This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur Parikh])(https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). We are happy to get in touch and hear feedback / questions at kalpesh@cs.umass.edu!
+This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). We are happy to get in touch and hear feedback / questions at kalpesh@cs.umass.edu!
