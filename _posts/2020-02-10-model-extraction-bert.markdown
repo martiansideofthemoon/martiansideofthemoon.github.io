@@ -41,9 +41,17 @@ Our key finding is that model extraction attacks are surprisingly effective with
 
 <center>
 
-|                     | Number of Queries | SST2 (%) | MNLI (%) | SQuAD (F1) |
+<table border="1">
+	<tr><th></th><th>Number of Queries</th><th>SST2 (%)</th><th>MNLI (%)</th><th>SQuAD (F1)</th></tr>
+	<tr><td>API / Victim Model</td><td>1x</td><td>93.1</td><td>85.8</td><td>90.6</td></tr>
+	<tr><td>`RANDOM`</td><td>1x</td><td>90.1</td><td>76.3</td><td>79.1</td></tr>
+	<tr></tr>
+	<tr></tr>
+</table>
+
+|                     |  |  |  |  |
 |---------------------|-------------------|----------|----------|------------|
-| API / Victim Model  | 1x                | 93.1     | 85.8     | 90.6       |
+|  | 1x                | 93.1     | 85.8     | 90.6       |
 | `RANDOM`            | 1x                | 90.1     | 76.3     | 79.1       |
 | `RANDOM`            | upto 10x          | 90.5     | 78.5     | 85.8       |
 | `WIKI`              | 1x                | 91.4     | 77.8     | 86.1       |
