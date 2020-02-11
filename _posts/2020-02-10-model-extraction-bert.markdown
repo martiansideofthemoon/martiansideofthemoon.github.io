@@ -3,7 +3,7 @@ layout: post
 title:  "Model Extraction Attacks on BERT-based APIs"
 date:   2020-02-10 09:00:55 +0530
 tags: nlp research security model extraction stealing bert ML
-image: {{ site.url }}/assets/extraction_squad.png
+image: http://martiansideofthemoon.github.io/assets/extraction_squad.png
 ---
 
 ### Overview
