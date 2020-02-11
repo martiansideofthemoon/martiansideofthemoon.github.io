@@ -10,7 +10,7 @@ image: http://martiansideofthemoon.github.io/assets/extraction_sst2.png
 
 This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame Street! Model Extraction of BERT-based APIs". You can find the camera ready version of the paper [here](https://arxiv.org/abs/1910.12366) and the code to reproduce experiments [here](https://github.com/google-research/language/tree/master/language/bert_extraction).
 
-**TL;DR**: It is possible to perform distillation on BERT-based downstream NLP models without any real training data, even with nonsensical randomly sampled sequences of tokens. Commercial NLP inference APIs based on deep-learning are at the risk of being stolen via this process of zero-shot distillation.
+**TL;DR**: It is possible to perform distillation on BERT-based downstream NLP models without any real training data, even with nonsensical randomly sampled sequences of tokens (for example, `to way train that like be`). Commercial NLP inference APIs based on deep-learning are at the risk of being stolen via this process of zero-shot distillation.
 
 ### What are model extraction attacks?
 
@@ -24,8 +24,8 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 There are three important differences when comparing this process to distillation.
 
-1. **Training Data** - Distillation usually assumes access to the original training dataset. In model extraction settings the training data is generally unknown to the attacker.
-2. **Access to Victim Model** - Distillation assumes (and often leverages) full white-box access to the internals of the model. On the other hand, model extraction has only black-box access to the victim model with only the output labels and/or the model’s confidence scores.
+1. **Training Data** - Distillation usually assumes access to the original training dataset. In model extraction settings the training data is unknown to the attacker.
+2. **Access to Victim Model** - Distillation assumes (and often leverages) full white-box access to the internals of the model. On the other hand, attackers have only black-box access to the victim model (only the output labels or confidence scores for a given query).
 3. **Goal** -  Distillation aims to transfers knowledge from a big model to a small model, but there is no such requirement in model extraction.
 
 ### How much do these attacks cost?
