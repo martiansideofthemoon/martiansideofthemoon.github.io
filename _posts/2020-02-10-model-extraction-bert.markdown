@@ -82,11 +82,11 @@ These results suggest that the closeness of the queries to the original training
 
 ### Is it possible to defend APIs against model extraction?
 
-We investigated two strategies to defend APIs against model extraction --- 1) membership classification 2) API watermarking. While **both defenses were effective to some degree, they work only in limited settings** --- sophisticated adversaries might anticipate these defenses and develop simple modifications to their attacks to circumvent these defenses. Defense against model extraction is a tricky open problem, since an ideal defense should not only preserve API utility but also be undetectable to an attacker.
+We investigated two strategies to defend APIs against model extraction --- 1) membership classification 2) API watermarking. While **both defenses were effective to some degree, they work only in limited settings** --- sophisticated adversaries might anticipate these defenses and develop simple modifications to their attacks to circumvent these defenses. Defense against model extraction is a [tricky open problem](https://arxiv.org/pdf/1909.01838.pdf#section.8), since an ideal defense should not only preserve API utility but also be undetectable to an attacker.
 
 ### Conclusions & Future Work
 
-In this work we studied model extraction attacks in natural language processing. The attacks we discussed were quite simple and should be treated as lower bounds to more sophisticated attacks leveraging active learning. We hope that this work highlights the dangers of model extraction and fuels research in the development of defense mechanisms which slow down or prevent model extraction.
+In this work we studied model extraction attacks in natural language processing. The attacks we discussed were quite simple and should be treated as lower bounds to more [sophisticated attacks](https://arxiv.org/abs/1811.02054) leveraging active learning. We hope that this work highlights the need for more research in the development of defense mechanisms which make model extraction impractical.
 
 Besides work on attack-defense mechanisms, we see two other avenues for research building on this body of work.
 

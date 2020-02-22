@@ -12,6 +12,11 @@ Thieves on Sesame Street! Model Extraction of BERT-based APIs
 **ICLR 2020**  
 \[[arxiv](https://arxiv.org/abs/1910.12366)\] \[[code](https://github.com/google-research/language/tree/master/language/bert_extraction)\] \[[discussion on NLP Highlights podcast](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)\]
 
+SunPy: A Python package for Solar Physics  
+[Stuart J. Mumford](http://stuartmumford.uk/) and others  
+Journal of Open Source Software (**JOSS 2020**)  
+\[[paper + repository](https://joss.theoj.org/papers/10.21105/joss.01832)\]
+
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
@@ -24,7 +29,7 @@ Syntactically Supervised Transformers for Faster Neural Machine Translation
 
 Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
-**ICCC 2019** *(oral presentation)*  
+International Conference on Computational Creativity (**ICCC 2019**) *(oral presentation)*  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\] \[[code](https://github.com/purvaten/treat)\] \[[slides](https://purvaten.github.io/data/TReAT-talk.pdf)\] \[[video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3)\] \[[demo](http://doodle.cloudcv.org/)\]  
 (<a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
@@ -42,7 +47,7 @@ A Study of All-Convolutional Encoders for Connectionist Temporal Classification
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arxiv](https://arxiv.org/abs/1710.10398)\] \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]
 
-#### **Bachelor's Thesis**
+#### **Thesis**
 
 **Constraint Driven Learning**  
 *(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
