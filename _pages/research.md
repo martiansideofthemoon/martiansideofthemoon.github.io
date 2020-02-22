@@ -5,17 +5,12 @@ permalink: /research/
 ---
 My interests include Natural Language Processing, Speech Recognition, Machine Learning and Computer Security.
 
-#### **Papers**
+#### **Research Papers**
 
 Thieves on Sesame Street! Model Extraction of BERT-based APIs  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ICLR 2020**  
 \[[arxiv](https://arxiv.org/abs/1910.12366)\] \[[code](https://github.com/google-research/language/tree/master/language/bert_extraction)\] \[[discussion on NLP Highlights podcast](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)\]
-
-SunPy: A Python package for Solar Physics  
-[Stuart J. Mumford](http://stuartmumford.uk/) and others  
-Journal of Open Source Software (**JOSS 2020**)  
-\[[paper + repository](https://joss.theoj.org/papers/10.21105/joss.01832)\]
 
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
@@ -29,9 +24,9 @@ Syntactically Supervised Transformers for Faster Neural Machine Translation
 
 Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
-International Conference on Computational Creativity (**ICCC 2019**) *(oral presentation)*  
+**ICCC 2019** (International Conference on Computational Creativity)
 \[[arxiv](https://arxiv.org/abs/1903.07820)\] \[[code](https://github.com/purvaten/treat)\] \[[slides](https://purvaten.github.io/data/TReAT-talk.pdf)\] \[[video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3)\] \[[demo](http://doodle.cloudcv.org/)\]  
-(<a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
+(*oral presentation*, <a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
 Revisiting the Importance of Encoding Logic Rules in Sentiment Classification  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
@@ -46,6 +41,13 @@ A Study of All-Convolutional Encoders for Connectionist Temporal Classification
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/), [Karen Livescu](http://ttic.uchicago.edu/~klivescu/)  
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[arxiv](https://arxiv.org/abs/1710.10398)\] \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]
+
+#### **Software Papers**
+
+SunPy: A Python package for Solar Physics  
+[Stuart J. Mumford](http://stuartmumford.uk/) and others  
+**JOSS 2020** (Journal of Open Source Software)  
+\[[paper + repository](https://joss.theoj.org/papers/10.21105/joss.01832)\]
 
 #### **Thesis**
 
