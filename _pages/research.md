@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My interests include Natural Language Processing, Speech Recognition, Machine Learning and Computer Security.
+I am broadly interested in Natural Language Processing, Speech Recognition and Machine Learning Security & Privacy.
 
 #### **Research Papers**
 
@@ -24,7 +24,7 @@ Syntactically Supervised Transformers for Faster Neural Machine Translation
 
 Trick or TReAT: Thematic Reinforcement for Artistic Typography  
 [Purva Tendulkar](http://purvaten.github.io/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/)  
-**ICCC 2019**
+**ICCC 2019**  
 \[[arxiv](https://arxiv.org/abs/1903.07820)\] \[[code](https://github.com/purvaten/treat)\] \[[slides](https://purvaten.github.io/data/TReAT-talk.pdf)\] \[[video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3)\] \[[demo](http://doodle.cloudcv.org/)\]  
 (*oral presentation*, <a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
@@ -46,7 +46,7 @@ A Study of All-Convolutional Encoders for Connectionist Temporal Classification
 
 SunPy: A Python package for Solar Physics  
 [Stuart J. Mumford](http://stuartmumford.uk/) and others  
-**JOSS 2020**
+**JOSS 2020**  
 \[[paper + repository](https://joss.theoj.org/papers/10.21105/joss.01832)\]
 
 #### **Thesis**
