@@ -20,6 +20,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
+<div class="primary">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -102,6 +103,7 @@ The most popular approach to carry out this attack is via distillation. First, t
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>
 
 There are three important differences when comparing this process to distillation.
