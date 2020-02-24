@@ -16,6 +16,10 @@ Let's say a company hosts a publicly accessible deep learning inference API (the
 
 The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based sentiment classifier below.
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
