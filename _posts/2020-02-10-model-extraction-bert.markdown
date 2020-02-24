@@ -135,19 +135,19 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <img src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <img src="{{ site.url }}/assets/toss/toss_blog6.svg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
