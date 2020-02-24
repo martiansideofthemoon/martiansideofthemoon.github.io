@@ -68,6 +68,8 @@ The most popular approach to carry out this attack is via distillation. First, t
 /* Number text (1/3 etc) */
 .numbertext {
   /*color: #f2f2f2;*/
+  color: #881c1c;
+  font-weight: bold;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
