@@ -62,7 +62,7 @@ The most popular approach to carry out this attack is via distillation. First, t
   /*bottom: 8px;*/
   width: 100%;
   text-align: center;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 /* Number text (1/3 etc) */
