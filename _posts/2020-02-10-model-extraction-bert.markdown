@@ -167,7 +167,6 @@ The most popular approach to carry out this attack is via distillation. First, t
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
-<br>
 
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
