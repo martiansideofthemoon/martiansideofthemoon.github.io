@@ -116,19 +116,37 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 6</div>
   <img src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 6</div>
   <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 6</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 6</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
   <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
@@ -143,6 +161,9 @@ The most popular approach to carry out this attack is via distillation. First, t
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
 </div>
 
 <script>
