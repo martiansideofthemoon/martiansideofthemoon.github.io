@@ -211,6 +211,8 @@ function showSlides(n) {
 
 <br />
 
+### Model Extraction vs Distillation
+
 There are three important differences when comparing this process to distillation.
 
 1. **Training Data** - Distillation usually assumes access to the original training dataset or a different dataset sampled from a distribution similar to the original training data's distribution. In model extraction settings the training data is unknown to the attacker.
@@ -219,7 +221,9 @@ There are three important differences when comparing this process to distillatio
 
 ### How much do these attacks cost?
 
-**Commercial APIs tend to be cheap.** Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs $62.35 to extract [SST2](https://nlp.stanford.edu/sentiment/treebank.html); $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address and it's possible to collect datasets for much lesser costs if data collection is distributed across IP addresses. This is called a [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
+<h6><span style="color: #881c1c">**Commercial APIs tend to be cheap.**</span></h6>
+
+Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs $62.35 to extract [SST2](https://nlp.stanford.edu/sentiment/treebank.html); $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address and it's possible to collect datasets for much lesser costs if data collection is distributed across IP addresses. This is called a [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
 
 ### What kind of attacks do we study in our paper?
 
