@@ -8,7 +8,7 @@ image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 
 ### Overview
 
-**TL;DR**: It is possible to perform distillation on BERT-based downstream NLP models without any real training data, even with nonsensical randomly sampled sequences of tokens (for example, `to way train that like be`). Commercial NLP inference APIs based on deep-learning are at the risk of being stolen via this process of zero-shot distillation.
+**TL;DR**: It is possible to perform distillation on BERT-based downstream NLP models without any real training data, even with nonsensical randomly sampled sequences of tokens (for example, `to way train Harrison. like be`). Commercial NLP inference APIs based on deep-learning are at the risk of being stolen via this process of zero-shot distillation.
 
 ### What are model extraction attacks?
 
@@ -99,12 +99,12 @@ The most popular approach to carry out this attack is via distillation. First, t
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: 1} 
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4}
+  from {opacity: 1}
   to {opacity: 1}
 }
 
