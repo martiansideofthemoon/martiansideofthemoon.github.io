@@ -195,6 +195,8 @@ function showSlides(n) {
 }
 </script>
 
+<br /><br />
+
 There are three important differences when comparing this process to distillation.
 
 1. **Training Data** - Distillation usually assumes access to the original training dataset or a different dataset sampled from a distribution similar to the original training data's distribution. In model extraction settings the training data is unknown to the attacker.
