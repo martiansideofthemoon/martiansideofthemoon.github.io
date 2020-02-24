@@ -22,10 +22,23 @@ The most popular approach to carry out this attack is via distillation. First, t
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog6.svg" alt="New York">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+
     <div class="item active">
       <img src="{{ site.url }}/assets/toss/toss_blog1.svg" alt="Chania">
       <div class="carousel-caption">
@@ -49,6 +62,31 @@ The most popular approach to carry out this attack is via distillation. First, t
         <p>We love the Big Apple!</p>
       </div>
     </div>
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog4.svg" alt="New York">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog5.svg" alt="New York">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog6.svg" alt="New York">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+
   </div>
 
   <!-- Left and right controls -->
