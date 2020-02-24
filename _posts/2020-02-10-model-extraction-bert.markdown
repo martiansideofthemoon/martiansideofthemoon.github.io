@@ -130,13 +130,13 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
-  <div class="text">The company releases their model as a black-box, giving query access to users. We call this API the "victim model".</div>
+  <div class="text">The company releases their model as a black-box API --- users can query the model but cannot look at model internals or intermediate representations. We call this API the "victim model".</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
-  <div class="text">A malicious user generates a large number of queries / inputs. In this paper we study queries which are randomly sampled nonsensical sequences of tokens (as shown in the figure).</div>
+  <div class="text">A malicious user generates a large number of queries. In this paper we study queries which are randomly sampled nonsensical sequences of tokens (as shown in the figure).</div>
 </div>
 
 <div class="mySlides fade">
@@ -148,7 +148,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">The model trains a new model ("extracted model") from scratch using the queries as the training data X and the API's outputs as the train data Y.</div>
+  <div class="text">The model trains a new model (the "extracted model") from scratch using the queries as the training data input and the API's outputs as the training data labels.</div>
 </div>
 
 <div class="mySlides fade">
@@ -176,6 +176,8 @@ The most popular approach to carry out this attack is via distillation. First, t
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
   <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
 </div>
 
 <script>
