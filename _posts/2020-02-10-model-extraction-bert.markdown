@@ -34,7 +34,7 @@ The most popular approach to carry out this attack is via distillation. First, t
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -55,7 +55,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  /*color: #f2f2f2;*/
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -66,7 +66,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  /*color: #f2f2f2;*/
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
