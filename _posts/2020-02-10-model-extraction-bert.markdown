@@ -55,13 +55,14 @@ The most popular approach to carry out this attack is via distillation. First, t
 
 /* Caption text */
 .text {
-  /*color: #f2f2f2;*/
+  color: #881c1c;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
+  font-weight: bold;
 }
 
 /* Number text (1/3 etc) */
@@ -208,7 +209,7 @@ function showSlides(n) {
 }
 </script>
 
-<br /><br />
+<br />
 
 There are three important differences when comparing this process to distillation.
 
