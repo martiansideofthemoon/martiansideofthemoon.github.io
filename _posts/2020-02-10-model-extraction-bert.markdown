@@ -142,7 +142,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="mySlides fade">
   <div class="numbertext">5 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
-  <div class="text">The malicious user sends their queries to the API and collects the outputs produced by the model. While this figure assumes the API returns a probability distribution across sentiments, our results show that argmax labels are sufficient for model extraction.</div>
+  <div class="text">The malicious user sends their queries to the API and collects the outputs produced by the model. Note that full probability distributions across labels are not necessary for model extraction.</div>
 </div>
 
 <div class="mySlides fade">
