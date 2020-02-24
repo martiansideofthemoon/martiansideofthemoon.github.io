@@ -103,7 +103,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
@@ -116,39 +116,51 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
-  <div class="text">Caption Text</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
-  <div class="text">Caption Two</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext">1 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">What are model extraction attacks? This slidedeck will walkthrough a typical model extraction pipeline.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 6</div>
+  <div class="numbertext">2 / 8</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
+  <div class="text">A company trains a sentiment classifier based on <a href="https://arxiv.org/abs/1810.04805">BERT</a>.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 8</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
+  <div class="text">The company releases their model as a black-box, giving query access to users. We call this API the "victim model".</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 8</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <div class="text">A malicious user generates a large number of queries / inputs. In this paper we study queries which are randomly sampled nonsensical sequences of tokens (as shown in the figure).</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 8</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
+  <div class="text">The malicious user sends their queries to the API and collects the outputs produced by the model. While this figure assumes the API returns a probability distribution across sentiments, our results show that argmax labels are sufficient for model extraction.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 8</div>
+  <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
+  <div class="text">The model trains a new model ("extracted model") from scratch using the queries as the training data X and the API's outputs as the train data Y.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog6.svg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">The extracted model classifies sentiment correctly on real data. We show that performance of extracted models is close to the victim model's performance.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 8</div>
+  <img src="{{ site.url }}/assets/toss/extraction_squad.png" style="width:100%">
+  <div class="text">The whole model extraction pipeline being applied to victim model trained on SQuAD. Note the nonsensical nature of the paragraphs and questions.</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
