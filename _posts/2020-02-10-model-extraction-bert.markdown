@@ -58,8 +58,8 @@ The most popular approach to carry out this attack is via distillation. First, t
   color: #881c1c;
   font-size: 15px;
   padding: 8px 12px;
-/*  position: absolute;
-  bottom: 8px;*/
+  position: absolute;
+  /*bottom: 8px;*/
   width: 100%;
   text-align: center;
   font-weight: bold;
