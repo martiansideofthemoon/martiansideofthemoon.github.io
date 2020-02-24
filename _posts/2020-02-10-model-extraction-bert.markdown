@@ -3,7 +3,7 @@ layout: post
 title:  "Model Extraction Attacks on BERT-based APIs"
 date:   2020-02-10 09:00:55 +0530
 tags: nlp research security model extraction stealing bert ML
-image: http://martiansideofthemoon.github.io/assets/extraction_sst2.png
+image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 ---
 
 ### Overview
@@ -16,9 +16,51 @@ Let's say a company hosts a publicly accessible deep learning inference API (the
 
 The most popular approach to carry out this attack is via distillation. First, the attacker sends a large number of queries to the API and collects the outputs received. Then, the attacker uses these query-output pairs as training data to train their local copy of the model. This process is illustrated on a BERT-based sentiment classifier below.
 
-![extraction_sst2]({{ site.url }}/assets/extraction_sst2.png)
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
 
-![extraction_squad]({{ site.url }}/assets/extraction_squad.png)
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="{{ site.url }}/assets/toss/toss_blog1.svg" alt="Chania">
+      <div class="carousel-caption">
+        <h3>Los Angeles</h3>
+        <p>LA is always so much fun!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog2.svg" alt="Chicago">
+      <div class="carousel-caption">
+        <h3>Chicago</h3>
+        <p>Thank you, Chicago!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="{{ site.url }}/assets/toss/toss_blog3.svg" alt="New York">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 There are three important differences when comparing this process to distillation.
 
@@ -38,7 +80,7 @@ In our paper we perform model extraction in this modern transfer-learning settin
 
 We use two strategies to construct attack queries. The first strategy (`RANDOM`) uses nonsensical, random sequences of tokens sampled from [Wikitext103](https://www.salesforce.com/products/einstein/ai-research/the-wikitext-dependency-language-modeling-dataset/)'s unigram distribution. The second strategy (`WIKI`) uses sentences / paragraphs from WikiText103. For tasks expecting a pair of inputs (MNLI, SQuAD), we use simple heuristics to construct the hypothesis (replace 3 words in premise with random words from Wikitext103) and question (sample words from the paragraph, prepend a Wh- word, append ? at the end) respectively. To get an idea of the kind of training data we used, look at the table below.
 
-![extraction_dataset]({{ site.url }}/assets/extraction_dataset.png)
+![extraction_dataset]({{ site.url }}/assets/toss/extraction_dataset.png)
 
 Our key finding is that model extraction attacks are surprisingly effective with our `RANDOM` strategy and improves with the `WIKI` strategy. For instance, the victim BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our `RANDOM` strategy, the model **reaches 85.8 F1 dev performance without seeing a single grammatically valid paragraph or question during training**. With our `WIKI` strategy, **performance jumps to 89.4 F1 without seeing a single real training data point**.
 
