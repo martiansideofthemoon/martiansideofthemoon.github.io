@@ -119,7 +119,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">What are model extraction attacks? This slidedeck will walkthrough a typical model extraction pipeline.</div>
+  <div class="text">What are model extraction attacks? This slidedeck will walkthrough a model extraction pipeline.</div>
 </div>
 
 <div class="mySlides fade">
