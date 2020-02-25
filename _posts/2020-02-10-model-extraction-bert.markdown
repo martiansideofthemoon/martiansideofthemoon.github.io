@@ -320,6 +320,10 @@ Besides work on attack-defense mechanisms, we see two other avenues for research
 
 This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame Street! Model Extraction of BERT-based APIs". You can find the camera ready version of the paper [here](https://arxiv.org/abs/1910.12366) and the code to reproduce experiments [here](https://github.com/google-research/language/tree/master/language/bert_extraction).
 
-This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). We thank Arka Sadhu, Bhanu Teja Gullapalli and Andrew Drozdov for useful feedback on the blogpost.
+This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/).
 
 We are happy to get in touch and hear feedback / questions at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)!
+
+### Acknowledgements
+
+We thank the anonymous reviewers, Julian Michael, Matthew Jagielski, Slav Petrov, Yoon Kim, Nitish Gupta for helpful feedback on the project. We are grateful to members of the UMass NLP group for providing the annotations in the human evaluation experiments. Finally, we thank Arka Sadhu, Bhanu Teja Gullapalli and Andrew Drozdov for useful feedback on the blogpost.
