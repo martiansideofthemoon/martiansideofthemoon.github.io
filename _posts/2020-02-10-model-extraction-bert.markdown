@@ -91,19 +91,19 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 @media only screen and (max-width: 660px) {
   .prev, .next {font-size: 11px;}
   .text {font-size: 14px;}
-  .slideimg {margin-bottom: 5px; }
+  .slideimg {margin-bottom: 10px; }
 }
 
 @media only screen and (max-width: 540px) {
   .prev, .next {font-size: 11px;}
   .text {font-size: 12px;}
-  .slideimg {margin-bottom: 30px; }
+  .slideimg {margin-bottom: 35px; }
 }
 
 @media only screen and (max-width: 400px) {
   .prev, .next {font-size: 11px;}
   .text {font-size: 12px;}
-  .slideimg {margin-bottom: 40px; }
+  .slideimg {margin-bottom: 45px; }
 }
 </style>
 
