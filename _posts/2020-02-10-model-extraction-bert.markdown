@@ -8,7 +8,7 @@ image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 
 ### Overview
 
-This blogpost summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) where we show it is possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering models without any real input training data --- even with nonsensical randomly sampled sequences of tokens like `to way Harrison. 155 train remote, and` --- using labels from a pre-trained classification or question-answering model (in a manner analogous to distillation).
+This blogpost summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) on model extraction attacks. In our work we show it is possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering models without any real input training data --- even with nonsensical randomly sampled sequences of tokens like `to way Harrison. 155 train remote, and` --- using labels from a pre-trained classification or question-answering model (in a manner analogous to distillation).
 
 This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a model extraction attack --- where malicious users spam APIs with queries and uses the outputs to reconstruct a copy of the model.
 
