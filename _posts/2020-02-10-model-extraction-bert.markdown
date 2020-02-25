@@ -10,7 +10,7 @@ image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 
 This blogpost summarizes the findings of our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366), which shows it is possible to train downstream natural language processing (NLP) models based on [BERT](https://arxiv.org/abs/1910.12366) without any real input training data --- even with nonsensical randomly sampled sequences of tokens (for example, `to way Harrison. 155 train remote, like`) --- using labels from a pre-trained downstream model (in a manner similar to distillation).
 
-This puts NLP inference APIs at the risk of being "stolen" via a model extraction attack --- where malicious users spam APIs with queries and use the output information to reconstruct a local copy of the model.
+This puts NLP inference APIs at the risk of being "stolen" via a model extraction attack --- where malicious users spam APIs with queries and uses the outputs to reconstruct a copy of the model.
 
 ### What are model extraction attacks?
 
@@ -209,7 +209,7 @@ function showSlides(n) {
 
 <br />
 
-Let's say a company hosts a publicly accessible deep learning inference API (the **victim model**), possibly behind a pay-wall allowing users to query the API with any input of their choice. A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which will force the victim model to make incorrect predictions.
+Consider the situation where a company hosts a publicly accessible deep learning inference API (the **victim model**) allowing users to query the API with any input of their choice (Google Cloud APIs, Google Translate are examples of this setup). A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which will force the victim model to make incorrect predictions.
 
 As shown in the slidedeck above, the most popular approach to carry out this attack is via a process resembling distillation. Attackers send a large number of queries to the API and collects the outputs received. These query-output pairs are used by the attacker as training data to reconstruct a copy of the model (the **extracted model**).
 
