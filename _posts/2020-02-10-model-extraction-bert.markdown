@@ -236,7 +236,7 @@ Based on [cost estimates](https://cloud.google.com/products/calculator/) from Go
 
 Modern natural language processing (NLP) systems are typically based on [BERT](https://arxiv.org/abs/1810.04805), a large [transformer](https://arxiv.org/abs/1706.03762) trained using a self-supervised objective on Wikipedia. BERT produces rich natural language representations which transfer well to most downstream NLP tasks (like question answering or sentiment analysis). Modern NLP systems typically add a few task-specific layers on top of the [publicly available BERT checkpoint](https://github.com/google-research/bert/) and finetune the whole model with a small learning rate.
 
-In our paper we perform model extraction in this modern transfer-learning setting for NLP, where the victim model is assumed to be a BERT-based classifier or question answering model. We assume that the attacker also has access to freely available large pretrained language models, but the attacker has no access to the original training data.
+In our paper we perform model extraction in this modern transfer-learning setting for NLP, where the victim model is assumed to be a BERT-based classifier (sentiment classification with [SST2](https://nlp.stanford.edu/sentiment/treebank.html) and textual entailment classification with [MNLI](https://www.nyu.edu/projects/bowman/multinli/)) or question answering model (reading comprehension with [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) and [BoolQ](https://github.com/google-research-datasets/boolean-questions)). We assume that the attacker also has access to freely available large pretrained language models, but the attacker has no access to the original training data.
 
 We use two strategies to construct attack queries. The first strategy (`RANDOM`) uses nonsensical, random sequences of tokens sampled from [Wikitext103](https://www.salesforce.com/products/einstein/ai-research/the-wikitext-dependency-language-modeling-dataset/)'s unigram distribution. The second strategy (`WIKI`) uses sentences / paragraphs from WikiText103. For tasks expecting a pair of inputs (MNLI, SQuAD), we use simple heuristics to construct the hypothesis (replace 3 words in premise with random words from Wikitext103) and question (sample words from the paragraph, prepend a Wh- word, append ? at the end) respectively. To get an idea of the kind of training data we used, look at the table below.
 
@@ -248,7 +248,7 @@ We use two strategies to construct attack queries. The first strategy (`RANDOM`)
 <h4><span style="color: #881c1c"><b>Surprisingly well, significantly better than we expected.</b></span></h4>
 </center>
 
-Our key finding is that model extraction attacks are surprisingly effective with our `RANDOM` strategy and improves with the `WIKI` strategy. For instance, the victim BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our `RANDOM` strategy, the model **reaches 85.8 F1 dev performance without seeing a single grammatically valid paragraph or question during training**. With our `WIKI` strategy, **performance jumps to 89.4 F1 without seeing a single real training data point**.
+Our key finding is that model extraction attacks are surprisingly effective with our `RANDOM` strategy and improves with the `WIKI` strategy. For instance, the victim BERT-large [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) model reaches a dev set performance of 90.6 F1. With our `RANDOM` strategy, the model **reaches 85.8 F1 dev performance without seeing a single grammatically valid paragraph or question during training**. With our `WIKI` strategy, **performance jumps to 89.4 F1 without seeing a single real training data point**.
 
 <style>
 table {
@@ -289,7 +289,7 @@ If instead of fine-tuning BERT attackers train [QANet](https://arxiv.org/abs/180
 ### Are some kinds of queries better for model extraction?
 
 <center>
-<h4><span style="color: #881c1c"><b>Queries with high agreement among an ensemble of victim models work best.</b></span></h4>
+<h4><span style="color: #881c1c"><b>Queries with high agreement among victim model ensembles work best.</b></span></h4>
 </center>
 
 We briefly investigated this question and found a strategy to select a fraction of effective `RANDOM` / `WIKI` queries from a much larger pool. We trained multiple copies of the victim model (each on a different random seed). We found that queries which tend to have high agreement between the different victim models' outputs are better for model extraction. This finding parallels [prior work](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) on out-of-distribution detection, which found that the confidence score of an ensemble of classifiers is much more effective in finding out-of-distribution inputs compared to a single over-confident classifier.
