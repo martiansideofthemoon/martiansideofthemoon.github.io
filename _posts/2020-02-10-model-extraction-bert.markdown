@@ -56,11 +56,10 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
   color: #881c1c;
   font-size: 17px;
   padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
+/*  position: absolute;
+  bottom: 8px;*/
   width: 100%;
   text-align: center;
-/*  font-weight: bold;*/
 }
 
 /* Number text (1/3 etc) */
@@ -97,7 +96,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 }
 
 @-webkit-keyframes fade {
-  from {opacity: 1} 
+  from {opacity: 1}
   to {opacity: 1}
 }
 
@@ -147,7 +146,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">The model trains a new model (the <b>extracted model</b>) from scratch using the queries as the training data input and the API's outputs as the training data labels.</div>
+  <div class="text">The attacker trains a copy of the victim model (the <b>extracted model</b>) using the queries as the input training data and the API's outputs as the training data labels.</div>
 </div>
 
 <div class="mySlides fade">
