@@ -222,7 +222,7 @@ There are three important differences when comparing this process to distillatio
 ### How much do these attacks cost?
 
 <center>
-<h5><span style="color: #881c1c"><b>Commercial APIs tend to be cheap.</b></span></h5>
+<h4><span style="color: #881c1c"><b>Commercial APIs tend to be cheap.</b></span></h4>
 </center>
 
 Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs $62.35 to extract [SST2](https://nlp.stanford.edu/sentiment/treebank.html); $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address and it's possible to collect datasets for much lesser costs if data collection is distributed across IP addresses. This is called a [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
@@ -230,7 +230,7 @@ Based on [cost estimates](https://cloud.google.com/products/calculator/) from Go
 ### What kind of attacks do we study in our paper?
 
 <center>
-<h5><span style="color: #881c1c"><b>We study model extraction in modern natural language processing settings using BERT-based classifiers and question answering models. A key focus is using nonsensical sequences of words as queries.</b></span></h5>
+<h4><span style="color: #881c1c"><b>We study model extraction in modern natural language processing settings using BERT-based classifiers and question answering models. A key focus is using nonsensical sequences of words as queries.</b></span></h4>
 </center>
 
 Modern natural language processing (NLP) systems are typically based on [BERT](https://arxiv.org/abs/1810.04805), a large [transformer](https://arxiv.org/abs/1706.03762) trained using a self-supervised objective on Wikipedia. BERT produces rich natural language representations which transfer well to most downstream NLP tasks (like question answering or sentiment analysis). Modern NLP systems typically add a few task-specific layers on top of the [publicly available BERT checkpoint](https://github.com/google-research/bert/) and finetune the whole model with a small learning rate.
@@ -242,6 +242,10 @@ We use two strategies to construct attack queries. The first strategy (`RANDOM`)
 ![extraction_dataset]({{ site.url }}/assets/toss/extraction_dataset.png)
 
 ### How well do these attacks perform?
+
+<center>
+<h4><span style="color: #881c1c"><b>Surprisingly well, significantly better than we expected.</b></span></h4>
+</center>
 
 Our key finding is that model extraction attacks are surprisingly effective with our `RANDOM` strategy and improves with the `WIKI` strategy. For instance, the victim BERT-large SQuAD model reaches a dev set performance of 90.6 F1. With our `RANDOM` strategy, the model **reaches 85.8 F1 dev performance without seeing a single grammatically valid paragraph or question during training**. With our `WIKI` strategy, **performance jumps to 89.4 F1 without seeing a single real training data point**.
 
@@ -276,21 +280,25 @@ td{
 ### Did language model pre-training make model extraction easier?
 
 <center>
-<h5><span style="color: #881c1c"><b>Our results suggest that attackers who fine-tune a pretrained language models get better extracted models.</b></span></h5>
+<h4><span style="color: #881c1c"><b>Our results suggest that attackers who fine-tune a pretrained language models get better extracted models.</b></span></h4>
 </center>
 
 If instead of fine-tuning BERT attackers train [QANet](https://arxiv.org/abs/1804.09541) (with full random initialization), they only achieve 43.2 F1 and 54 F1 using our `RANDOM` and `WIKI` strategy respectively, which is a significant drop in performance compared to distillation with the original training data (70.3 F1). We also show that superior pretrained language models (like XLNet) are more successful at model extraction compared to BERT.
 
-### Is there a strategy for intelligent selection of queries?
+### Are some kinds of queries better for model extraction than others?
 
-Are some `RANDOM` / `WIKI` queries better for model extraction than others? We briefly investigated this question and found an effective strategy to select a fraction of `RANDOM` / `WIKI` queries from a much larger pool. We trained multiple copies of the victim model (each on a different random seed). We found that **queries which tend to have high agreement between the different victim models' outputs are better for model extraction**. This finding parallels [prior work](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) on out-of-distribution detection, which found that the confidence score of an ensemble of classifiers is much more effective in finding out-of-distribution inputs compared to a single over-confident classifier.
+<center>
+<h4><span style="color: #881c1c"><b>Queries with high agreement in an ensemble of victim models work best for model extraction.</b></span></h4>
+</center>
 
-These results suggest that the closeness of the queries to the original training data's input distribution is an important factor in determining the effectiveness of distillation or model extraction.
+We briefly investigated this question and found a strategy to select a fraction of effective `RANDOM` / `WIKI` queries from a much larger pool. We trained multiple copies of the victim model (each on a different random seed). We found that queries which tend to have high agreement between the different victim models' outputs are better for model extraction. This finding parallels [prior work](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) on out-of-distribution detection, which found that the confidence score of an ensemble of classifiers is much more effective in finding out-of-distribution inputs compared to a single over-confident classifier.
+
+These results suggest that the closeness of the queries to the original training data's input distribution is an important factor in determining the effectiveness of distillation or model extraction. **Note that this query selection strategy is more of **
 
 ### Is it possible to defend APIs against model extraction?
 
 <center>
-<h5><span style="color: #881c1c"><b>Current defenses only work against naive adversaries.</b></span></h5>
+<h4><span style="color: #881c1c"><b>Current defenses only work against naive adversaries.</b></span></h4>
 </center>
 
 We investigated two strategies to defend APIs against model extraction --- 1) membership classification 2) API watermarking. While both defenses were effective to some degree, they work only in limited settings --- sophisticated adversaries might anticipate these defenses and develop simple modifications to their attacks to circumvent these defenses. Defense against model extraction is a [tricky open problem](https://arxiv.org/pdf/1909.01838.pdf#section.8), since an ideal defense should not only preserve API utility but also be undetectable to an attacker.
