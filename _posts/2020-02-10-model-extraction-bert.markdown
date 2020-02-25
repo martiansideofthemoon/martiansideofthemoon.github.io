@@ -8,9 +8,9 @@ image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 
 ### Overview
 
-This blogpost summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) on model extraction attacks. In our work we show it is possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering models without any real input training data --- even with nonsensical randomly sampled sequences of tokens like `to way Harrison. 155 train remote, and` --- using labels from a pre-trained classification or question-answering model (in a manner analogous to distillation).
+This blog post summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) on model extraction attacks. We show that it's possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering models without access to any real input training data. We feed nonsensical randomly-sampled sequences of tokens into a pretrained classification or QA model and then fine-tune our own BERT on the predicted labels, in a process similar to distillation. 
 
-This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a model extraction attack --- where malicious users spam APIs with queries and uses the outputs to reconstruct a copy of the model.
+The effectiveness of our method puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a model extraction attack, in which malicious users spam APIs with random queries and then use the outputs to reconstruct a copy of the model.
 
 ### What are model extraction attacks?
 
@@ -112,31 +112,31 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 <div class="mySlides">
   <div class="numbertext">1 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">What are model extraction attacks? This slide-deck will walkthrough a model extraction pipeline.</div>
+  <div class="text">What are model extraction attacks? This slide deck will walk through a model extraction pipeline.</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">2 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
-  <div class="text">A company trains a sentiment classifier based on <a href="https://arxiv.org/abs/1810.04805">BERT</a>.</div>
+  <div class="text">Let's say a company trains a sentiment classifier based on <a href="https://arxiv.org/abs/1810.04805">BERT</a>.</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">3 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
-  <div class="text">The company releases their model as a black-box API --- users can query the model but cannot look at model internals or intermediate representations. We call this API the <b>victim model</b>.</div>
+  <div class="text">The company releases their model as a black box API. Users can query the model but cannot look at model internals or intermediate representations. We call this API the <b>victim model</b>.</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">4 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
-  <div class="text">A malicious user generates a large number of queries. In this paper we study queries which are randomly sampled nonsensical sequences of tokens (as shown in the figure).</div>
+  <div class="text">A malicious user generates a large number of queries. In this paper, we study queries which are randomly-sampled nonsensical sequences of tokens (as shown in the figure).</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">5 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
-  <div class="text">The malicious user sends their queries to the API and collects the outputs produced by the model. Note that full probability distributions across labels are not necessary for model extraction.</div>
+  <div class="text">The attacker sends their queries to the API and collects the outputs produced by the model. The attacker doesn't even need access to the predicted probability distributions, as just the argmax predictions are sufficient. </div>
 </div>
 
 <div class="mySlides">
@@ -154,7 +154,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 <div class="mySlides">
   <div class="numbertext">8 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/extraction_squad.png" style="width:100%">
-  <div class="text">The whole model extraction pipeline being applied to victim model trained on SQuAD. Note the nonsensical nature of the paragraphs and questions.</div>
+  <div class="text">Here we show the whole model extraction pipeline applied to a victim model trained on SQuAD. Note the nonsensical nature of the paragraphs and questions.</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -204,9 +204,9 @@ function showSlides(n) {
 
 <br />
 
-Consider the situation where a company hosts a publicly accessible deep learning inference API (the **victim model**) allowing users to query the API with any input of their choice (Google Cloud APIs, Google Translate are examples of this setup). A model extraction attack happens when a malicious user tries to "reverse-engineer" this black-box victim model, attempting to reconstruct a local copy of the victim model. If reconstruction is successful, the attacker has effectively stolen intellectual property and need not pay for the original API. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which will force the victim model to make incorrect predictions.
+Let's say a company hosts a publicly accessible deep learning inference API (the **victim model**) that allows users to query the API with any input of their choice (Google Cloud APIs, Google Translate are examples of this setup). A model extraction attack happens when a malicious user tries to "reverse-engineer" this black box victim model by attempting to create a local copy of it. If reconstruction is successful, the attacker has effectively stolen intellectual property and thus doesn't have to pay for the original API anymore. Moreover, this process can be used to [leak information](https://arxiv.org/pdf/1609.02943.pdf) about the original training data or [construct adversarial examples](https://arxiv.org/abs/1602.02697) which will force the victim model to make incorrect predictions.
 
-As shown in the slidedeck above, the most popular approach to carry out this attack is via a process resembling distillation. Attackers send a large number of queries to the API and collects the outputs received. These query-output pairs are used by the attacker as training data to reconstruct a copy of the model (the **extracted model**).
+As shown in the slide deck above, the most popular approach to carry out this attack is via a process resembling distillation. Attackers send a large number of queries to the API and collects the outputs received. These query-output pairs are used by the attacker as training data to reconstruct a copy of the model (the **extracted model**).
 
 ### How is model extraction different from distillation?
 
@@ -313,7 +313,7 @@ Besides work on attack-defense mechanisms, we see two other avenues for research
 
 ### Paper, Code & Contact Information
 
-This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame Street! Model Extraction of BERT-based APIs". You can find the camera ready version of the paper [here](https://arxiv.org/abs/1910.12366) and the code to reproduce experiments [here](https://github.com/google-research/language/tree/master/language/bert_extraction).
+This blog post summarizes the results in our ICLR 2020 paper "Thieves on Sesame Street! Model Extraction of BERT-based APIs". You can find the camera ready version of the paper [here](https://arxiv.org/abs/1910.12366) and the code to reproduce experiments [here](https://github.com/google-research/language/tree/master/language/bert_extraction).
 
 This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). We are happy to get in touch and hear any feedback / answer any questions at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)!
 
