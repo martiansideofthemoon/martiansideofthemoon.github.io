@@ -108,7 +108,20 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 480px) {
   .prev, .next {font-size: 11px;}
-  .text {font-size: 11px; padding-top: 20px;}
+  .text {font-size: 12px;}
+  .slideimg {margin-bottom: 10px; }
+}
+
+@media only screen and (max-width: 320px) {
+  .prev, .next {font-size: 11px;}
+  .text {font-size: 12px;}
+  .slideimg {margin-bottom: 20px; }
+}
+
+@media only screen and (max-width: 240px) {
+  .prev, .next {font-size: 11px;}
+  .text {font-size: 12px;}
+  .slideimg {margin-bottom: 30px; }
 }
 </style>
 
@@ -116,49 +129,49 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
   <div class="text">What are model extraction attacks? This slide-deck will walkthrough a model extraction pipeline.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog1.svg" style="width:100%">
   <div class="text">A company trains a sentiment classifier based on <a href="https://arxiv.org/abs/1810.04805">BERT</a>.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
   <div class="text">The company releases their model as a black-box API --- users can query the model but cannot look at model internals or intermediate representations. We call this API the <b>victim model</b>.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog3.svg" style="width:100%">
   <div class="text">A malicious user generates a large number of queries. In this paper we study queries which are randomly sampled nonsensical sequences of tokens (as shown in the figure).</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
   <div class="text">The malicious user sends their queries to the API and collects the outputs produced by the model. Note that full probability distributions across labels are not necessary for model extraction.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
   <div class="text">The attacker trains a copy of the victim model (the <b>extracted model</b>) using the queries as the input training data and the API's outputs as the training data labels.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">7 / 8</div>
-  <img src="{{ site.url }}/assets/toss/toss_blog6.svg" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog6.svg" style="width:100%">
   <div class="text">The extracted model classifies sentiment correctly on real data. We show that performance of extracted models is close to the victim model's performance.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">8 / 8</div>
-  <img src="{{ site.url }}/assets/toss/extraction_squad.png" style="width:100%">
+  <img class="slideimg" src="{{ site.url }}/assets/toss/extraction_squad.png" style="width:100%">
   <div class="text">The whole model extraction pipeline being applied to victim model trained on SQuAD. Note the nonsensical nature of the paragraphs and questions.</div>
 </div>
 
