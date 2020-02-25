@@ -112,7 +112,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
   .slideimg {margin-bottom: 5px; }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 540px) {
   .prev, .next {font-size: 11px;}
   .text {font-size: 12px;}
   .slideimg {margin-bottom: 30px; }
