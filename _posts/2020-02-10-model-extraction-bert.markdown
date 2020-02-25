@@ -211,7 +211,7 @@ function showSlides(n) {
 
 <br />
 
-### Model Extraction vs Distillation
+### How is model extraction different from distillation?
 
 There are three important differences when comparing this process to distillation.
 
