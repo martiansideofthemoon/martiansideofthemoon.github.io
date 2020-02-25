@@ -117,7 +117,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">What are model extraction attacks? This slidedeck will walkthrough a model extraction pipeline.</div>
+  <div class="text">What are model extraction attacks? This slide-deck will walkthrough a model extraction pipeline.</div>
 </div>
 
 <div class="mySlides fade">
