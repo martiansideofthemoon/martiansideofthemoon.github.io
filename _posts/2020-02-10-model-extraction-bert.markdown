@@ -294,7 +294,7 @@ If instead of fine-tuning BERT attackers train [QANet](https://arxiv.org/abs/180
 
 We briefly investigated this question and found a strategy to select a fraction of effective `RANDOM` / `WIKI` queries from a much larger pool. We trained multiple copies of the victim model (each on a different random seed). We found that queries which tend to have high agreement between the different victim models' outputs are better for model extraction. This finding parallels [prior work](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) on out-of-distribution detection, which found that the confidence score of an ensemble of classifiers is much more effective in finding out-of-distribution inputs compared to a single over-confident classifier.
 
-These results suggest that the closeness of the queries to the original training data's input distribution is an important factor in determining the effectiveness of distillation or model extraction. **Note that this query selection strategy is more of **
+These results suggest that the closeness of the queries to the original training data's input distribution is an important factor in determining the effectiveness of distillation or model extraction. Note that this query selection strategy is not a practical attack since 1) a large pool of queries and victim model outputs need to be collected prior to filtering 2) ensemble models might not be available to the attacker.
 
 ### Is it possible to defend APIs against model extraction?
 
