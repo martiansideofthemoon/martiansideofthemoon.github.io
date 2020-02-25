@@ -106,22 +106,22 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 }
 
 /* On smaller screens, decrease text size */
+@media only screen and (max-width: 660px) {
+  .prev, .next {font-size: 11px;}
+  .text {font-size: 14px;}
+  .slideimg {margin-bottom: 5px; }
+}
+
 @media only screen and (max-width: 480px) {
   .prev, .next {font-size: 11px;}
   .text {font-size: 12px;}
-  .slideimg {margin-bottom: 10px; }
-}
-
-@media only screen and (max-width: 320px) {
-  .prev, .next {font-size: 11px;}
-  .text {font-size: 12px;}
-  .slideimg {margin-bottom: 20px; }
-}
-
-@media only screen and (max-width: 240px) {
-  .prev, .next {font-size: 11px;}
-  .text {font-size: 12px;}
   .slideimg {margin-bottom: 30px; }
+}
+
+@media only screen and (max-width: 400px) {
+  .prev, .next {font-size: 11px;}
+  .text {font-size: 12px;}
+  .slideimg {margin-bottom: 40px; }
 }
 </style>
 
