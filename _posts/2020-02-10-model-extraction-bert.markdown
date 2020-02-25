@@ -108,7 +108,7 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 480px) {
   .prev, .next {font-size: 11px;}
-  .text {font-size: 11px; padding-top: 14px;}
+  .text {font-size: 11px; padding-top: 20px;}
 }
 </style>
 
