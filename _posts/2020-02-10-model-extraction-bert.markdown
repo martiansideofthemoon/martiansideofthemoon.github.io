@@ -324,4 +324,4 @@ This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) 
 
 ### Acknowledgements
 
-We thank the anonymous reviewers, Julian Michael, Matthew Jagielski, Slav Petrov, Yoon Kim, Nitish Gupta for helpful feedback on the project. We are grateful to members of the UMass NLP group for providing the annotations in the human evaluation experiments. Finally, we thank Arka Sadhu, Bhanu Teja Gullapalli and Andrew Drozdov for useful feedback on the blogpost.
+We thank the anonymous reviewers, Julian Michael, Matthew Jagielski, Slav Petrov, Yoon Kim and Nitish Gupta for helpful feedback on the project. We are grateful to members of the UMass NLP group for providing the annotations in the human evaluation experiments. Finally, we thank Arka Sadhu, Bhanu Teja Gullapalli and Andrew Drozdov for useful feedback on the blogpost.
