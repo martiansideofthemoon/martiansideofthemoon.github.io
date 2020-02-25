@@ -281,15 +281,15 @@ td{
 ### Did language model pre-training make model extraction easier?
 
 <center>
-<h4><span style="color: #881c1c"><b>Attackers who fine-tune pretrained language models get better extracted models.</b></span></h4>
+<h4><span style="color: #881c1c"><b>Attackers who finetune pretrained language models do better extraction.</b></span></h4>
 </center>
 
 If instead of fine-tuning BERT attackers train [QANet](https://arxiv.org/abs/1804.09541) (with full random initialization), they only achieve 43.2 F1 and 54 F1 using our `RANDOM` and `WIKI` strategy respectively, which is a significant drop in performance compared to distillation with the original training data (70.3 F1). We also show that superior pretrained language models (like XLNet) are more successful at model extraction compared to BERT.
 
-### Are some kinds of queries better for model extraction than others?
+### Are some kinds of queries better for model extraction?
 
 <center>
-<h4><span style="color: #881c1c"><b>Queries with high agreement in an ensemble of victim models work best.</b></span></h4>
+<h4><span style="color: #881c1c"><b>Queries with high agreement among an ensemble of victim models work best.</b></span></h4>
 </center>
 
 We briefly investigated this question and found a strategy to select a fraction of effective `RANDOM` / `WIKI` queries from a much larger pool. We trained multiple copies of the victim model (each on a different random seed). We found that queries which tend to have high agreement between the different victim models' outputs are better for model extraction. This finding parallels [prior work](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf) on out-of-distribution detection, which found that the confidence score of an ensemble of classifiers is much more effective in finding out-of-distribution inputs compared to a single over-confident classifier.
