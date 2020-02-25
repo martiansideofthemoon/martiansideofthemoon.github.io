@@ -247,7 +247,7 @@ We use two strategies to construct attack queries. The first strategy (`RANDOM`)
 ### How well do these attacks perform?
 
 <center>
-<h4><span style="color: #881c1c"><b>Surprisingly well, significantly better than we expected.</b></span></h4>
+<h4><span style="color: #881c1c"><b>Surprisingly well, nearly as good as the victim model.</b></span></h4>
 </center>
 
 Our key finding is that model extraction attacks are surprisingly effective with our `RANDOM` strategy and improves with the `WIKI` strategy. For instance, the victim BERT-large [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) model reaches a dev set performance of 90.6 F1. With our `RANDOM` strategy, the model **reaches 85.8 F1 dev performance without seeing a single grammatically valid paragraph or question during training**. With our `WIKI` strategy, **performance jumps to 89.4 F1 without seeing a single real training data point**.
