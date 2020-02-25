@@ -56,7 +56,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 /* Caption text */
 .text {
   color: #881c1c;
-  font-size: 15px;
+  font-size: 17px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -68,7 +68,7 @@ The most popular approach to carry out this attack is via distillation. First, t
 /* Number text (1/3 etc) */
 .numbertext {
   /*color: #f2f2f2;*/
-  font-size: 12px;
+  font-size: 14px;
   padding: 8px 12px;
   position: absolute;
   top: 0;
@@ -230,7 +230,7 @@ Based on [cost estimates](https://cloud.google.com/products/calculator/) from Go
 ### What kind of attacks do we study in our paper?
 
 <center>
-<h4><span style="color: #881c1c"><b>We study model extraction in modern natural language processing settings using BERT-based classifiers and question answering models. A key focus is using nonsensical sequences of words as queries.</b></span></h4>
+<h4><span style="color: #881c1c"><b>We study model extraction in modern NLP settings using BERT. A key focus is using nonsensical sequences of words as queries.</b></span></h4>
 </center>
 
 Modern natural language processing (NLP) systems are typically based on [BERT](https://arxiv.org/abs/1810.04805), a large [transformer](https://arxiv.org/abs/1706.03762) trained using a self-supervised objective on Wikipedia. BERT produces rich natural language representations which transfer well to most downstream NLP tasks (like question answering or sentiment analysis). Modern NLP systems typically add a few task-specific layers on top of the [publicly available BERT checkpoint](https://github.com/google-research/bert/) and finetune the whole model with a small learning rate.
