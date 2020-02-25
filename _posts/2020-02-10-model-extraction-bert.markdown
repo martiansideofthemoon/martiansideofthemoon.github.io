@@ -231,7 +231,7 @@ Based on [cost estimates](https://cloud.google.com/products/calculator/) from Go
 ### What kind of attacks do we study in our paper?
 
 <center>
-<h4><span style="color: #881c1c"><b>We study model extraction in modern NLP settings using BERT. A key focus is using nonsensical sequences of words as queries.</b></span></h4>
+<h4><span style="color: #881c1c"><b>We study model extraction in modern NLP settings using BERT. A key focus of our work is using nonsensical sequences of words as queries.</b></span></h4>
 </center>
 
 Modern natural language processing (NLP) systems are typically based on [BERT](https://arxiv.org/abs/1810.04805), a large [transformer](https://arxiv.org/abs/1706.03762) trained using a self-supervised objective on Wikipedia. BERT produces rich natural language representations which transfer well to most downstream NLP tasks (like question answering or sentiment analysis). Modern NLP systems typically add a few task-specific layers on top of the [publicly available BERT checkpoint](https://github.com/google-research/bert/) and finetune the whole model with a small learning rate.
