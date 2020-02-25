@@ -129,7 +129,7 @@ This puts NLP inference APIs at the risk of being "stolen" via a model extractio
 <div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog2.svg" style="width:100%">
-  <div class="text">The company releases their model as a black-box API --- users can query the model but cannot look at model internals or intermediate representations. We call this API the "victim model".</div>
+  <div class="text">The company releases their model as a black-box API --- users can query the model but cannot look at model internals or intermediate representations. We call this API the <b>victim model</b>.</div>
 </div>
 
 <div class="mySlides fade">
@@ -147,7 +147,7 @@ This puts NLP inference APIs at the risk of being "stolen" via a model extractio
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
   <img src="{{ site.url }}/assets/toss/toss_blog5.svg" style="width:100%">
-  <div class="text">The model trains a new model (the "extracted model") from scratch using the queries as the training data input and the API's outputs as the training data labels.</div>
+  <div class="text">The model trains a new model (the <b>extracted model</b>) from scratch using the queries as the training data input and the API's outputs as the training data labels.</div>
 </div>
 
 <div class="mySlides fade">
@@ -320,9 +320,7 @@ Besides work on attack-defense mechanisms, we see two other avenues for research
 
 This blogpost summarizes the results in our ICLR 2020 paper "Thieves on Sesame Street! Model Extraction of BERT-based APIs". You can find the camera ready version of the paper [here](https://arxiv.org/abs/1910.12366) and the code to reproduce experiments [here](https://github.com/google-research/language/tree/master/language/bert_extraction).
 
-This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/).
-
-We are happy to get in touch and hear feedback / questions at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)!
+This work was done by [Kalpesh Krishna](http://martiansideofthemoon.github.io/) (during an internship at [Google AI Language](https://research.google/teams/language/)), [Gaurav Singh Tomar](https://research.google/people/GauravSinghTomar/), [Ankur P. Parikh](https://research.google/people/104995/), [Nicolas Papernot](https://www.papernot.fr/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). We are happy to get in touch and hear any feedback / answer any questions at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)!
 
 ### Acknowledgements
 
