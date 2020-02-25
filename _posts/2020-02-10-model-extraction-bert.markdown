@@ -56,8 +56,8 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
   color: #881c1c;
   font-size: 17px;
   padding: 8px 12px;
-/*  position: absolute;
-  bottom: 8px;*/
+  position: absolute;
+  bottom: 8px;
   width: 100%;
   text-align: center;
 }
@@ -106,8 +106,9 @@ This puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a
 }
 
 /* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+@media only screen and (max-width: 480px) {
+  .prev, .next {font-size: 11px;}
+  .text {font-size: 11px; position: static;}
 }
 </style>
 
