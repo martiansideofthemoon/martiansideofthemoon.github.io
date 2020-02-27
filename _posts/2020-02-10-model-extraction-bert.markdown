@@ -283,7 +283,7 @@ td{
 
 If instead of fine-tuning BERT, attackers train [QANet](https://arxiv.org/abs/1804.09541) (with full random initialization), they only achieve 43.2 F1 and 54 F1 using our `RANDOM` and `WIKI` strategy respectively, which is a significant drop in performance compared to distillation with the original training data (70.3 F1). We also show that superior pretrained language models (like XLNet) are more successful at model extraction compared to BERT.
 
-### Are some kinds of queries better for model extraction than others?
+### Are some kinds of queries better for extraction than others?
 
 <center>
 <h4><span style="color: #881c1c"><b>Queries with high agreement among victim model ensembles work best.</b></span></h4>
