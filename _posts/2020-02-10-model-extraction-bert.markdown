@@ -136,7 +136,7 @@ The effectiveness of our method puts publicly-hosted NLP inference APIs at the r
 <div class="mySlides">
   <div class="numbertext">5 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
-  <div class="text">The attacker sends their queries to the API and collects the labels produced by the model. Note that while in the paper we assume classifiers (SST2, MNLI) output a probability distribution over labels, we show that argmax labels are sufficient.</div>
+  <div class="text">The attacker sends their queries to the API and collects the labels produced by the model. Note that while most experiments in the paper assume classifiers (SST2, MNLI) output a probability distribution over labels, we also show that argmax labels are sufficient for model extraction.</div>
 </div>
 
 <div class="mySlides">
