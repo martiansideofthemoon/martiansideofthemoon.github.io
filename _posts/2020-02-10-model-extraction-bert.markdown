@@ -223,7 +223,7 @@ There are three important differences between this process and distillation.
 </center>
 
 
-Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs just $62.35 to extract sentiment labels on 66536 sentences (the size of [SST2](https://nlp.stanford.edu/sentiment/treebank.html)); $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address, making it possible to collect datasets for even cheaper  if data collection is distributed across multiple IP addresses. This is called a [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
+Based on [cost estimates](https://cloud.google.com/products/calculator/) from Google Cloud APIs, it costs just $62.35 to extract sentiment labels on 67000 sentences (the size of [SST2](https://nlp.stanford.edu/sentiment/treebank.html)); $430.56 to extract a speech recognition dataset of 300 hours of telephone transcripts (the size of [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)); and $2000 to extract 1 million translation queries (each with 100 characters). Several APIs allow a limited number of free queries per IP address, making it possible to collect datasets for even cheaper  if data collection is distributed across multiple IP addresses. This is called a [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
 
 ### What kind of attacks do we study in our paper?
 
