@@ -8,7 +8,7 @@ image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 
 ### Overview
 
-This blog post summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) on model extraction attacks. We show that it's possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering models without access to any real input training data. We feed nonsensical randomly-sampled sequences of tokens into a pretrained classification or QA model and then fine-tune our own BERT on the predicted labels, in a process similar to distillation. 
+This blog post summarizes our [ICLR 2020 paper](https://arxiv.org/abs/1910.12366) on model extraction attacks. We show that it's possible to train [BERT](https://arxiv.org/abs/1910.12366)-based natural language processing (NLP) classifiers and question answering (QA) models without access to any real input training data. We feed nonsensical randomly-sampled sequences of tokens into a pretrained classification or QA model and then fine-tune our own BERT on the predicted labels, in a process similar to distillation. 
 
 The effectiveness of our method puts publicly-hosted NLP inference APIs at the risk of being "stolen" via a model extraction attack, in which malicious users spam APIs with random queries and then use the outputs to reconstruct a copy of the model.
 
@@ -136,7 +136,7 @@ The effectiveness of our method puts publicly-hosted NLP inference APIs at the r
 <div class="mySlides">
   <div class="numbertext">5 / 8</div>
   <img class="slideimg" src="{{ site.url }}/assets/toss/toss_blog4.svg" style="width:100%">
-  <div class="text">The attacker sends their queries to the API and collects the outputs produced by the model. The attacker doesn't even need access to the predicted probability distributions, as just the argmax predictions are sufficient. </div>
+  <div class="text">The attacker sends their queries to the API and collects the labels produced by the model. Note that while in the paper we assume classifiers (SST2, MNLI) output a probability distribution over labels, we show that argmax labels are sufficient.</div>
 </div>
 
 <div class="mySlides">
