@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile2.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
 
 My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I am also a co-organizer of the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst.
 
