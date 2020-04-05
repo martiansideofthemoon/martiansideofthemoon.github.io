@@ -6,8 +6,6 @@ tags: nlp research security model extraction stealing bert ML
 image: http://martiansideofthemoon.github.io/assets/toss/extraction_sst2.png
 ---
 
-### Overview
-
 ![squad-extraction]({{ site.url }}/assets/toss/extraction_squad_small.png)
 
 This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extraction attacks on BERT. For more details, contact me at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu).
