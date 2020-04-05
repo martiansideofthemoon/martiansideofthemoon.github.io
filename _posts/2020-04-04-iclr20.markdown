@@ -15,8 +15,8 @@ This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extr
 Thieves on Sesame Street! Model Extraction of BERT-based APIs  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 
-**arXiv**: https://arxiv.org/abs/1910.12366  
-**codebase**: https://github.com/google-research/language/tree/master/language/bert_extraction  
-**OpenReview**: https://openreview.net/forum?id=Byl5NREFDr  
+**arXiv**: [https://arxiv.org/abs/1910.12366](https://arxiv.org/abs/1910.12366)  
+**codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction)  
+**OpenReview**: [https://openreview.net/forum?id=Byl5NREFDr](https://openreview.net/forum?id=Byl5NREFDr)  
 **blogpost**: coming soon...  
-**discussion on NLP Highlights podcast**: https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00
+**discussion on NLP Highlights podcast**: [https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)
