@@ -10,7 +10,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 Thieves on Sesame Street! Model Extraction of BERT-based APIs  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ICLR 2020**  
-\[[arxiv](https://arxiv.org/abs/1910.12366)\] \[[blogpost](http://www.cleverhans.io/2020/04/06/stealing-bert.html)\] \[[code](https://github.com/google-research/language/tree/master/language/bert_extraction)\] \[[discussion on NLPHighlights podcast](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)\] \[[OpenReview](https://openreview.net/forum?id=Byl5NREFDr)\] \[[Twitter](https://twitter.com/kalpeshk2011/status/1247550470454984705)\]
+\[[arxiv](https://arxiv.org/abs/1910.12366)\] \[[blogpost](http://www.cleverhans.io/2020/04/06/stealing-bert.html)\] \[[code](https://github.com/google-research/language/tree/master/language/bert_extraction)\] \[[discussion on NLPHighlights podcast](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)\] \[[OpenReview](https://openreview.net/forum?id=Byl5NREFDr)\] \[[Twitter](https://twitter.com/kalpeshk2011/status/1247550470454984705)\] \[[slides](https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing)\]
 
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  

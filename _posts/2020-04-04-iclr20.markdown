@@ -15,7 +15,8 @@ This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extr
 
 **arXiv**: [https://arxiv.org/abs/1910.12366](https://arxiv.org/abs/1910.12366)  
 **blogpost**: [http://www.cleverhans.io/2020/04/06/stealing-bert.html](http://www.cleverhans.io/2020/04/06/stealing-bert.html)  
-**Twitter**: [https://twitter.com/kalpeshk2011/status/1247550470454984705](https://twitter.com/kalpeshk2011/status/1247550470454984705)
+**Twitter**: [https://twitter.com/kalpeshk2011/status/1247550470454984705](https://twitter.com/kalpeshk2011/status/1247550470454984705)  
+**slide deck**: [https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing](https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing)  
 **codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction)  
 **OpenReview**: [https://openreview.net/forum?id=Byl5NREFDr](https://openreview.net/forum?id=Byl5NREFDr)   
 **discussion on NLPHighlights podcast**: [https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)
