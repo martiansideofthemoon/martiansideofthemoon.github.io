@@ -40,7 +40,9 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This article advises against using college rankings and focusing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html).
 
-* [Tim Dettmer's Guide](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
+* [Tim Dettmer's Guide on Successful PhD applications](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
+
+* [Tim Dettmer's Guide on choosing a graduate school](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/) - An excellent guide on the thought process involved while choosing a graduate school after receiving admits.
 
 * [Vijay Chidambaram's Tweet](https://twitter.com/vj_chidambaram/status/933388419589459969) - A detailed tweet on best practices while writing SOPs. He also has an article on [choosing the right graduate school](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246).
 
