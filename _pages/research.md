@@ -15,7 +15,7 @@ Thieves on Sesame Street! Model Extraction of BERT-based APIs
 Generating Question-Answer Hierarchies  
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 **ACL 2019**  
-\[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[project page (with code + data)](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\]
+\[[arxiv](https://arxiv.org/abs/1906.02622)\] \[[project page (with code + data)](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\] \[[external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)\]
 
 Syntactically Supervised Transformers for Faster Neural Machine Translation  
 [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
