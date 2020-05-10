@@ -79,6 +79,8 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 
 * [Karl Stratos' article](http://karlstratos.com/#student) on being a successful PhD student
 
+* [Jordan Boyd-Graber's advice](http://users.umiacs.umd.edu/~jbg/static/style.html) on style conventions while writing articles and preparing for conference presentations. Also has some useful tips on compiling a thesis document.
+
 ### Research Advice
 These articles are more general pieces of advice to have a more impactful research career.
 
