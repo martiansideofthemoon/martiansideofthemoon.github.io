@@ -14,7 +14,7 @@ This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extr
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 
 **arXiv**: [https://arxiv.org/abs/1910.12366](https://arxiv.org/abs/1910.12366)  
-**ICLR presentation & chat**: [https://iclr.cc/virtual/poster_Byl5NREFDr.html](https://iclr.cc/virtual/poster_Byl5NREFDr.html)  
+**ICLR presentation & chat**: [https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html](https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html)  
 **blogpost**: [http://www.cleverhans.io/2020/04/06/stealing-bert.html](http://www.cleverhans.io/2020/04/06/stealing-bert.html)  
 **Twitter**: [https://twitter.com/kalpeshk2011/status/1247550470454984705](https://twitter.com/kalpeshk2011/status/1247550470454984705)  
 **slide deck**: [https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing](https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing)  
