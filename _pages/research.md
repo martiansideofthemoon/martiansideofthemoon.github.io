@@ -15,18 +15,17 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
 *Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2019**  
-[project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
+[project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/abs/1906.02780)  
 Nader Akoury, *Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2019**  
-[code](https://github.com/dojoteef/synst) // [poster](https://people.cs.umass.edu/~nsa/posters/synst-acl2019.pdf)\]
+[code](https://github.com/dojoteef/synst) // [poster](https://people.cs.umass.edu/~nsa/posters/synst-acl2019.pdf)  
 
 [Trick or TReAT: Thematic Reinforcement for Artistic Typography](https://arxiv.org/abs/1903.07820)  
-Purva Tendulkar, *Kalpesh Krishna*, Ramprasaath R. Selvaraju, Devi Parikh
-**ICCC 2019**  
+Purva Tendulkar, *Kalpesh Krishna*, Ramprasaath R. Selvaraju, Devi Parikh  
+**ICCC 2019** (*oral presentation*, <a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)  
 [code](https://github.com/purvaten/treat) // [slides](https://purvaten.github.io/data/TReAT-talk.pdf) // [video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3) // [demo](http://doodle.cloudcv.org/)  
-(*oral presentation*, <a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
 [Revisiting the Importance of Encoding Logic Rules in Sentiment Classification](https://arxiv.org/abs/1808.07733)  
 *Kalpesh Krishna*, Preethi Jyothi, Mohit Iyyer  
