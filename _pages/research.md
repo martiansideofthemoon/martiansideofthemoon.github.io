@@ -8,42 +8,42 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 #### **Research Papers**
 
 [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
-Kalpesh Krishna, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
+*Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
 **ICLR 2020**  
-\[[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html)\] \[[project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})\]
+[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})
 
 [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
-Kalpesh Krishna, Mohit Iyyer  
+*Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2019**  
-\[[project page (code + data)](http://squash.cs.umass.edu/)\] \[[demo](http://squash.cs.umass.edu:3000/?id=04bf8a42f934944809e76ec1)\] \[[technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15)\] \[[poster]({{ site.url }}/assets/squash-poster.pdf)\] \[[external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)\]
+[project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/abs/1906.02780)  
-Nader Akoury, Kalpesh Krishna, Mohit Iyyer  
+Nader Akoury, *Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2019**  
-\[[code](https://github.com/dojoteef/synst)\] \[[poster](https://people.cs.umass.edu/~nsa/posters/synst-acl2019.pdf)\]
+[code](https://github.com/dojoteef/synst) // [poster](https://people.cs.umass.edu/~nsa/posters/synst-acl2019.pdf)\]
 
 [Trick or TReAT: Thematic Reinforcement for Artistic Typography](https://arxiv.org/abs/1903.07820)  
-Purva Tendulkar, Kalpesh Krishna, Ramprasaath R. Selvaraju, Devi Parikh
+Purva Tendulkar, *Kalpesh Krishna*, Ramprasaath R. Selvaraju, Devi Parikh
 **ICCC 2019**  
-\[[arxiv](https://arxiv.org/abs/1903.07820)\] \[[code](https://github.com/purvaten/treat)\] \[[slides](https://purvaten.github.io/data/TReAT-talk.pdf)\] \[[video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3)\] \[[demo](http://doodle.cloudcv.org/)\]  
+[code](https://github.com/purvaten/treat) // [slides](https://purvaten.github.io/data/TReAT-talk.pdf) // [video](https://photos.google.com/share/AF1QipNFg9TYf2Wk6z6zKg3I3rT7jiWoH97cRVIQ-_JrZwIUUMqkyWHomVc1Lv1UGduraA/photo/AF1QipOm-e6jFA3Im9eiHt79R-A0j36CSVCoqSeU_VZG?key=dDFhdGlYUV9yVkUzOW5YaFlaeXdhMGQ1UHZ0QnZ3) // [demo](http://doodle.cloudcv.org/)  
 (*oral presentation*, <a style="color:red" href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a>)
 
 [Revisiting the Importance of Encoding Logic Rules in Sentiment Classification](https://arxiv.org/abs/1808.07733)  
-Kalpesh Krishna, Preethi Jyothi, Mohit Iyyer  
+*Kalpesh Krishna*, Preethi Jyothi, Mohit Iyyer  
 **EMNLP 2018** *(oral presentation, short paper)*  
-\[[code + data](https://github.com/martiansideofthemoon/logic-rules-sentiment/)\] \[[slides]({{ site.url }}/assets/emnlp-2018.pdf)\] \[[video](https://vimeo.com/306136412)\]  
+[code + data](https://github.com/martiansideofthemoon/logic-rules-sentiment/) // [slides]({{ site.url }}/assets/emnlp-2018.pdf) // [video](https://vimeo.com/306136412)  
 
 [Hierarchical Multitask Learning for CTC-based Speech Recognition](https://arxiv.org/abs/1807.06234)  
-Kalpesh Krishna, Shubham Toshniwal, Karen Livescu  
+*Kalpesh Krishna*, Shubham Toshniwal, Karen Livescu  
 \[[external video](https://www.youtube.com/watch?v=OSpFS8kyibw)\]  
 
 [A Study of All-Convolutional Encoders for Connectionist Temporal Classification](https://arxiv.org/abs/1710.10398)  
-**Kalpesh Krishna**, Liang Lu, Kevin Gimpel, Karen Livescu  
+*Kalpesh Krishna*, Liang Lu, Kevin Gimpel, Karen Livescu  
 **ICASSP 2018** *(Awarded [SPS Travel Grant](https://signalprocessingsociety.org/events/sps-travel-grants))*  
 \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]  
 
 
-**Collaborators**: [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/)
+**Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/)
 
 #### **Software Papers**
 
