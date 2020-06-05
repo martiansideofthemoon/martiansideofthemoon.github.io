@@ -14,10 +14,13 @@ This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extr
 [Kalpesh Krishna](http://martiansideofthemoon.github.io/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)  
 
 **arXiv**: [https://arxiv.org/abs/1910.12366](https://arxiv.org/abs/1910.12366)  
-**ICLR presentation & chat**: [https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html](https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html)  
+**OpenReview**: [https://openreview.net/forum?id=Byl5NREFDr](https://openreview.net/forum?id=Byl5NREFDr)  
+
 **blogpost**: [http://www.cleverhans.io/2020/04/06/stealing-bert.html](http://www.cleverhans.io/2020/04/06/stealing-bert.html)  
 **Twitter**: [https://twitter.com/kalpeshk2011/status/1247550470454984705](https://twitter.com/kalpeshk2011/status/1247550470454984705)  
+
+**codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction) 
 **slide deck**: [https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing](https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing)  
-**codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction)  
-**OpenReview**: [https://openreview.net/forum?id=Byl5NREFDr](https://openreview.net/forum?id=Byl5NREFDr)   
-**discussion on NLPHighlights podcast**: [https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00)
+**ICLR presentation & chat**: [https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html](https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html)  
+   
+**external coverage**: [NLPHighlights Podcast](https://soundcloud.com/nlp-highlights/104-model-distillation-with-victor-sanh-and-thomas-wolf#t=8:00) / [Sebastian Ruder's NLP News](http://newsletter.ruder.io/issues/reviewing-taking-stock-theme-papers-poisoning-and-stealing-models-multimodal-generation-240687) / [HubofML Newsletter](https://hubofml.substack.com/p/newsletter-3-product-security-ml?r=6imnh&utm_campaign=post&utm_medium=web&utm_source=twitter) / [TopBot's Best NLP Papers at ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020/?utm_source=rss&utm_medium=rss&utm_campaign=best-nlp-papers-from-iclr-2020) / [VentureBeat ICLR 2020 Cover Photo](https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/) / [MadeWithML](https://madewithml.com/projects/327/how-to-steal-modern-nlp-systems-with-gibberish)
