@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
 
-My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I am also a co-organizer of the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst.
+My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst. Currently, I am at [Google Brain](https://research.google/teams/brain) for a summer internship. 
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
@@ -19,6 +19,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
 <tr><td><b>Apr 2020:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on model extraction attacks on BERT (<a href="https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit">slides</a>)</td></tr>
 <tr><td><b>Apr 2020:</b></td><td>new <a href="http://www.cleverhans.io/2020/04/06/stealing-bert.html">blogpost</a> with <a href="https://www.papernot.fr">Nicolas Papernot</a> on our ICLR 2020 paper on model extraction attacks on BERT.</td></tr>
 <tr><td><b>Jan 2020:</b></td><td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Neha Nayak Kennard. If you have speaker recommendations, fill them <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2gqWTn4UXWqxbuLB1EPcuLBO7hP3aXh-ZluMvJsxL-hHI2Q/viewform">here</a>!</td></tr>
