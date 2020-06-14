@@ -19,7 +19,7 @@ This is a project page for our [ICLR 2020](https://iclr.cc/) paper on model extr
 **blogpost**: [http://www.cleverhans.io/2020/04/06/stealing-bert.html](http://www.cleverhans.io/2020/04/06/stealing-bert.html)  
 **Twitter**: [https://twitter.com/kalpeshk2011/status/1247550470454984705](https://twitter.com/kalpeshk2011/status/1247550470454984705)  
 
-**codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction) 
+**codebase**: [https://github.com/google-research/language/tree/master/language/bert_extraction](https://github.com/google-research/language/tree/master/language/bert_extraction)  
 **slide deck**: [https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing](https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit?usp=sharing)  
 **ICLR presentation & chat**: [https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html](https://iclr.cc/virtual_2020/poster_Byl5NREFDr.html)  
    
