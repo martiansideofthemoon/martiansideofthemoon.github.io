@@ -52,7 +52,7 @@ Stuart J. Mumford and others
 
 #### **Thesis**
 
-[Bachelor's Thesis - Constraint Driven Learning](https://people.cs.umass.edu/~kalpesh/bachelors_thesis_final.pdf)  
+[Bachelor's Thesis - Constraint Driven Learning]({{ site.url }}/assets/bachelors_thesis_final.pdf)  
 *(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
 IIT Bombay *(2017-2018)*  
 
