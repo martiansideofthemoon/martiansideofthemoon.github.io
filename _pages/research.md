@@ -9,7 +9,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](todo)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
-**EMNLP 2020**
+**EMNLP 2020** (*recommended for best paper award*)
 
 [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
 *Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
