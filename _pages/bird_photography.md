@@ -8,7 +8,8 @@ I've recently gotten into bird watching and photography (during the COVID-19 qua
 
 <p style="text-align: center;">
 
-![bald-eagle]({{ site.url }}/assets/birding/bald_eagle.jpg)
-Bald Eagle (*Haliaeetus leucocephalus*)
+<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
+
+<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
 
 </p>
