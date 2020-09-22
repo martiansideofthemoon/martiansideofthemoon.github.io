@@ -11,5 +11,8 @@ I've recently gotten into bird watching and photography. It started off as backy
 <p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
 <img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
+<p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
+<img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
+
 
 </p>
