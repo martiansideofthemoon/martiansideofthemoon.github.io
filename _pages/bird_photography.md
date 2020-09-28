@@ -11,18 +11,36 @@ I've recently gotten into bird watching and photography. It started off as backy
 <p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
 <img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
+<hr />
 
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
-<img src="{{ site.url }}/assets/birding/red_tail_1.JPG" />
-<img src="{{ site.url }}/assets/birding/red_tail_2.JPG" />
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/red_tail_1.JPG" style="width: 50%;" />
+</div>
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/red_tail_2.JPG" style="width: 50%;" />
+</div>
+
+<hr />
 
 <p>Barred Owl (<i>	Strix varia</i>)</p>
-<img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
-<img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" />
-<img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" />
-
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" style="width: 33%;"/>
+</div>
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" style="width: 33%;"/>
+</div>
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" style="width: 33%;"/>
+</div>
+<hr />
 
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
 
 </p>
+<style>
+.imgContainer{
+    float:left;
+}
+</style>
