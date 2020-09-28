@@ -11,19 +11,22 @@ I've recently gotten into bird watching and photography. It started off as backy
 <p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
 <img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
-<hr />
+<br /><br />
 
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
+<div class="image123">
 <div class="imgContainer">
 <img src="{{ site.url }}/assets/birding/red_tail_1.JPG" style="width: 50%;" />
 </div>
 <div class="imgContainer">
 <img src="{{ site.url }}/assets/birding/red_tail_2.JPG" style="width: 50%;" />
 </div>
+</div>
 
-<hr />
+<br /><br />
 
 <p>Barred Owl (<i>	Strix varia</i>)</p>
+<div class="image123">
 <div class="imgContainer">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" style="width: 33%;"/>
 </div>
@@ -33,7 +36,9 @@ I've recently gotten into bird watching and photography. It started off as backy
 <div class="imgContainer">
 <img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" style="width: 33%;"/>
 </div>
-<hr />
+</div>
+
+<br /><br />
 
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
