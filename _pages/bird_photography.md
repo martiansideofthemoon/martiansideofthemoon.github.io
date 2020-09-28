@@ -46,6 +46,6 @@ I've recently gotten into bird watching and photography. It started off as backy
 </p>
 <style>
 .imgContainer{
-    float:left;
+    display:inline-block;
 }
 </style>
