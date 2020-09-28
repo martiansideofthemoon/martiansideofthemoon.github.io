@@ -4,7 +4,7 @@ title: Birding
 permalink: /birding/
 ---
 
-I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown of 2020), but has now developed into a more serious hobby and I enjoy exploring the Pioneer Valley trying to ID and photograph birds. I maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. In this page I will post my favourite bird photographs along with identification information. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens (unless specified otherwise). All photos are using shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/500 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies.
+I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown of 2020), but has now developed into a more serious hobby and I enjoy exploring the Pioneer Valley trying to ID and photograph birds. I maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. In this page I will post my favourite bird photographs along with identification information. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos are using shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/500 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies.
 
 <p style="text-align: center;">
 
