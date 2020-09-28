@@ -29,19 +29,18 @@ I've recently gotten into bird watching and photography. It started off as backy
 
 <p>Barred Owl (<i>	Strix varia</i>)</p>
 <div class="image123">
-<div class="imgContainer" style="width: 30%;">
+<div class="imgContainer" style="width: 45%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
 </div>
 <div class="imgContainer" style="width: 3%;">
 </div>
-<div class="imgContainer" style="width: 30%;">
-<img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" />
-</div>
-<div class="imgContainer" style="width: 3%;">
-</div>
-<div class="imgContainer" style="width: 30%;">
+<div class="imgContainer" style="width: 45%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" />
 </div>
+</div>
+
+<div class="imgContainer">
+<img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" />
 </div>
 
 <br /><br />
