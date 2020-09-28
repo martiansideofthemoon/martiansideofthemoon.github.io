@@ -15,12 +15,12 @@ I've recently gotten into bird watching and photography. It started off as backy
 
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
 <div class="image123">
-<div class="imgContainer" style="width: 45%;">
+<div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/red_tail_1.JPG"  />
 </div>
-<div class="imgContainer" style="width: 3%;">
+<div class="imgContainer" style="width: 2%;">
 </div>
-<div class="imgContainer" style="width: 45%;">
+<div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/red_tail_2.JPG"  />
 </div>
 </div>
@@ -29,12 +29,12 @@ I've recently gotten into bird watching and photography. It started off as backy
 
 <p>Barred Owl (<i>	Strix varia</i>)</p>
 <div class="image123">
-<div class="imgContainer" style="width: 45%;">
+<div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
 </div>
-<div class="imgContainer" style="width: 3%;">
+<div class="imgContainer" style="width: 2%;">
 </div>
-<div class="imgContainer" style="width: 45%;">
+<div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" />
 </div>
 </div>
