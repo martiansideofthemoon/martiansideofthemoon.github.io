@@ -18,9 +18,9 @@ I've recently gotten into bird watching and photography. It started off as backy
 <div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/red_tail_1.JPG"  />
 </div>
-<div class="imgContainer" style="width: 2.57%;">
+<div class="imgContainer" style="width: 2%;">
 </div>
-<div class="imgContainer" style="width: 48%;">
+<div class="imgContainer" style="width: 48%; text-align:right;">
 <img src="{{ site.url }}/assets/birding/red_tail_2.JPG"  />
 </div>
 </div>
@@ -32,9 +32,9 @@ I've recently gotten into bird watching and photography. It started off as backy
 <div class="imgContainer" style="width: 48%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
 </div>
-<div class="imgContainer" style="width: 2.57%;">
+<div class="imgContainer" style="width: 2%;">
 </div>
-<div class="imgContainer" style="width: 48%;">
+<div class="imgContainer" style="width: 48%; text-align:right;">
 <img src="{{ site.url }}/assets/birding/barred_owl_3.JPG" />
 </div>
 </div>
