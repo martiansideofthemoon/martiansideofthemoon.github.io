@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Kalpesh Krishna, and I am a ~~first~~ second year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I work with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) on problems in text generation and the security & privacy of modern NLP systems. Currently, I am interning at the [Google Brain](https://research.google/teams/brain) team with [Aurko Roy](https://sites.google.com/site/royaurko).
+My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I work with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) on problems in text generation and the security & privacy of modern NLP systems. Currently, I am interning at the [Google Brain](https://research.google/teams/brain) team with [Aurko Roy](https://sites.google.com/site/royaurko).
 
 I graduated with a Bachelors in Electrical Engineering at [IIT Bombay](http://iitb.ac.in) in 2018. I was a part of the [CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/) group and was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
