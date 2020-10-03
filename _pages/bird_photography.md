@@ -43,7 +43,7 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-<p>Peregrine Falcon (<i>Falco peregrinus</i>)</p>
+<p>Peregrine Falcon (<i> Falco peregrinus</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
 <img src="{{ site.url }}/assets/birding/falcon_1.JPG" />
