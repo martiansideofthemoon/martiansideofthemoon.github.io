@@ -27,7 +27,7 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-<p>Barred Owl (<i>	Strix varia</i>)</p>
+<p>Barred Owl (<i>Strix varia</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
@@ -42,6 +42,19 @@ In this page I will post my favourite bird photographs along with identification
 </div>
 
 <br /><br />
+
+<p>Peregrine Falcon (<i>Falco peregrinus</i>)</p>
+<div class="image123">
+<div class="imgContainer" style="width: 49%;">
+<img src="{{ site.url }}/assets/birding/falcon_1.JPG" />
+</div>
+<div class="imgContainer" style="width: 49%; float:right;">
+<img src="{{ site.url }}/assets/birding/falcon_2.JPG" />
+</div>
+</div>
+
+<br /><br />
+
 
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
