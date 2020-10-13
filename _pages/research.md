@@ -7,7 +7,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 #### **Research Papers**
 
-[Reformulating Unsupervised Style Transfer as Paraphrase Generation](http://arxiv.org/abs/2010.05700)  
+[Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
 **EMNLP 2020**
 
