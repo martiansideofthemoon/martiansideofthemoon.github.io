@@ -59,6 +59,10 @@ In this page I will post my favourite bird photographs along with identification
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
 
+<p>American Tree Sparrow (<i>Spizelloides arborea</i>)</p>
+<img src="{{ site.url }}/assets/birding/sparrow_1.jpg" />
+<img src="{{ site.url }}/assets/birding/sparrow_2.jpg" />
+
 </p>
 <style>
 .imgContainer{
