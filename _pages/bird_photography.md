@@ -10,11 +10,6 @@ In this page I will post my favourite bird photographs along with identification
 
 <p style="text-align: center;">
 
-<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
-<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
-
-<br /><br />
-
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
@@ -24,6 +19,12 @@ In this page I will post my favourite bird photographs along with identification
 <img src="{{ site.url }}/assets/birding/red_tail_2.JPG"  />
 </div>
 </div>
+
+<br /><br />
+
+<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
+<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
+
 
 <br /><br />
 
@@ -67,6 +68,12 @@ In this page I will post my favourite bird photographs along with identification
 <br />
 
 <img src="{{ site.url }}/assets/birding/sparrow_2.jpg" />
+
+<br /><br />
+
+<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
+
+<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
 
 </p>
 <style>
