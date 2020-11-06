@@ -9,7 +9,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
-**EMNLP 2020**
+**EMNLP 2020**  
 [project page (demo + code + data)](http://style.cs.umass.edu)
 
 [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
