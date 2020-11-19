@@ -50,6 +50,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Andreas Madsen's Experience](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b) on becoming an independent researcher. While this is not a strict application guide, it talks about the competitive nature of today's PhD admission process in machine learning, and the steps he took to become an independent researcher.
 
+* [Nathan Schneider's guide](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) on writing better statements of purpose.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
