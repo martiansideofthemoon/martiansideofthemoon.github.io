@@ -97,3 +97,5 @@ These articles are more general pieces of advice to have a more impactful resear
 * [Jordan Boyd-Graber's advice](http://users.umiacs.umd.edu/~jbg/static/style.html) on style conventions while writing articles and preparing for conference presentations. Also has some useful tips on compiling a thesis document.
 
 * [Arka Sadhu's compilation on research advice articles](https://github.com/TheShadow29/research-advice-list): a compilation of research advice articles. While there are some overlaps between this document and Arka's list, this document focuses on graduate school admission whereas Arka's compilation focuses on the actual process of doing research.
+
+* [Derek Hoiem's article](https://medium.com/vision-of-seeing/how-to-maximize-the-impact-of-your-research-f431d3c67e8d) on maximizing the impact of your research.
