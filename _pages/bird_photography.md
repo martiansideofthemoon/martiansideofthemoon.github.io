@@ -28,6 +28,12 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
+<p>Mallard (<i>Anas platyrhynchos</i>)</p>
+
+<img src="{{ site.url }}/assets/birding/mallard.jpg" />
+
+<br /><br />
+
 <p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
 <img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
