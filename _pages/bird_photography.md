@@ -10,6 +10,12 @@ In this page I will post my favourite bird photographs along with identification
 
 <p style="text-align: center;">
 
+<p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
+
+<img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
+
+<br /><br />
+
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
