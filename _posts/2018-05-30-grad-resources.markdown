@@ -18,6 +18,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Philip Guo's Older Guide](http://www.pgbovine.net/grad-school-app-tips.htm) - A more comprehensive article listing the best strategies to maximize your chances of selection. This was written while Philip Guo was still a graduate student.
 
+* [Himabindu Lakkaraju and Aditya Grover's Panel](https://www.youtube.com/watch?v=z6TkkdlRWcU) on ML PhD applications in USA, conducted in November 2020.The panel includes several faculty including Tatsu Hashimoto (Stanford), Rada Mihalcea (UMichigan), Devi Parikh (Georgia Tech), Sameer Singh (UC Irvine), and James Zou (Stanford).
+
 * [Jean Yang's Guide](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-1-deciding-to-apply.html) - A seven-part comprehensive article on the whole PhD admission process. Jean Yang's Statement of Purpose is very well-written, and helped me considerably. This guide also contains details about what to look for during visit days.
 
 * [Jason Eisner's Guide](http://www.cs.jhu.edu/~jason/advice/prospective-students.html) for JHU / CLSP - A very nice article on graduate admission process, with a focus on JHU admissions into the [Center for Language and Speech Processing (CLSP)](http://clsp.jhu.edu/) (a top research group for prospective NLP / Speech students). This article contains an important section on school rankings (and why they should be taken with a grain of salt). Prof. Jason Eisner has written several excellent advice articles [here](http://www.cs.jhu.edu/~jason/advice/), some of which are relevant to graduate school admissions. He is also quite active on Quora.
