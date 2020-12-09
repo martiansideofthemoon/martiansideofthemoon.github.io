@@ -60,6 +60,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Shriram Krishnamurthi's article](http://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/) on financial aid in computer science master's programs.
 
+* [Danish Pruthi and Mansi Gupta's article](https://latentfactors.blog/2020/12/06/university-rankings-for-phd-applications/) on why university ranking is not as important as other factors (like match with advisor / lab) while choosing between graduate programs.
+
 ### PhD Experiences
 
 * [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
