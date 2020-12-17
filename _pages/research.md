@@ -7,8 +7,8 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 #### **Research Papers**
 
-Weakly-Supervised Open-Retrieval Conversational Question Answering
-Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer
+Weakly-Supervised Open-Retrieval Conversational Question Answering  
+Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer  
 **ECIR 2021**
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
