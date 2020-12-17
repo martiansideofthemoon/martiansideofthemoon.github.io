@@ -14,7 +14,7 @@ Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
 **EMNLP 2020**  
-[project page (demo + code + data + talk)](http://style.cs.umass.edu)
+[project page (demo + code + data + slides + talk video)](http://style.cs.umass.edu) // [external video](https://www.youtube.com/watch?v=cjnk3PJljDs)
 
 [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
 *Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
