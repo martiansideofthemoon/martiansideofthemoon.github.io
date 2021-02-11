@@ -5,11 +5,15 @@ permalink: /research/
 ---
 I am broadly interested in Natural Language Processing, Speech Recognition and Machine Learning Security & Privacy.
 
-#### **Research Papers**
+#### **Papers**
 
 Weakly-Supervised Open-Retrieval Conversational Question Answering  
 Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer  
 **ECIR 2021**
+
+[An Analysis of Frame-skipping in Reinforcement Learning](https://arxiv.org/abs/2102.03718)  
+Shivaram Kalyanakrishnan, Siddharth Aravindan, Vishwajeet Bagdawat, Varun Bhatt, Harshith Goka, Archit Gupta, *Kalpesh Krishna*, Vihari Piratla  
+arXiv 2021
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
@@ -20,6 +24,10 @@ Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer
 *Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
 **ICLR 2020**  
 [blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})
+
+[SunPy: A Python package for Solar Physics](https://joss.theoj.org/papers/10.21105/joss.01832)  
+Stuart J. Mumford and others  
+**JOSS 2020**
 
 [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
 *Kalpesh Krishna*, Mohit Iyyer  
@@ -44,6 +52,7 @@ Purva Tendulkar, *Kalpesh Krishna*, Ramprasaath R. Selvaraju, Devi Parikh
 [Hierarchical Multitask Learning for CTC-based Speech Recognition](https://arxiv.org/abs/1807.06234)  
 *Kalpesh Krishna*, Shubham Toshniwal, Karen Livescu  
 \[[external video](https://www.youtube.com/watch?v=OSpFS8kyibw)\]  
+arXiv 2018
 
 [A Study of All-Convolutional Encoders for Connectionist Temporal Classification](https://arxiv.org/abs/1710.10398)  
 *Kalpesh Krishna*, Liang Lu, Kevin Gimpel, Karen Livescu  
@@ -52,12 +61,6 @@ Purva Tendulkar, *Kalpesh Krishna*, Ramprasaath R. Selvaraju, Devi Parikh
 
 
 **Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting)
-
-#### **Software Papers**
-
-[SunPy: A Python package for Solar Physics](https://joss.theoj.org/papers/10.21105/joss.01832)  
-Stuart J. Mumford and others  
-**JOSS 2020**
 
 #### **Thesis**
 
