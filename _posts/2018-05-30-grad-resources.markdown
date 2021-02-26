@@ -54,6 +54,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Nathan Schneider's guide](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) on writing better statements of purpose.
 
+* [Alex Tamkin's Twitter thread](https://twitter.com/AlexTamkin/status/1364856222642413575) on different types of advisors, tradeoffs, and what prospective PhD applicants should be looking for.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
