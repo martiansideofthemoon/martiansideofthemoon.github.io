@@ -15,6 +15,10 @@ Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer
 Shivaram Kalyanakrishnan, Siddharth Aravindan, Vishwajeet Bagdawat, Varun Bhatt, Harshith Goka, Archit Gupta, *Kalpesh Krishna*, Vihari Piratla  
 arXiv 2021
 
+[Long Document Summarization in a Low Resource Setting using Pretrained Language Models](http://arxiv.org/abs/2103.00751)
+Ahsaas Bajaj\*, Pavitra Dangati\*, *Kalpesh Krishna*, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das and Andrew McCallum  
+arXiv 2021
+
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
 **EMNLP 2020**  
