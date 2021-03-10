@@ -7,6 +7,10 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 #### **Papers**
 
+Hurdles to Progress in Longform Question Answering  
+*Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
+**NAACL 2021**
+
 [Weakly-Supervised Open-Retrieval Conversational Question Answering](https://arxiv.org/abs/2103.02537)  
 Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer  
 **ECIR 2021**
@@ -64,7 +68,7 @@ arXiv 2018
 \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]  
 
 
-**Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting)
+**Main Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting), [Aurko Roy](https://sites.google.com/site/royaurko/)
 
 #### **Thesis**
 
