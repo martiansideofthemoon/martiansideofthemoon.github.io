@@ -5,11 +5,28 @@ permalink: /research/
 ---
 I am broadly interested in Natural Language Processing, Speech Recognition and Machine Learning Security & Privacy.
 
-#### **Papers**
+#### **Selected Papers**
 
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**
+
+[Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
+*Kalpesh Krishna*, John Wieting, Mohit Iyyer  
+**EMNLP 2020**  
+[project page (demo + code + data + slides + talk video)](http://style.cs.umass.edu) // [external video](https://www.youtube.com/watch?v=cjnk3PJljDs)
+
+[Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
+*Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
+**ICLR 2020**  
+[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})
+
+[Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
+*Kalpesh Krishna*, Mohit Iyyer  
+**ACL 2019**  
+[project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
+
+#### **Other Papers**
 
 [Weakly-Supervised Open-Retrieval Conversational Question Answering](https://arxiv.org/abs/2103.02537)  
 Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer  
@@ -23,24 +40,9 @@ arXiv 2021
 Ahsaas Bajaj\*, Pavitra Dangati\*, *Kalpesh Krishna*, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das and Andrew McCallum  
 arXiv 2021
 
-[Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
-*Kalpesh Krishna*, John Wieting, Mohit Iyyer  
-**EMNLP 2020**  
-[project page (demo + code + data + slides + talk video)](http://style.cs.umass.edu) // [external video](https://www.youtube.com/watch?v=cjnk3PJljDs)
-
-[Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
-*Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
-**ICLR 2020**  
-[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})
-
 [SunPy: A Python package for Solar Physics](https://joss.theoj.org/papers/10.21105/joss.01832)  
 Stuart J. Mumford and others  
 **JOSS 2020**
-
-[Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
-*Kalpesh Krishna*, Mohit Iyyer  
-**ACL 2019**  
-[project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/abs/1906.02780)  
 Nader Akoury, *Kalpesh Krishna*, Mohit Iyyer  
