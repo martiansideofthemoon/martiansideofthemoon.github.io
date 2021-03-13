@@ -25,3 +25,4 @@ footer-links-active:
 markdown: kramdown
 gems:
   - jekyll-seo-tag
+  - jekyll-redirect-from
