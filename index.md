@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 8px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
 My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
@@ -11,7 +11,7 @@ I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the pa
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
-CV / Resume: [link]({{ site.url }}/assets/cv.pdf)
+CV / Resume: [link]({{ site.url }}/assets/cv.pdf)  
 Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 
 #### Updates
