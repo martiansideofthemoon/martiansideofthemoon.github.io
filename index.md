@@ -9,8 +9,9 @@ My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Sci
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
-I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/assets/cv.pdf). I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
+I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
+CV / Resume: [link]({{ site.url }}/assets/cv.pdf)
 Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 
 #### Updates
