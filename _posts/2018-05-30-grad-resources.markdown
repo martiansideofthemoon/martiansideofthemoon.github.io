@@ -56,6 +56,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Alex Tamkin's Twitter thread](https://twitter.com/AlexTamkin/status/1364856222642413575) on different types of advisors, tradeoffs, and what prospective PhD applicants should be looking for.
 
+* [Andrew Kuznetsov's guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) on "what do I ask/look for" in a PhD Advisor.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
