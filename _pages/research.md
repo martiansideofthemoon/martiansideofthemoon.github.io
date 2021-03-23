@@ -10,7 +10,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
-[VentureBeat article](https://venturebeat.com/2021/03/17/language-models-struggle-to-answer-questions-without-paraphrasing-training-data/)
+[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // external: [VentureBeat](https://venturebeat.com/2021/03/17/language-models-struggle-to-answer-questions-without-paraphrasing-training-data/), [Sebastian Ruder's newsletter](http://newsletter.ruder.io/issues/qa-how-did-we-get-here-adapting-to-time-data-detectives-379447)
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
