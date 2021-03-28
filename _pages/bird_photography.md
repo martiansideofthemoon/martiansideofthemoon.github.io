@@ -10,6 +10,10 @@ In this page I will post my favourite bird photographs along with identification
 
 <p style="text-align: center;">
 
+<p>House Finch (<i>Haemorhous mexicanus</i>)</p>
+
+<img src="{{ site.url }}/assets/birding/finch.jpg" />
+
 <p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
 
 <img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
@@ -25,6 +29,23 @@ In this page I will post my favourite bird photographs along with identification
 <img src="{{ site.url }}/assets/birding/red_tail_2.JPG"  />
 </div>
 </div>
+
+<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
+
+<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
+
+</p>
+
+<br /><br />
+
+
+<p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
+<img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
+
+<br /><br />
+
+<p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
+<img src="{{ site.url }}/assets/birding/redwing.jpg" />
 
 <br /><br />
 
@@ -68,12 +89,6 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-
-<p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
-<img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
-
-<br /><br />
-
 <p>American Tree Sparrow (<i>Spizelloides arborea</i>)</p>
 <img src="{{ site.url }}/assets/birding/sparrow_1.jpg" />
 
@@ -83,11 +98,7 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
 
-<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
-
-</p>
 <style>
 .imgContainer{
     display:inline-block;
