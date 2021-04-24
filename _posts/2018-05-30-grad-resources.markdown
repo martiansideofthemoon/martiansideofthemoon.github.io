@@ -56,7 +56,7 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Alex Tamkin's Twitter thread](https://twitter.com/AlexTamkin/status/1364856222642413575) on different types of advisors, tradeoffs, and what prospective PhD applicants should be looking for.
 
-* [Andrew Kuznetsov's guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) on "what do I ask/look for" in a PhD Advisor.
+* [Andrew Kuznetsov's guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) on "what do I ask/look for" in a PhD Advisor. A more comprehensive version of this article (with inputs from several PhD students at CMU) can be found [here](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/).
 
 ### MS Application Guides
 
