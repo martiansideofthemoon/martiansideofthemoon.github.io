@@ -52,6 +52,11 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
+<p>Snow Goose (<i>Anser caerulescens</i>)</p>
+<img src="{{ site.url }}/assets/birding/snow_goose.jpg" />
+
+<br /><br />
+
 <p>House Finch (<i>Haemorhous mexicanus</i>)</p>
 <img src="{{ site.url }}/assets/birding/finch.jpg" />
 
