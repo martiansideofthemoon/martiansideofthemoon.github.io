@@ -4,18 +4,23 @@ title: Birding
 permalink: /birding/
 ---
 
-I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird.
+I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 278 species worldwide, including 162 in USA and 117 in India.
 
-In this page I will post my favourite bird photographs along with identification information. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos use shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/500 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
+In this page I will post some of my bird photographs along with the species. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos use shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/640 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
 
 <p style="text-align: center;">
 
-<p>House Finch (<i>Haemorhous mexicanus</i>)</p>
+<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
+<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
 
-<img src="{{ site.url }}/assets/birding/finch.jpg" />
+<br /><br />
+
+<p>Northern Waterthrush (<i>Parkesia noveboracensis</i>)</p>
+<img src="{{ site.url }}/assets/birding/northern_waterthrush.jpg" />
+
+<br /><br />
 
 <p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
-
 <img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
 
 <br /><br />
@@ -30,22 +35,25 @@ In this page I will post my favourite bird photographs along with identification
 </div>
 </div>
 
-<p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
-
-<img src="{{ site.url }}/assets/birding/kinglet.jpg" />
-
-</p>
-
 <br /><br />
 
+<p>Tree Swallow (<i>Tachycineta bicolor</i>)</p>
+<img src="{{ site.url }}/assets/birding/tree_swallow.jpg" />
+
+<br /><br />
 
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
 
 <br /><br />
 
-<p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
-<img src="{{ site.url }}/assets/birding/redwing.jpg" />
+<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
+<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
+
+<br /><br />
+
+<p>House Finch (<i>Haemorhous mexicanus</i>)</p>
+<img src="{{ site.url }}/assets/birding/finch.jpg" />
 
 <br /><br />
 
@@ -55,9 +63,8 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
-<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
-
+<p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
+<img src="{{ site.url }}/assets/birding/redwing.jpg" />
 
 <br /><br />
 
@@ -89,14 +96,14 @@ In this page I will post my favourite bird photographs along with identification
 
 <br /><br />
 
-<p>American Tree Sparrow (<i>Spizelloides arborea</i>)</p>
-<img src="{{ site.url }}/assets/birding/sparrow_1.jpg" />
+<!-- <p>American Tree Sparrow (<i>Spizelloides arborea</i>)</p>
+<img src="{{ site.url }}/assets/birding/sparrow_1.jpg" /> -->
 
-<br />
+<!-- <br />
 
 <img src="{{ site.url }}/assets/birding/sparrow_2.jpg" />
 
-<br /><br />
+<br /><br /> -->
 
 
 <style>
