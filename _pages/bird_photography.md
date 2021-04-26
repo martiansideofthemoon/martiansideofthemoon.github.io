@@ -25,6 +25,11 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
+<p>Evening Grosbeak (<i>Coccothraustes vespertinus</i>)</p>
+<img src="{{ site.url }}/assets/birding/evening_grosbeak.jpg" />
+
+<br /><br />
+
 <p>Red-tailed Hawk (<i>Buteo jamaicensis</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
