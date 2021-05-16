@@ -10,7 +10,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
-[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // external summaries: [Ruder's newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784), [video1](https://www.youtube.com/watch?v=StyE5noPe4g&t=2839s&ab_channel=HenryAILabs), [video2](https://www.youtube.com/watch?v=8tZZoX5ct0I&t=2937s&ab_channel=HenryAILabs), [VentureBeat](https://venturebeat.com/2021/03/17/language-models-struggle-to-answer-questions-without-paraphrasing-training-data/), [SearchEngineJournal](https://www.searchenginejournal.com/long-form-question-answering/402519/#close), [MarkTechPost](https://www.marktechpost.com/2021/03/27/google-ai-introduces-a-new-system-for-open-domain-long-form-question-answering-lfqa/), [TechStory](https://techstory.in/google-ai-introduces-a-new-system-for-open-domain-long-form-question-answering-lfqa/)
+[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [project page (slides + video + external summaries)]({% post_url 2021-05-06-naacl21 %})
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
@@ -33,12 +33,12 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, *Kalpesh Krishna* and Mohit Iyyer  
 **ECIR 2021**
 
-[An Analysis of Frame-skipping in Reinforcement Learning](https://arxiv.org/abs/2102.03718)  
-Shivaram Kalyanakrishnan, Siddharth Aravindan, Vishwajeet Bagdawat, Varun Bhatt, Harshith Goka, Archit Gupta, *Kalpesh Krishna*, Vihari Piratla  
-arXiv 2021
-
 [Long Document Summarization in a Low Resource Setting using Pretrained Language Models](http://arxiv.org/abs/2103.00751)  
 Ahsaas Bajaj\*, Pavitra Dangati\*, *Kalpesh Krishna*, Pradhiksha Ashok Kumar, Rheeya Uppaal, Bradford Windsor, Eliot Brenner, Dominic Dotterrer, Rajarshi Das and Andrew McCallum  
+**ACL Student Research Workshop (SRW) 2021**
+
+[An Analysis of Frame-skipping in Reinforcement Learning](https://arxiv.org/abs/2102.03718)  
+Shivaram Kalyanakrishnan, Siddharth Aravindan, Vishwajeet Bagdawat, Varun Bhatt, Harshith Goka, Archit Gupta, *Kalpesh Krishna*, Vihari Piratla  
 arXiv 2021
 
 [SunPy: A Python package for Solar Physics](https://joss.theoj.org/papers/10.21105/joss.01832)  
