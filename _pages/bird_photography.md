@@ -4,7 +4,7 @@ title: Birding
 permalink: /birding/
 ---
 
-I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 278 species worldwide, including 162 in USA and 117 in India.
+I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 312 species worldwide, including 196 in USA and 117 in India.
 
 In this page I will post some of my bird photographs along with the species. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos use shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/640 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
 
@@ -15,13 +15,28 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
-<p>Northern Waterthrush (<i>Parkesia noveboracensis</i>)</p>
-<img src="{{ site.url }}/assets/birding/northern_waterthrush.jpg" />
+<p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
+<img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
 
 <br /><br />
 
-<p>Pine Grosbeak (<i>Pinicola enucleator</i>)</p>
-<img src="{{ site.url }}/assets/birding/pine_grosbeak.jpg" />
+<p>Red-necked Phalarope (<i>Phalaropus lobatus</i>)</p>
+<img src="{{ site.url }}/assets/birding/red_necked_phalarope.jpg" />
+
+<br /><br />
+
+<p>American Robin (<i>Turdus migratorius</i>)</p>
+<img src="{{ site.url }}/assets/birding/robin.jpg" />
+
+<br /><br />
+
+<p>Willet (<i>Tringa semipalmata</i>)</p>
+<img src="{{ site.url }}/assets/birding/willet.jpg" />
+
+<br /><br />
+
+<p>Northern Waterthrush (<i>Parkesia noveboracensis</i>)</p>
+<img src="{{ site.url }}/assets/birding/northern_waterthrush.jpg" />
 
 <br /><br />
 
@@ -30,8 +45,23 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
+<p>Yellow-rumped Warbler (<i>Setophaga coronata</i>)</p>
+<img src="{{ site.url }}/assets/birding/yellow_rumped_warbler.jpg" />
+
+<br /><br />
+
+<p>Snowy Owl (<i>Bubo scandiacus</i>)</p>
+<img src="{{ site.url }}/assets/birding/snowy.jpg" />
+
+<br /><br />
+
 <p>Evening Grosbeak (<i>Coccothraustes vespertinus</i>)</p>
 <img src="{{ site.url }}/assets/birding/evening_grosbeak.jpg" />
+
+<br /><br />
+
+<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
+<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
 <br /><br />
 
@@ -47,6 +77,11 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
+<p>Veery (<i>Catharus fuscescens</i>)</p>
+<img src="{{ site.url }}/assets/birding/veery.jpg" />
+
+<br /><br />
+
 <p>Tree Swallow (<i>Tachycineta bicolor</i>)</p>
 <img src="{{ site.url }}/assets/birding/tree_swallow.jpg" />
 
@@ -54,11 +89,6 @@ In this page I will post some of my bird photographs along with the species. All
 
 <p>Yellow-throated Vireo (<i>Vireo flavifrons</i>)</p>
 <img src="{{ site.url }}/assets/birding/yellow_throat_vireo.JPG" />
-
-<br /><br />
-
-<p>Bald Eagle (<i>Haliaeetus leucocephalus</i>)</p>
-<img src="{{ site.url }}/assets/birding/bald_eagle.jpg" />
 
 <br /><br />
 
@@ -78,12 +108,12 @@ In this page I will post some of my bird photographs along with the species. All
 
 <br /><br />
 
-<p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
+<!-- <p>Red-winged Blackbird (<i>Agelaius phoeniceus</i>)</p>
 <img src="{{ site.url }}/assets/birding/redwing.jpg" />
 
-<br /><br />
+<br /><br /> -->
 
-<p>Barred Owl (<i>Strix varia</i>)</p>
+<!-- <p>Barred Owl (<i>Strix varia</i>)</p>
 <div class="image123">
 <div class="imgContainer" style="width: 49%;">
 <img src="{{ site.url }}/assets/birding/barred_owl_1.JPG" />
@@ -97,7 +127,7 @@ In this page I will post some of my bird photographs along with the species. All
 <img src="{{ site.url }}/assets/birding/barred_owl_2.JPG" />
 </div>
 
-<br /><br />
+<br /><br /> -->
 
 <p>Peregrine Falcon (<i> Falco peregrinus</i>)</p>
 <div class="image123">
