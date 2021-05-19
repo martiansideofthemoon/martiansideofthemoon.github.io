@@ -6,22 +6,24 @@ order: 5
 ---
 I am broadly interested in Natural Language Processing, Speech Recognition and Machine Learning Security & Privacy.
 
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar profile](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)
+
 #### **Selected Papers**
 
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
-[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [project page (slides + video + external summaries)]({% post_url 2021-05-06-naacl21 %})
+[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [project page (video + external)]({% post_url 2021-05-06-naacl21 %})
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
 **EMNLP 2020**  
-[project page (demo + code + data + slides + talk video)](http://style.cs.umass.edu) // [external video](https://www.youtube.com/watch?v=cjnk3PJljDs)
+[project page (demo + code + data + video)](http://style.cs.umass.edu) // [external video](https://www.youtube.com/watch?v=cjnk3PJljDs)
 
 [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)  
 *Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
 **ICLR 2020**  
-[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external coverage)]({% post_url 2020-04-04-iclr20 %})
+[blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page (code + slides + Twitter + external)]({% post_url 2020-04-04-iclr20 %})
 
 [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
 *Kalpesh Krishna*, Mohit Iyyer  

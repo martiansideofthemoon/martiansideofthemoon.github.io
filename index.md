@@ -20,11 +20,11 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="630px">
+<tr><td><b>May 2021:</b></td><td>talk at <a href="https://research.google/">Google Research</a> on long-form question answering (<a href="https://docs.google.com/presentation/d/1kkl0fGbhEqWnUDkcSbFsDWIKnojlR_HFiCvhAhXW2Uk/edit?usp=sharing">slides</a>)</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>new <a href="https://arxiv.org/abs/2103.06332">paper</a> on longform question answering on <a href="https://arxiv.org/abs/1907.09190">ELI5</a> to appear in NAACL 2021! Read more in our <a href="https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html">Google AI blogpost</a>.</td></tr>
-<tr><td><b>Dec 2020:</b></td><td>Passed my <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr>
+<tr><td><b>Dec 2020:</b></td><td>passed my <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr>
 <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr>
 <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
-<tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
 <tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
 <tr><td><b>Apr 2020:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on model extraction attacks on BERT (<a href="https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit">slides</a>)</td></tr>
 <tr><td><b>Apr 2020:</b></td><td>new <a href="http://www.cleverhans.io/2020/04/06/stealing-bert.html">blogpost</a> with <a href="https://www.papernot.fr">Nicolas Papernot</a> on our ICLR 2020 paper on model extraction attacks on BERT.</td></tr>
