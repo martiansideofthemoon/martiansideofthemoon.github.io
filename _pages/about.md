@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I work with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) on problems in text generation and the security & privacy of modern NLP systems. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst.

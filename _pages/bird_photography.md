@@ -2,6 +2,7 @@
 layout: page
 title: Birding
 permalink: /birding/
+order: 2
 ---
 
 I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 312 species worldwide, including 196 in USA and 117 in India.
