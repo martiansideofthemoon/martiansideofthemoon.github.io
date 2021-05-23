@@ -13,7 +13,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
-[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [project page (code + video + external)]({% post_url 2021-05-06-naacl21 %})
+[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [code](https://github.com/martiansideofthemoon/hurdles-longform-qa) // [project page]({% post_url 2021-05-06-naacl21 %})
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
