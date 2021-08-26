@@ -33,7 +33,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 #### **Other Papers**
 
 Do Long-Range Language Models Actually Use Long-Range Context?  
-Simeng Sun, Kalpesh Krishna, Andrew Mattarella-Micke and Mohit Iyyer  
+Simeng Sun, *Kalpesh Krishna*, Andrew Mattarella-Micke and Mohit Iyyer  
 **EMNLP 2021**
 
 [Weakly-Supervised Open-Retrieval Conversational Question Answering](https://arxiv.org/abs/2103.02537)  
