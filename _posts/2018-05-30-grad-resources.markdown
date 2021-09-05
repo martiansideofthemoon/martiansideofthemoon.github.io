@@ -89,6 +89,8 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 
 * [Karl Stratos' article](http://karlstratos.com/#student) on being a successful PhD student
 
+* [Jia-bin Huang's articles](https://github.com/jbhuang0604/awesome-tips) --- An excellent collection of advice articles of various aspects of PhD life (making steady progress, working with mentors, cold emailing, time management, paper writing etc). Originally appeared as a series of Twitter threads.
+
 ### Research Advice
 These articles are more general pieces of advice to have a more impactful research career.
 
