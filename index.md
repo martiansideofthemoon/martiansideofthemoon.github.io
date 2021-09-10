@@ -5,9 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
-My name is Kalpesh Krishna, and I am a ~~third~~ fourth year PhD student in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing, working in the [UMass NLP](http://nlp.cs.umass.edu/) lab. I am currently also a research intern at [Google Research India](https://research.google/locations/india/). At UMass, I co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
+My name is Kalpesh Krishna, and I am a ~~third~~ fourth year PhD student in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing, working in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research is supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/). At UMass, I co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
-I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
+I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Research India](https://research.google/locations/india/) (Summer 2021), [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
