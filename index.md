@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
-My name is Kalpesh Krishna, and I am a ~~third~~ fourth year PhD student in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing, working in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research is supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/). At UMass, I co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
+My name is Kalpesh Krishna, and I am a ~~third~~ fourth year PhD student in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research is supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/). At UMass, I co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Research India](https://research.google/locations/india/) (Summer 2021), [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
@@ -20,6 +20,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="630px">
+<tr><td><b>Sept 2021:</b></td><td>received the Google PhD Fellowship </td></tr>
 <tr><td><b>June 2021:</b></td><td>started my summer internship at <a href="https://research.google/locations/india/">Google Research India</a> where I will be working with <a href="http://talukdar.net/">Partha Talukdar</a> and <a href="https://sites.google.com/view/bidisha-samanta/">Bidisha Samanta</a></td></tr>
 <tr><td><b>May 2021 - July 2021:</b></td><td>talks at Google Research (<a href="https://docs.google.com/presentation/d/1kkl0fGbhEqWnUDkcSbFsDWIKnojlR_HFiCvhAhXW2Uk/edit?usp=sharing">slides</a>), <a href="https://sites.google.com/view/utnlpsummerseminar/home">University of Texas at Austin</a> (<a href="https://docs.google.com/presentation/d/1eAV7Sn8KtT095YabkYtdcRKbWOUwwfmHazbQCjCTqSM/edit?usp=sharing">slides</a>), <a href="https://nlg.isi.edu/nl-seminar/">University of Southern California</a> (<a href="https://docs.google.com/presentation/d/11kg2-h7asnAvnTe4PPUPup4H8W0XpCmqbcsx_AATKlI/edit?usp=sharing">slides</a>, <a href="https://youtu.be/bv95xMBZO_U">video</a>) on text generation and perils of its evaluation.</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>new <a href="https://arxiv.org/abs/2103.06332">paper</a> on longform question answering on <a href="https://arxiv.org/abs/1907.09190">ELI5</a> to appear in NAACL 2021! Read more in our <a href="https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html">Google AI blogpost</a>.</td></tr>
