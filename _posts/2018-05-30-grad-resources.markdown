@@ -58,6 +58,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 
 * [Andrew Kuznetsov's guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) on "what do I ask/look for" in a PhD Advisor. A more comprehensive version of this article (with inputs from several PhD students at CMU) can be found [here](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/).
 
+* [Gautam Kamath's article](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/) on asking for letters of recommendation.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
