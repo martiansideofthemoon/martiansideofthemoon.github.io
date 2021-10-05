@@ -91,6 +91,8 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 
 * [Jia-bin Huang's articles](https://github.com/jbhuang0604/awesome-tips) --- An excellent collection of advice articles of various aspects of PhD life (making steady progress, working with mentors, cold emailing, time management, [paper writing](https://twitter.com/jbhuang0604/status/1437443017510621185?s=19) etc). Originally appeared as a series of Twitter threads.
 
+* [Vijay Chidambaram's twitter thread](https://twitter.com/vj_chidambaram/status/1434304768206331904?s=19) on choosing industry vs academia after graduation.
+
 ### Research Advice
 These articles are more general pieces of advice to have a more impactful research career.
 
