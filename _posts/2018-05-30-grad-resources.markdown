@@ -6,7 +6,7 @@ tags: grad ms phd
 ---
 
 Previously, I wrote an [article]({% post_url 2017-12-08-gre-toefl-preparation %}) on GRE and TOEFL preparation. This is my second blogpost on graduate school admissions. I have tried to compile all the online resources I used to prepare my graduate school application.  
-Most of this advice is **written by professors** and is focused towards PhD applicants. Several webpages shared in this blog contain a wide-spectrum of advice articles, many of which are relevant to undergraduates and graduate school applicants.
+Most of this advice is **written by professors** or senior PhD students, and is focused towards PhD applicants. Several webpages shared in this blog contain a wide-spectrum of advice articles, many of which are relevant to undergraduates and graduate school applicants.
 
 **Students' Perspective on Grad School Applications** - Most recently, we have surveyed twelve recent NLP PhD applicants on their experience while applying to graduate school. Unlike the remainder of this article, this article was written by young PhD students who applied to graduate school in the last 3 years. Check it out [here](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)!
 
@@ -59,6 +59,8 @@ Most of this advice is **written by professors** and is focused towards PhD appl
 * [Andrew Kuznetsov's guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) on "what do I ask/look for" in a PhD Advisor. A more comprehensive version of this article (with inputs from several PhD students at CMU) can be found [here](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/).
 
 * [Gautam Kamath's article](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/) on asking for letters of recommendation.
+
+* [Suchin Gururangan's guide](https://suchin.io/personal-statement-advice/) on writing effective personal statements.
 
 ### MS Application Guides
 
