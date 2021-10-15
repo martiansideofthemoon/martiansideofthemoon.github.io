@@ -16,10 +16,11 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 
 #### Updates
 
-<div style="height:250px;overflow:auto;">
+<div style="height:300px;overflow:auto;">
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Oct 2021:</b></td><td>new <a href="https://arxiv.org/abs/2110.07385">preprint</a> on few-shot controllable style transfer for low resource settings.</td></tr>
 <tr><td><b>Sept 2021:</b></td><td>received the <a href="https://research.google/outreach/phd-fellowship/">Google PhD Fellowship</a> for 2021! (<a href="https://research.google/outreach/phd-fellowship/recipients/?category=2021">list of recipients</a>)</td></tr>
 <tr><td><b>June 2021:</b></td><td>started my summer internship at <a href="https://research.google/locations/india/">Google Research India</a> where I will be working with <a href="http://talukdar.net/">Partha Talukdar</a> and <a href="https://sites.google.com/view/bidisha-samanta/">Bidisha Samanta</a></td></tr>
 <tr><td><b>May 2021 - July 2021:</b></td><td>talks at Google Research (<a href="https://docs.google.com/presentation/d/1kkl0fGbhEqWnUDkcSbFsDWIKnojlR_HFiCvhAhXW2Uk/edit?usp=sharing">slides</a>), <a href="https://sites.google.com/view/utnlpsummerseminar/home">University of Texas at Austin</a> (<a href="https://docs.google.com/presentation/d/1eAV7Sn8KtT095YabkYtdcRKbWOUwwfmHazbQCjCTqSM/edit?usp=sharing">slides</a>), <a href="https://nlg.isi.edu/nl-seminar/">University of Southern California</a> (<a href="https://docs.google.com/presentation/d/11kg2-h7asnAvnTe4PPUPup4H8W0XpCmqbcsx_AATKlI/edit?usp=sharing">slides</a>, <a href="https://youtu.be/bv95xMBZO_U">video</a>) on text generation and perils of its evaluation.</td></tr>
