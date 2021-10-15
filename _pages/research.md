@@ -10,6 +10,10 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 #### **Selected Papers**
 
+[Few-shot Controllable Style Transfer for Low-Resource Settings: A Study in Indian Languages](https://arxiv.org/abs/2110.07385)  
+*Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
+arXiv 2021
+
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
@@ -78,7 +82,7 @@ arXiv 2018
 \[[poster](https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf)\]  
 
 
-**Main Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting), [Aurko Roy](https://sites.google.com/site/royaurko/), [Simeng Sun](https://people.cs.umass.edu/~simengsun/)
+**Main Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting), [Aurko Roy](https://sites.google.com/site/royaurko/), [Simeng Sun](https://people.cs.umass.edu/~simengsun/), [Deepak Nathani](https://deepakn97.github.io/), [Xavier Garcia](https://scholar.google.com/citations?user=Y2Hio6MAAAAJ&hl=en), [Bidisha Samanta](https://sites.google.com/view/bidisha-samanta), [Partha Talukdar](https://talukdar.net/)
 
 #### **Thesis**
 
