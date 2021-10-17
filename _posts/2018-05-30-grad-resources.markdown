@@ -116,6 +116,8 @@ These articles are more general pieces of advice to have a more impactful resear
 
 * [Arka Sadhu's compilation on research advice articles](https://github.com/TheShadow29/research-advice-list): a compilation of research advice articles. While there are some overlaps between this document and Arka's list, this document focuses on graduate school admission whereas Arka's compilation focuses on the actual process of doing research.
 
+* [Shaily Bhatt's compilation on research advice articles](https://github.com/shaily99/advice)
+
 * [Derek Hoiem's article](https://medium.com/vision-of-seeing/how-to-maximize-the-impact-of-your-research-f431d3c67e8d) on maximizing the impact of your research.
 
 * [Rachit Nigam's article](https://rachitnigam.com/post/learn-to-fail/) on learning to fail in research. It's an accurate description (through a memoir) of what research is like, and why failure, optimism, collaboration and executing / quickly prototyping research ideas is important. He has also written an interesting [memoir](https://rachitnigam.com/post/first-two-years/) on the first two years of his PhD.
