@@ -5,7 +5,7 @@ permalink: /birding/
 order: 3
 ---
 
-I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 405 species worldwide, including 208 in USA and 195 in India.
+I've recently gotten into bird watching and photography. It started off as backyard birding (curing boredom sitting at home during the COVID-19 lockdown), but has now developed into a serious hobby. I enjoy exploring the Pioneer Valley trying to photograph birds and maintain my [life list](https://ebird.org/profile/MTgwMDY0OQ/world) on eBird. So far, I've seen 453 species worldwide, including 224 in USA and 197 in India.
 
 In this page I will post some of my bird photographs along with the species. All photographs have been taken using a Canon EOS 90D with a Sigma 100-400mm Contemporary DG OS HSM lens. All photos use shutter priority with auto-ISO and optical stabilization. Shutter speed is generally 1/640 for stationary birds and 1/800 for birds in flight. I also often over-expose birds in flight (using 1-2 stops of exposure compensation) due to white skies. To see the original resolution picture, right-click and open the image in a new tab, or download the image.
 
