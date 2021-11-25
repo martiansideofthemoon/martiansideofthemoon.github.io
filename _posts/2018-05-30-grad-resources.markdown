@@ -40,9 +40,9 @@ Most of this advice is **written by professors** or senior PhD students, and is 
 
 * [Christopher Fletcher's Guide on Personal Statements](http://cwfletcher.net/Pages/SoP.php) - This guide includes his personal statements as well. He has shared some more advice articles [here](http://cwfletcher.net/Pages/Thoughts.php).
 
-* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This article advises against using college rankings and focusing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html). Noah Smith also has a newer article (November 2020), an [FAQ for PhD applications](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit).
+* [Noah Smith's Advice](https://homes.cs.washington.edu/~nasmith/advice.html) (Internet Archive [link](https://web.archive.org/web/20210420181144/https://homes.cs.washington.edu/~nasmith/advice.html)) - A post-selection article summing up the factors one should consider while choosing between graduate schools. This article advises against using college rankings and focusing on the prospective advisors instead. Noah Smith has also written some advice for undergraduates considering graduate school [here](https://homes.cs.washington.edu/~nasmith/undergrads.html). Noah Smith also has a newer article (November 2020), an [FAQ for PhD applications](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit).
 
-* [Tim Dettmer's Guide on Successful PhD applications](http://timdettmers.com/2018/11/26/phd-applications/) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
+* [Tim Dettmer's Guide on Successful PhD applications](http://timdettmers.com/2018/11/26/phd-applications/) (Internet Archive [link](https://web.archive.org/web/20210415141853/https://timdettmers.com/2018/11/26/phd-applications/)) - A new guide by a successful 2017-18 PhD applicant in natural language processing. Has some interesting statistics on the track record of people selected at top PhD programs.
 
 * [Tim Dettmer's Guide on choosing a graduate school](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/) - An excellent guide on the thought process involved while choosing a graduate school after receiving admits.
 
@@ -62,6 +62,14 @@ Most of this advice is **written by professors** or senior PhD students, and is 
 
 * [Suchin Gururangan's guide](https://suchin.io/personal-statement-advice/) on writing effective personal statements.
 
+* [Shriram Krishnamurthi's video guide](https://www.youtube.com/watch?v=IprN9fPV2LI&ab_channel=ShriramKrishnamurthi) on applying for PhD programs in USA.
+
+* [Jeff Huang's collection of useful data](https://jeffhuang.com/finding_computer_science_phd/) (like PhD stipends, professor lists, best paper award lists) while applying to PhD programs.
+
+* [Swapneel Metha's article](https://threadreaderapp.com/thread/1458205557991563264.html) on writing better statements of purpose.
+
+* [Rishi Bommasani's twitter thread](https://twitter.com/RishiBommasani/status/1463289538881540098?t=EUYIF168_ZmkVlAbOzhMVw&s=19) on applying for CS PhD programs.
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
@@ -72,7 +80,7 @@ Most of this advice is **written by professors** or senior PhD students, and is 
 
 ### PhD Experiences
 
-* [Philip Guo's Experience](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
+* [Philip Guo's Experience](https://archive.org/details/the-phd-grind-philip-guo) (*PhD Grind*) - A first hand account of Phillip Guo's experience completing a PhD in Computer Science. This article describes (in utmost detail) the highs and lows during a PhD in Computer Science, and ends with a few reasons describing why a PhD might be worth it. A **must-read** if you are confused between an MS and a PhD.
 
 * [Jean Yang's Experience](http://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
