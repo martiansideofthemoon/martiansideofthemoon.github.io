@@ -36,6 +36,9 @@ arXiv 2021
 
 #### **Other Papers**
 
+[NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/abs/2112.02721)
+Kaustubh D. Dhole and *others*
+
 [Do Long-Range Language Models Actually Use Long-Range Context?](https://arxiv.org/abs/2109.09115)  
 Simeng Sun, *Kalpesh Krishna*, Andrew Mattarella-Micke and Mohit Iyyer  
 **EMNLP 2021**
