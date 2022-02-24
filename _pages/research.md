@@ -12,7 +12,11 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 [Few-shot Controllable Style Transfer for Low-Resource Settings: A Study in Indian Languages](https://arxiv.org/abs/2110.07385)  
 *Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
-arXiv 2021
+**ACL 2022**
+
+[RELiC: Retrieving Evidence for Literary Claims](https://openreview.net/forum?id=xcelRQScTjP)  
+Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
+**ACL 2022**
 
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
