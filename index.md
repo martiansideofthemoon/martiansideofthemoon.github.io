@@ -16,7 +16,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 
 #### Updates
 
-<div style="height:275px;overflow:auto;">
+<div style="height:300px;overflow:auto;">
 <table>
 <col width="100px">
 <col width="650px">
