@@ -16,7 +16,8 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 
 [RELiC: Retrieving Evidence for Literary Claims](https://openreview.net/forum?id=xcelRQScTjP)  
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
-**ACL 2022**
+**ACL 2022**  
+[code](https://github.com/martiansideofthemoon/relic-retrieval)
 
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
