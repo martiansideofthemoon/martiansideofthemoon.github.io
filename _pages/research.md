@@ -15,7 +15,7 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 **ACL 2022**  
 [project page]({% post_url 2022-03-03-acl22 %})
 
-[RELiC: Retrieving Evidence for Literary Claims](https://openreview.net/forum?id=xcelRQScTjP)  
+[RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2022**  
 [code](https://github.com/martiansideofthemoon/relic-retrieval) // [project page](https://relic.cs.umass.edu)
