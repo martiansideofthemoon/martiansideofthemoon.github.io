@@ -37,3 +37,5 @@ It's been nearly three and a half years since I started my PhD at UMass Amherst.
 3. **Amherst is not a big city** --- It does not have an airport (nearest domestic airport is 50 min away, nearest international airports are in Boston / NYC), it has lesser activity / things to do / concerts than a place like NYC, Ubers can be hard to get. But there is still a LOT to do, and the Pioneer Valley has lot more to offer than big cities in terms of outdoor activities (as I have described in the "Pros" section above). Besides, if you like indoor activities, life in Amherst is no different from life in a big city (yes, we do have good internet and fast delivery services).
 
 If you like a rural (but still fairly cosmopolitan) setting, clean air, a calm atmosphere, natural beauty and a student town vibe, Amherst is the place to be!
+
+![style_diffur]({{ site.url }}/assets/norwottuck.jpg)
