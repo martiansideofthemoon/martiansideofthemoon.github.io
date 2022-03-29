@@ -20,10 +20,10 @@ Usage:
 {% if site.JB.posts_collate.provider == "custom" %}
   {% include custom/posts_collate %}
 {% else %}
+  <ul>
   {% for post in posts_collate  %}
-    <ul>
     <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-    </ul>
   {% endfor %}
+  </ul>
 {% endif %}
 {% assign posts_collate = nil %}
