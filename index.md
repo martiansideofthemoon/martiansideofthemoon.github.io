@@ -20,6 +20,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>April 2022:</b></td><td>new preprint: <a href="https://arxiv.org/abs/2205.09726">RankGen: Improving Text Generation with Large Ranking Models</a>. Code / checkpoints added <a href="https://github.com/martiansideofthemoon/rankgen">here</a>.</td></tr>
   <tr><td><b>Feb 2022:</b></td><td>two papers to appear in ACL 2022, on <a href="https://arxiv.org/abs/2110.07385">few-shot multilingual style transfer</a> and a new <a href="https://arxiv.org/abs/2203.10053">retrieval benchmark on literary text</a>.</td></tr>
 <tr><td><b>Sept 2021:</b></td><td>received the <a href="https://research.google/outreach/phd-fellowship/">Google PhD Fellowship</a> for 2021! (<a href="https://research.google/outreach/phd-fellowship/recipients/?category=2021">list of recipients</a>)</td></tr>
 <tr><td><b>June 2021:</b></td><td>started my summer internship at <a href="https://research.google/locations/india/">Google Research India</a> where I will be working with <a href="http://talukdar.net/">Partha Talukdar</a> and <a href="https://sites.google.com/view/bidisha-samanta/">Bidisha Samanta</a></td></tr>
