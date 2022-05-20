@@ -16,7 +16,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 
 #### Updates
 
-<div style="height:300px;overflow:auto; border:1px solid black;">
+<div style="height:300px;overflow:auto; border:1px solid #111; padding-left: 2.2em;">
 <table>
 <col width="100px">
 <col width="650px">
