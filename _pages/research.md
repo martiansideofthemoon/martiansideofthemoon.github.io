@@ -15,8 +15,6 @@ I am broadly interested in Natural Language Processing, Speech Recognition and M
 arXiv 2022  
 [code](https://github.com/martiansideofthemoon/rankgen)
 
-[code](https://github.com/martiansideofthemoon/rankgen)
-
 [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
 *Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
 **ACL 2022**  
