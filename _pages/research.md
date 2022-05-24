@@ -13,12 +13,12 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
 arXiv 2022  
-[code](https://github.com/martiansideofthemoon/rankgen)
+[code](https://github.com/martiansideofthemoon/rankgen) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
 *Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
 **ACL 2022**  
-[project page]({% post_url 2022-03-03-acl22 %})
+[data](https://github.com/google-research-datasets/informal) // [project page]({% post_url 2022-03-03-acl22 %})
 
 [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
