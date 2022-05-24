@@ -40,7 +40,7 @@ arXiv 2022
 **ACL 2019**  
 [project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
-## **Other Papers**
+## Other Papers
 
 [RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
@@ -99,7 +99,7 @@ arXiv 2018
 
 **Main Collaborators** (in order of publication date): [Karen Livescu](https://ttic.uchicago.edu/~klivescu), [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel), [Liang Lu](https://ttic.uchicago.edu/~llu), [Shubham Toshniwal](https://ttic.uchicago.edu/~shtoshni), [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Purva Tendulkar](http://purvaten.github.io/), [Ramprasaath R. Selvaraju](https://ramprs.github.io/), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Nader Akoury](https://people.cs.umass.edu/~nsa/), [Gaurav Singh Tomar](https://scholar.google.com/citations?user=p1SDN0oAAAAJ&hl=en), [Ankur P. Parikh](https://www.cs.cmu.edu/~apparikh/publications.html), [Nicolas Papernot](https://www.papernot.fr/), [John Wieting](https://www.cs.cmu.edu/~jwieting), [Aurko Roy](https://sites.google.com/site/royaurko/), [Simeng Sun](https://people.cs.umass.edu/~simengsun/), [Deepak Nathani](https://deepakn97.github.io/), [Xavier Garcia](https://scholar.google.com/citations?user=Y2Hio6MAAAAJ&hl=en), [Bidisha Samanta](https://sites.google.com/view/bidisha-samanta), [Partha Talukdar](https://talukdar.net/), [Yapei Chang](https://lilakk.github.io/), [Katherine Thai](https://katherinethai.github.io/).
 
-## **Thesis**
+## Thesis
 
 [Undergraduate Thesis - Constraint Driven Learning]({{ site.url }}/assets/bachelor_thesis_final.pdf)  
 *(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
