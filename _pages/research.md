@@ -6,7 +6,7 @@ order: 5
 ---
 I am broadly interested in Natural Language Processing (especially Text Generation) and Machine Learning Security & Privacy.
 
-[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar profile](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)
 
 ## Selected Papers
 
