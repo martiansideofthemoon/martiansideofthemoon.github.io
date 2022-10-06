@@ -12,7 +12,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
-arXiv 2022  
+**EMNLP 2022**  
 [code](https://github.com/martiansideofthemoon/rankgen) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
@@ -41,6 +41,14 @@ arXiv 2022
 [project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 ## Other Papers
+
+SLING: Sino Linguistic Evaluation of Large Language Models  
+Yixiao Song, *Kalpesh Krishna*, Mohit Iyyer  
+**EMNLP 2022**
+
+Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  
+Katherine Thai, Marzena Karpinska, *Kalpesh Krishna*, Moira Inghilleri, John Wieting and Mohit Iyyer  
+**EMNLP 2022**
 
 [RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
