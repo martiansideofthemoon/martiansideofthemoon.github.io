@@ -8,7 +8,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)
 
-## Selected Papers
+### Selected Papers
 
 [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
@@ -40,7 +40,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 **ACL 2019**  
 [project page (demo + code + data)](http://squash.cs.umass.edu/) // [technical note](https://arxiv.org/pdf/1906.02622.pdf#page=15) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
-## Other Papers
+### Other Papers
 
 SLING: Sino Linguistic Evaluation of Large Language Models  
 Yixiao Song, *Kalpesh Krishna*, Mohit Iyyer  
