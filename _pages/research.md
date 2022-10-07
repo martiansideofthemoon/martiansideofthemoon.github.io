@@ -43,7 +43,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 ### Other Papers
 
 SLING: Sino Linguistic Evaluation of Large Language Models  
-Yixiao Song, *Kalpesh Krishna*, Mohit Iyyer  
+Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer  
 **EMNLP 2022**
 
 Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  
