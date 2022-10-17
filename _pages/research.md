@@ -50,7 +50,7 @@ Exploring Document-Level Literary Machine Translation with Parallel Paragraphs f
 Katherine Thai*, Marzena Karpinska*, *Kalpesh Krishna*, Moira Inghilleri, John Wieting and Mohit Iyyer  
 **EMNLP 2022**
 
-ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution  
+[ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
 Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
 arXiv 2022  
 [code](https://github.com/gnkitaa/ezCoref)
