@@ -49,7 +49,7 @@ Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer
 **EMNLP 2022**
 
 Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  
-Katherine Thai*, Marzena Karpinska*, *Kalpesh Krishna*, Moira Inghilleri, John Wieting and Mohit Iyyer  
+Katherine Thai\*, Marzena Karpinska\*, *Kalpesh Krishna*, Moira Inghilleri, John Wieting and Mohit Iyyer  
 **EMNLP 2022**
 
 [RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
