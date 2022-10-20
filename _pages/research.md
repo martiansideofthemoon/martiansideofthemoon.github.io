@@ -10,6 +10,8 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
+(new preprint on human evaluation of long summaries. Please email me if you are interested!)
+
 [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
 **EMNLP 2022**  
@@ -50,15 +52,19 @@ Exploring Document-Level Literary Machine Translation with Parallel Paragraphs f
 Katherine Thai*, Marzena Karpinska*, *Kalpesh Krishna*, Moira Inghilleri, John Wieting and Mohit Iyyer  
 **EMNLP 2022**
 
+[RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
+Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
+**ACL 2022**  
+[code](https://github.com/martiansideofthemoon/relic-retrieval) // [project page](https://relic.cs.umass.edu)
+
 [ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
 Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
 arXiv 2022  
 [code](https://github.com/gnkitaa/ezCoref)
 
-[RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
-Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
-**ACL 2022**  
-[code](https://github.com/martiansideofthemoon/relic-retrieval) // [project page](https://relic.cs.umass.edu)
+User and Technical Perspectives of Controllable Code Generation  
+Stephanie Houde, Vignesh Radhakrishna, Praneeth Reddy, Juie Darwade, Haoran Hu, Kalpesh Krishna, Mayank Agarwal, Kartik Talamadupula, Justin D. Weisz  
+**NeurIPS HCAI workshop 2022** (short paper)
 
 [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/abs/2112.02721)  
 Kaustubh D. Dhole and *others*  
