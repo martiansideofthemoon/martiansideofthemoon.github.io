@@ -44,7 +44,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Other Papers
 
-* SLING: Sino Linguistic Evaluation of Large Language Models  
+* [SLING: Sino Linguistic Evaluation of Large Language Models](https://arxiv.org/abs/2210.11689)  
 Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer  
 **EMNLP 2022**  
 [code](https://github.com/Yixiao-Song/SLING_Data_Code)
