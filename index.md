@@ -20,7 +20,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Oct 2022:</b></td><td>three papers to appear at EMNLP 2022, on improving text generation (<a href="https://arxiv.org/abs/2205.09726">RankGen</a>), a benchmark to evaluate Chinese language models (SLING), and a dataset for document-level literary translations (Par3).</td></tr>
+  <tr><td><b>Oct 2022:</b></td><td>three papers to appear at EMNLP 2022, on improving text generation (<a href="https://arxiv.org/abs/2205.09726">RankGen</a>), a benchmark to evaluate Chinese language models (<a href="https://arxiv.org/abs/2210.11689">SLING</a>), and a dataset for document-level literary translations (Par3).</td></tr>
   <tr><td><b>Sept 2022:</b></td><td>talk at the University of Washington on RankGen (<a href="https://drive.google.com/file/d/1320bRCUIzGnj4CAHmcVBTOdpE43tE0yB/view?usp=sharing">slides</a>).</td></tr>
   <tr><td><b>June 2022:</b></td><td>started my summer internship at <a href="https://allenai.org">Allen AI</a> where I will be working with <a href="https://kyleclo.github.io/">Kyle Lo</a>, <a href="http://armancohan.com/">Arman Cohan</a> and <a href="https://pdasigi.github.io/">Pradeep Dasigi</a>.</td></tr>
   <tr><td><b>Apr 2022:</b></td><td>new preprint: <a href="https://arxiv.org/abs/2205.09726">RankGen: Improving Text Generation with Large Ranking Models</a>. The code and model checkpoints have been added <a href="https://github.com/martiansideofthemoon/rankgen">here</a>.</td></tr>
