@@ -49,7 +49,7 @@ Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer
 **EMNLP 2022**  
 [code](https://github.com/Yixiao-Song/SLING_Data_Code)
 
-* Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  
+* [Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature](https://arxiv.org/abs/2210.14250)  
 Katherine Thai\*, Marzena Karpinska\*, *Kalpesh Krishna*, William Ray, Moira Inghilleri, John Wieting and Mohit Iyyer  
 **EMNLP 2022**  
 [code + data](https://github.com/ngram-lab/par3)
