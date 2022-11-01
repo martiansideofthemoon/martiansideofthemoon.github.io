@@ -107,6 +107,8 @@ These articles are guides for having a more successful PhD (*after* joining a Ph
 
 * [Maxwell Forbes' article](https://maxwellforbes.com/posts/every-phd-is-different) on why every PhD experience is different.
 
+* [Ofir Press' article](https://ofir.io/Tips-for-Junior-Researchers/) on tips for junior researchers.
+
 ### Research Advice
 These articles are more general pieces of advice to have a more impactful research career.
 
