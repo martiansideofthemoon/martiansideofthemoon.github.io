@@ -14,6 +14,8 @@ I maintain a list of my publications under the [Research]({{ site.url }}/researc
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)  
 Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)  
 
+**I am actively looking for full-time research positions in industry. If you think I may be a good fit, feel free to reach out to me!**
+
 #### Updates
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
