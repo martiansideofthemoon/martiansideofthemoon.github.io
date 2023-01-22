@@ -46,6 +46,11 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Other Papers
 
+* [ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
+Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
+**EACL 2023 (Findings)**  
+[code](https://github.com/gnkitaa/ezCoref)
+
 * [SLING: Sino Linguistic Evaluation of Large Language Models](https://arxiv.org/abs/2210.11689)  
 Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer  
 **EMNLP 2022**  
@@ -60,11 +65,6 @@ Katherine Thai\*, Marzena Karpinska\*, *Kalpesh Krishna*, Bill Ray, Moira Inghil
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
 **ACL 2022**  
 [code + data](https://github.com/martiansideofthemoon/relic-retrieval) // [project page](https://relic.cs.umass.edu)
-
-* [ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
-Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
-arXiv 2022  
-[code](https://github.com/gnkitaa/ezCoref)
 
 * User and Technical Perspectives of Controllable Code Generation  
 Stephanie Houde, Vignesh Radhakrishna, Praneeth Reddy, Juie Darwade, Haoran Hu, Kalpesh Krishna, Mayank Agarwal, Kartik Talamadupula, Justin D. Weisz  
