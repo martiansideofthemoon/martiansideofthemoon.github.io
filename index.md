@@ -22,7 +22,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Jan 2023:</b></td><td>two papers to appear at EACL 2023, on better human evaluation of long-form summarization (<a href="https://martiansideofthemoon.github.io/assets/longeval.pdf">LongEval</a>), and guidelines for coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>).</td></tr>
+  <tr><td><b>Jan 2023:</b></td><td>two papers to appear at EACL 2023, on better human evaluation of long-form summarization (<a href="https://arxiv.org/abs/2301.13298">LongEval</a>), and guidelines for coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>).</td></tr>
   <tr><td><b>Oct 2022:</b></td><td>three papers to appear at EMNLP 2022, on improving text generation (<a href="https://arxiv.org/abs/2205.09726">RankGen</a>), a benchmark to evaluate Chinese language models (<a href="https://arxiv.org/abs/2210.11689">SLING</a>), and a dataset for document-level literary translations (<a href="https://arxiv.org/abs/2210.14250">Par3</a>).</td></tr>
   <tr><td><b>Sept 2022:</b></td><td>talk at the University of Washington on RankGen (<a href="https://drive.google.com/file/d/1320bRCUIzGnj4CAHmcVBTOdpE43tE0yB/view?usp=sharing">slides</a>).</td></tr>
   <tr><td><b>June 2022:</b></td><td>started my summer internship at <a href="https://allenai.org">Allen AI</a> where I will be working with <a href="https://kyleclo.github.io/">Kyle Lo</a>, <a href="http://armancohan.com/">Arman Cohan</a> and <a href="https://pdasigi.github.io/">Pradeep Dasigi</a>.</td></tr>
