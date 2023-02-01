@@ -10,7 +10,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
-* [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://martiansideofthemoon.github.io/assets/longeval.pdf)  
+* [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
 **EACL 2023**  
 [data + code](https://github.com/martiansideofthemoon/longeval-summarization)
