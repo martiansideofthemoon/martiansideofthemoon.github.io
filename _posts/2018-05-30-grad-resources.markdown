@@ -135,3 +135,5 @@ These articles are more general pieces of advice to have a more impactful resear
 * [Devi Parikh's Humans of AI interviews](https://www.youtube.com/watch?v=8lvl8Z4Rrms&ab_channel=DeviParikh) with 16 top AI researchers on how they decide what research problems to work on. 
 
 * [Alex Tamkin's advice](https://www.alextamkin.com/essays/tips-for-new-researchers) for new researchers and working effectively with mentors.
+
+* [Rowan Zeller's blog](https://rowanzellers.com/blog/rowan-job-search2/) on [his job search](https://rowanzellers.com/blog/rowan-job-search/) and choosing between [academia and industry](https://rowanzellers.com/blog/rowan-job-search2/).
