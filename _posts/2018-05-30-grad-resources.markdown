@@ -137,3 +137,5 @@ These articles are more general pieces of advice to have a more impactful resear
 * [Alex Tamkin's advice](https://www.alextamkin.com/essays/tips-for-new-researchers) for new researchers and working effectively with mentors.
 
 * [Rowan Zeller's blog](https://rowanzellers.com/blog/rowan-job-search2/) on [his job search](https://rowanzellers.com/blog/rowan-job-search/) and choosing between [academia and industry](https://rowanzellers.com/blog/rowan-job-search2/).
+
+* [Jason Wei's blog](https://www.jasonwei.net/blog/practicing-ai-research) on conducting effective research in AI / NLP.
