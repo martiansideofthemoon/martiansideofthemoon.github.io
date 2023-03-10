@@ -47,6 +47,10 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Other Papers
 
+* [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)  
+Ali Naseh, Kalpesh Krishna, Mohit Iyyer, Amir Houmansadr  
+arXiv 2023
+
 * [ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
 Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
 **EACL 2023 (Findings)**  
