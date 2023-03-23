@@ -10,6 +10,10 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
+* [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://martiansideofthemoon.github.io/assets/ai_detection_paraphrase.pdf)  
+*Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
+arXiv 2023
+
 * [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
 **EACL 2023**  
