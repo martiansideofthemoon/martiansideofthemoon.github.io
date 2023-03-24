@@ -10,7 +10,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
-* [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://martiansideofthemoon.github.io/assets/ai_detection_paraphrase.pdf)  
+* [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
 *Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
 arXiv 2023
 
