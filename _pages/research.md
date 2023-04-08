@@ -60,6 +60,11 @@ Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, 
 **EACL 2023 (Findings)**  
 [code](https://github.com/gnkitaa/ezCoref)
 
+* [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/abs/2112.02721)  
+Kaustubh D. Dhole and *others*  
+**NEJLT 2023**    
+[code](https://github.com/GEM-benchmark/NL-Augmenter)
+
 * [SLING: Sino Linguistic Evaluation of Large Language Models](https://arxiv.org/abs/2210.11689)  
 Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer  
 **EMNLP 2022**  
@@ -78,11 +83,6 @@ Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer
 * User and Technical Perspectives of Controllable Code Generation  
 Stephanie Houde, Vignesh Radhakrishna, Praneeth Reddy, Juie Darwade, Haoran Hu, Kalpesh Krishna, Mayank Agarwal, Kartik Talamadupula, Justin D. Weisz  
 **NeurIPS HCAI workshop 2022** (short paper)
-
-* [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/abs/2112.02721)  
-Kaustubh D. Dhole and *others*  
-arXiv 2021  
-[code](https://github.com/GEM-benchmark/NL-Augmenter)
 
 * [Do Long-Range Language Models Actually Use Long-Range Context?](https://arxiv.org/abs/2109.09115)  
 Simeng Sun, *Kalpesh Krishna*, Andrew Mattarella-Micke and Mohit Iyyer  
