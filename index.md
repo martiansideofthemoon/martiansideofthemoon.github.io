@@ -22,7 +22,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Mar 2023:</b></td><td>new <a href="https://arxiv.org/abs/2303.13408">preprint</a> on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval.</td></tr>
+<tr><td><b>Mar 2023:</b></td><td>new <a href="https://arxiv.org/abs/2303.13408">preprint</a> on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
   <tr><td><b>Jan 2023:</b></td><td>two papers to appear at EACL 2023, on better human evaluation of long-form summarization (<a href="https://arxiv.org/abs/2301.13298">LongEval</a>), and guidelines for coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>).</td></tr>
   <tr><td><b>Oct 2022:</b></td><td>three papers to appear at EMNLP 2022, on improving text generation (<a href="https://arxiv.org/abs/2205.09726">RankGen</a>), a benchmark to evaluate Chinese language models (<a href="https://arxiv.org/abs/2210.11689">SLING</a>), and a dataset for document-level literary translations (<a href="https://arxiv.org/abs/2210.14250">Par3</a>).</td></tr>
   <tr><td><b>Sept 2022:</b></td><td>talk at the University of Washington on RankGen (<a href="https://drive.google.com/file/d/1320bRCUIzGnj4CAHmcVBTOdpE43tE0yB/view?usp=sharing">slides</a>).</td></tr>
