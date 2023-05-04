@@ -17,7 +17,7 @@ arXiv 2023
 
 * [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
-**EACL 2023**  
+**EACL 2023**  (<span style="color:red">outstanding paper award</span>)  
 [data + code](https://github.com/martiansideofthemoon/longeval-summarization)
 
 * [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
