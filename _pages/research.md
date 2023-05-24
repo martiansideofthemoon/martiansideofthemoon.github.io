@@ -13,22 +13,22 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
 Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi  
 arXiv 2023  
-[PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore)
+[PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore) // [tweet](https://twitter.com/kalpeshk2011/status/1661151332148084737)
 
 * [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
 *Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
 arXiv 2023  
-[model + data + code](https://github.com/martiansideofthemoon/ai-detection-paraphrases)
+[model + data + code](https://github.com/martiansideofthemoon/ai-detection-paraphrases) // [tweet](https://twitter.com/kalpeshk2011/status/1639273935719022593)
 
 * [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
 **EACL 2023**  (<a style="color:red" href="https://twitter.com/kalpeshk2011/status/1654133082247815169"><i>Outstanding Paper Award</i></a>)  
-[data + code](https://github.com/martiansideofthemoon/longeval-summarization)
+[data + code](https://github.com/martiansideofthemoon/longeval-summarization) // [tweet](https://twitter.com/kalpeshk2011/status/1620781282044297216)
 
 * [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
 **EMNLP 2022**  
-[code](https://github.com/martiansideofthemoon/rankgen) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
+[code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 * [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
 *Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
@@ -38,7 +38,7 @@ arXiv 2023
 * [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
-[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [code](https://github.com/martiansideofthemoon/hurdles-longform-qa) // [project page]({% post_url 2021-05-06-naacl21 %})
+[blog](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html) // [code](https://github.com/martiansideofthemoon/hurdles-longform-qa) // [project page]({% post_url 2021-05-06-naacl21 %}) // [tweet](https://twitter.com/kalpeshk2011/status/1374443466537639939)
 
 * [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
