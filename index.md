@@ -22,6 +22,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>May 2023:</b></td><td>new <a href="https://arxiv.org/abs/2305.14251">preprint</a> on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
 <tr><td><b>May 2023:</b></td><td>Happy to receive an outstanding paper award (<a href="https://twitter.com/kalpeshk2011/status/1654133082247815169">tweet</a>) at EACL 2023 for LongEval, our <a href="https://arxiv.org/abs/2301.13298">paper</a> on human evaluation of long-form summarization!</td></tr>  
 <tr><td><b>Mar 2023:</b></td><td>new <a href="https://arxiv.org/abs/2303.13408">preprint</a> on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>appeared on <a href="https://www.cbsnews.com/boston/news/northern-lights-captivate-stargazers-across-massachusetts/">CBS Boston</a> and <a href="https://www.wwlp.com/weather/weather-news/northern-lights-caught-on-camera-in-western-massachusetts/">WWLP</a> for a <a href="https://twitter.com/4cast4you/status/1639131581939077120">photograph</a> of the northern lights!</td></tr>
