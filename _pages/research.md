@@ -10,6 +10,11 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
+* [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
+Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi  
+arXiv 2023  
+[PIP package](https://pypi.org/project/factscore)
+
 * [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
 *Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
 arXiv 2023  
