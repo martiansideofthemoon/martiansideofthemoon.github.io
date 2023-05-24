@@ -11,7 +11,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 ### Selected Papers
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
-Sewon Min*, *Kalpesh Krishna**, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi 
+Sewon Min*, <i>Kalpesh Krishna</i>*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi 
 arXiv 2023  
 [PIP package](https://pypi.org/project/factscore)
 
