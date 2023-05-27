@@ -52,3 +52,8 @@ As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releas
 * PTB (denoted by `ptb`)
 
 All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing).
+
+### **Alternate PDF versions of papers**
+
+RELiC paper: [paper](https://martiansideofthemoon.github.io/assets/relic_paper_gse.pdf)  
+RankGen paper: [paper](https://martiansideofthemoon.github.io/assets/rankgen_paper_gse.pdf)  
