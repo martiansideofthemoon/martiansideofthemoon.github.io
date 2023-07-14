@@ -70,6 +70,8 @@ Most of this advice is **written by professors** or senior PhD students, and is 
 
 * [Rishi Bommasani's twitter thread](https://twitter.com/RishiBommasani/status/1463289538881540098?t=EUYIF168_ZmkVlAbOzhMVw&s=19) on applying for CS PhD programs.
 
+* [Jia-Bin Huang's tweet](https://twitter.com/jbhuang0604/status/1627191986091438080?t=NWFFGCKBzFVpc7BnKQr50A&s=19) on applying for research opportunities
+
 ### MS Application Guides
 
 * [Karthik Raghunathan's Guide](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - An article describing the admission process in Stanford's MS in Computer Science program. This article after his own experience reviewing applications in the Stanford admission committee. It gives a nice idea about what application reviewers are looking for.
