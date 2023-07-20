@@ -14,14 +14,14 @@ I maintain a list of my publications under the [Research]({{ site.url }}/researc
 [CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)  
 Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)  
 
-**I am actively looking for full-time research positions in industry. If you think I may be a good fit, feel free to reach out to me!**
-
 #### Updates
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>July 2023:</b></td><td>I will be joining Google Bard as a Research Scientist starting August 2023!</td></tr>
+  <tr><td><b>July 2023:</b></td><td>talks at University of Toronto on AI-generated text detection, and at IBM on long-form text generation evaluation.</td></tr>
   <tr><td><b>May 2023:</b></td><td>new <a href="https://arxiv.org/abs/2305.14251">preprint</a> on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
 <tr><td><b>May 2023:</b></td><td>Happy to receive an outstanding paper award (<a href="https://twitter.com/kalpeshk2011/status/1654133082247815169">tweet</a>) at EACL 2023 for LongEval, our <a href="https://arxiv.org/abs/2301.13298">paper</a> on human evaluation of long-form summarization!</td></tr>  
 <tr><td><b>Mar 2023:</b></td><td>new <a href="https://arxiv.org/abs/2303.13408">preprint</a> on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
