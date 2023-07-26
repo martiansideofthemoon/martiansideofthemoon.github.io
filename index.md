@@ -21,7 +21,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <col width="100px">
 <col width="650px">
   <tr><td><b>July 2023:</b></td><td>I will be joining Google Bard as a Research Scientist starting August 2023!</td></tr>
-  <tr><td><b>July 2023:</b></td><td>talks at IBM on long-form text generation evaluation.</td></tr>
+  <tr><td><b>July 2023:</b></td><td>talks at <a href="https://www.research.ibm.com/">IBM research</a> on long-form text generation evaluation.</td></tr>
   <tr><td><b>July 2023:</b></td><td>talks at University of Toronto on AI-generated text detection.</td></tr>
   <tr><td><b>May 2023:</b></td><td>new <a href="https://arxiv.org/abs/2305.14251">preprint</a> on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
 <tr><td><b>May 2023:</b></td><td>Happy to receive an outstanding paper award (<a href="https://twitter.com/kalpeshk2011/status/1654133082247815169">tweet</a>) at EACL 2023 for LongEval, our <a href="https://arxiv.org/abs/2301.13298">paper</a> on human evaluation of long-form summarization!</td></tr>  
