@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
-My name is Kalpesh Krishna, and I am a ~~fourth~~ fifth year PhD student in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research is supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
+My name is Kalpesh Krishna, and I am Research Scientist at Google in the [Bard team](https://bard.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [AI2](https://allenai.org/) (Summer 2022), [Google Research](https://research.google) (Summer 2019 - Spring 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
@@ -20,7 +20,8 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>July 2023:</b></td><td>I will be joining Google Bard as a Research Scientist starting August 2023!</td></tr>
+  <tr><td><b>Aug 2023</b></td><td>I joined the Google Bard team as a Research Scientist.</td>
+  <tr><td><b>Aug 2023:</b></td><td>I defended my PhD thesis on long-form text generation!</td></tr>
   <tr><td><b>July 2023:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on long-form text generation evaluation.</td></tr>
   <tr><td><b>July 2023:</b></td><td>talk at University of Toronto on AI-generated text detection.</td></tr>
   <tr><td><b>May 2023:</b></td><td>new <a href="https://arxiv.org/abs/2305.14251">preprint</a> on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
