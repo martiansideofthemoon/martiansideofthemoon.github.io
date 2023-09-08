@@ -20,6 +20,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Sept 2023</b></td><td>talk at <a href="https://nlpwithfriends.com/speakers/kalpesh-krishna">NLP with Friends</a> on AI-generated text detection.</td></tr>
   <tr><td><b>Aug 2023</b></td><td>I joined the Google Bard team as a Research Scientist.</td>
   <tr><td><b>Aug 2023:</b></td><td>I defended my PhD thesis on long-form text generation!</td></tr>
   <tr><td><b>July 2023:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on long-form text generation evaluation.</td></tr>
