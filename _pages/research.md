@@ -17,7 +17,7 @@ arXiv 2023
 
 * [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
 *Kalpesh Krishna*, Yixiao Song, Marzena Karpinska, John Wieting, Mohit Iyyer  
-arXiv 2023  
+**NeurIPS 2023**    
 [model + data + code](https://github.com/martiansideofthemoon/ai-detection-paraphrases) // [tweet](https://twitter.com/kalpeshk2011/status/1639273935719022593)
 
 * [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
