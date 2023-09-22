@@ -21,8 +21,8 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <col width="100px">
 <col width="650px">
   <tr><td><b>Sept 2023:</b></td><td>one <a href="https://arxiv.org/abs/2303.13408">paper</a> to appear in NeurIPS 2023 on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
-  <tr><td><b>Sept 2023</b></td><td>talk at <a href="https://nlpwithfriends.com/speakers/kalpesh-krishna">NLP with Friends</a> on AI-generated text detection.</td></tr>
-  <tr><td><b>Aug 2023</b></td><td>I joined the Google Bard team as a Research Scientist.</td>
+  <tr><td><b>Sept 2023:</b></td><td>talk at <a href="https://nlpwithfriends.com/speakers/kalpesh-krishna">NLP with Friends</a> on AI-generated text detection.</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td>I joined the Google Bard team as a Research Scientist.</td>
   <tr><td><b>Aug 2023:</b></td><td>I defended my PhD thesis on long-form text generation!</td></tr>
   <tr><td><b>July 2023:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on long-form text generation evaluation.</td></tr>
   <tr><td><b>July 2023:</b></td><td>talk at University of Toronto on AI-generated text detection.</td></tr>
