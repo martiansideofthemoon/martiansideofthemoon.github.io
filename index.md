@@ -20,6 +20,7 @@ Email ID: [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Nov 2023:</b></td><td>upcoming talk at the University of Pittsburgh NLP seminar.</td>
   <tr><td><b>Sept 2023:</b></td><td>one <a href="https://arxiv.org/abs/2303.13408">paper</a> to appear in NeurIPS 2023 on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
   <tr><td><b>Sept 2023:</b></td><td>talk at <a href="https://nlpwithfriends.com/speakers/kalpesh-krishna">NLP with Friends</a> on AI-generated text detection.</td></tr>
   <tr><td><b>Aug 2023:</b></td><td>I joined the Google Bard team as a Research Scientist.</td>
