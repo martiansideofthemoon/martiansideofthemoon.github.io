@@ -12,7 +12,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
 Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi  
-arXiv 2023  
+**EMNLP 2023**    
 [PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore) // [tweet](https://twitter.com/kalpeshk2011/status/1661151332148084737)
 
 * [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/abs/2303.13408)  
