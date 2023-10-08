@@ -30,11 +30,6 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 **EMNLP 2022**  
 [code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
-* [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
-*Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
-**ACL 2022**  
-[data](https://github.com/google-research-datasets/informal) // [project page]({% post_url 2022-03-03-acl22 %})
-
 * [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
 **NAACL 2021**  
@@ -49,11 +44,6 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 *Kalpesh Krishna*, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer  
 **ICLR 2020**  
 [blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page]({% post_url 2020-04-04-iclr20 %})
-
-* [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
-*Kalpesh Krishna*, Mohit Iyyer  
-**ACL 2019**  
-[project page (demo + code + data)](http://squash.cs.umass.edu/) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 ### Other Papers
 
@@ -80,6 +70,11 @@ Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer
 Katherine Thai\*, Marzena Karpinska\*, *Kalpesh Krishna*, Bill Ray, Moira Inghilleri, John Wieting and Mohit Iyyer  
 **EMNLP 2022**  
 [code + data](https://github.com/ngram-lab/par3)
+
+* [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://arxiv.org/abs/2110.07385)  
+*Kalpesh Krishna*, Deepak Nathani, Xavier Garcia, Bidisha Samanta, Partha Talukdar  
+**ACL 2022**  
+[data](https://github.com/google-research-datasets/informal) // [project page]({% post_url 2022-03-03-acl22 %})
 
 * [RELiC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)  
 Katherine Thai, Yapei Chang, *Kalpesh Krishna*, Mohit Iyyer  
@@ -109,6 +104,11 @@ arXiv 2021
 * [SunPy: A Python package for Solar Physics](https://joss.theoj.org/papers/10.21105/joss.01832)  
 Stuart J. Mumford and others  
 **JOSS 2020**
+
+* [Generating Question-Answer Hierarchies](https://arxiv.org/abs/1906.02622)  
+*Kalpesh Krishna*, Mohit Iyyer  
+**ACL 2019**  
+[project page (demo + code + data)](http://squash.cs.umass.edu/) // [poster]({{ site.url }}/assets/squash-poster.pdf) // [external blog](https://towardsdatascience.com/introducing-squash-a-question-answer-generating-system-71c47b478a16)
 
 * [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/abs/1906.02780)  
 Nader Akoury, *Kalpesh Krishna*, Mohit Iyyer  
