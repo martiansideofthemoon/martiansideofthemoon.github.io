@@ -20,7 +20,7 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Nov 2023:</b></td><td>talk at the University of Texas Dallas on LLM evaluation.</td></tr>
+  <tr><td><b>Nov 2023:</b></td><td>talk at the University of Texas at Dallas on LLM evaluation.</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>talks at the University of Pittsburgh on LLM evaluation and AI-generated text detection.</td></tr>
       <tr><td><b>Oct 2023:</b></td><td>one <a href="https://arxiv.org/abs/2305.14251">paper</a> to appear at EMNLP 2023 on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
   <tr><td><b>Sept 2023:</b></td><td>one <a href="https://arxiv.org/abs/2303.13408">paper</a> to appear in NeurIPS 2023 on paraphrase attacks on AI-generated text detection and defending against these attacks using retrieval. Our model, data and code is available <a href="https://github.com/martiansideofthemoon/ai-detection-paraphrases">here</a>.</td></tr>
