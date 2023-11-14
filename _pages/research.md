@@ -23,7 +23,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 * [LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization](https://arxiv.org/abs/2301.13298)  
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
 **EACL 2023**  (<a style="color:red" href="https://twitter.com/kalpeshk2011/status/1654133082247815169"><i>Outstanding Paper Award</i></a>)  
-[data + code](https://github.com/martiansideofthemoon/longeval-summarization) // [tweet](https://twitter.com/kalpeshk2011/status/1620781282044297216) // [video](https://underline.io/lecture/49742-long-few-shot-controllable-style-transfer-for-low-resource-multilingual-settings) // [external article](https://www.umass.edu/news/article/prize-winning-paper-umass-amherst-computer-scientists-release-guidelines-evaluating-ai)
+[data + code](https://github.com/martiansideofthemoon/longeval-summarization) // [tweet](https://twitter.com/kalpeshk2011/status/1620781282044297216) // [video](https://underline.io/lecture/71499-longeval-guidelines-for-human-evaluation-of-faithfulness-in-long-form-summarization) // [external article](https://www.umass.edu/news/article/prize-winning-paper-umass-amherst-computer-scientists-release-guidelines-evaluating-ai)
 
 * [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
