@@ -28,7 +28,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 * [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
 *Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
 **EMNLP 2022**  
-[code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
+[code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [video](https://underline.io/lecture/65012-rankgen-improving-text-generation-with-large-ranking-models) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 * [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
