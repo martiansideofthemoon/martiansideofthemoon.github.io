@@ -47,8 +47,8 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 
 ### Other Papers
 
-* [GEE! Grammar Error Explanation with Large Language Models](https://arxiv.org/abs/2311.09517)
-  Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, and Mohit Iyyer
+* [GEE! Grammar Error Explanation with Large Language Models](https://arxiv.org/abs/2311.09517)  
+  Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, and Mohit Iyyer  
   arXiv 2023
 
 * [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)  
