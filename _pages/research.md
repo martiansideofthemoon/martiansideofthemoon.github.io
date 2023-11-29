@@ -53,7 +53,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 
 * [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)  
 Ali Naseh, Kalpesh Krishna, Mohit Iyyer, Amir Houmansadr  
-**CCS 2023**
+**CCS 2023** (<a style="color:red" href="https://twitter.com/kalpeshk2011/status/1654133082247815169"><i>Distinguished Paper Award</i></a>)  
 
 * [ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution](https://arxiv.org/abs/2210.07188)  
 Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor  
