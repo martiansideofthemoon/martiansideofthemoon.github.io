@@ -20,6 +20,7 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Nov 2023:</b></td><td>our <a href="https://arxiv.org/abs/2303.04729">paper</a> on inferring LLM decoding algorithms won a Distinguished Paper award at CCS 2023!</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>talk at the University of Texas at Dallas on LLM evaluation.</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>talks at the University of Pittsburgh on LLM evaluation and AI-generated text detection.</td></tr>
       <tr><td><b>Oct 2023:</b></td><td>one <a href="https://arxiv.org/abs/2305.14251">paper</a> to appear at EMNLP 2023 on fine-grained automatic evaluation of long-form text generation. Check out our <a href="https://pypi.org/project/factscore">PIP package</a> too!</td></tr>  
