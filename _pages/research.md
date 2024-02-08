@@ -11,7 +11,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 ### Selected Papers
 
 * [Gemini: a family of highly capable multimodal models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)  
-Rohan Anil and *others* (Kalpesh Krishna is a Core Contributor on Gemini Advanced)
+Rohan Anil and *others* (*Kalpesh Krishna* is a Core Contributor for Gemini Advanced)  
 (technical report)  
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
