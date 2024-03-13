@@ -20,7 +20,7 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Feb 2024:</b></td><td>check out [Gemini Advanced](gemini.google.com), our most capable Bard model powered by Gemini Ultra! (<a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">tech report</a>, <a href="https://blog.google/products/gemini/bard-gemini-advanced-app/">blogpost</a>)</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td>check out <a href='gemini.google.com'>Gemini Advanced</a>, our most capable Bard model powered by Gemini Ultra! (<a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">tech report</a>, <a href="https://blog.google/products/gemini/bard-gemini-advanced-app/">blogpost</a>)</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>our <a href="https://arxiv.org/abs/2303.04729">paper</a> on inferring LLM decoding algorithms won a Distinguished Paper award at CCS 2023!</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>talk at the University of Texas at Dallas on LLM evaluation.</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>talks at the University of Pittsburgh on LLM evaluation and AI-generated text detection.</td></tr>
