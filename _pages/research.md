@@ -53,7 +53,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 
 * [GEE! Grammar Error Explanation with Large Language Models](https://arxiv.org/abs/2311.09517)  
   Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, and Mohit Iyyer  
- **NAACL 2024** (findings)
+ **NAACL 2024 (Findings)**
 
 * [On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)  
 Ali Naseh, Kalpesh Krishna, Mohit Iyyer, Amir Houmansadr  
