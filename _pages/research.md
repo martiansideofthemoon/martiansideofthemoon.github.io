@@ -10,8 +10,12 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
+* [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)  
+Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
+[technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) // [tweet](https://x.com/JeffDean/status/1791518997973762322)
+
 * [Gemini: a family of highly capable multimodal models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)  
-Rohan Anil and *others* (*Kalpesh Krishna* is a Core Contributor for Bard/Gemini Advanced)  
+Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor for Bard/Gemini Advanced)  
 [technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), see Section 6 onwards for Gemini Advanced work // [blogpost](https://blog.google/products/gemini/bard-gemini-advanced-app/)  
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
