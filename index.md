@@ -5,9 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
 
-My name is Kalpesh Krishna, and I am a Research Scientist at Google in the [Bard/Gemini team](https://gemini.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
+My name is Kalpesh Krishna, and I am a Research Scientist at Google in the [Gemini/Bard team](https://gemini.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
-I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [AI2](https://allenai.org/) (Summer 2022), [Google Research](https://research.google) (Summer 2019 - Spring 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
+I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [Google DeepMind](https://research.google) (Summer 2019 - Spring 2022), [Allen AI](https://allenai.org/) (Summer 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
 I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
@@ -20,6 +20,7 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>July 2024:</b></td><td>check out our <a href="https://arxiv.org/abs/2407.10817">new paper on foundational autoraters</a>, the best performing generative model on <a href="https://huggingface.co/spaces/allenai/reward-bench">RewardBench</a> trained solely on publicly available data!</td></tr>
   <tr><td><b>Apr 2024:</b></td><td>check out the <a href="https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/">Gemini 1.5 Pro API</a>, a top-tier LLM on the <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard">LMSys leaderboard</a>! (<a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">technical report</a>, <a href="https://x.com/JeffDean/status/1791518997973762322">tweet</a>)</td></tr>
   <tr><td><b>Apr 2024:</b></td><td>talk at Georgia Tech on LLM evaluation</td></tr>
   <tr><td><b>Feb 2024:</b></td><td>check out <a href='https://gemini.google.com'>Gemini Advanced</a>, our most capable Bard model powered by Gemini Ultra! (<a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf">tech report</a>, <a href="https://blog.google/products/gemini/bard-gemini-advanced-app/">blogpost</a>)</td></tr>
