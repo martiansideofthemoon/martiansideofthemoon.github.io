@@ -10,6 +10,12 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 ### Selected Papers
 
+\* denotes co-lead, co-first authors.
+
+* [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](https://arxiv.org/abs/2407.10817)  
+Tu Vu\*, <i>Kalpesh Krishna</i>\*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui, Yun-Hsuan Sung  
+[arXiv](https://arxiv.org/abs/2407.10817) // [tweet](https://twitter.com/tuvllms/status/1813249272474968315)
+
 * [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)  
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
 [technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) // [tweet](https://x.com/JeffDean/status/1791518997973762322)
@@ -54,6 +60,10 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 [blog](http://www.cleverhans.io/2020/04/06/stealing-bert.html) // [project page]({% post_url 2020-04-04-iclr20 %})
 
 ### Other Papers
+
+* [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/abs/2406.14517)
+  Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer  
+  [arXiv](https://arxiv.org/abs/2406.14517) // [tweet](https://twitter.com/YapeiChang/status/1805256158103380243)
 
 * [GEE! Grammar Error Explanation with Large Language Models](https://arxiv.org/abs/2311.09517)  
   Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, and Mohit Iyyer  
