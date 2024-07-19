@@ -61,7 +61,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 
 ### Other Papers
 
-* [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/abs/2406.14517)
+* [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/abs/2406.14517)  
   Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer  
   [arXiv](https://arxiv.org/abs/2406.14517) // [tweet](https://twitter.com/YapeiChang/status/1805256158103380243)
 
