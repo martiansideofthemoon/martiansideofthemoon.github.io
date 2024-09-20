@@ -18,7 +18,7 @@ Satyapriya Krishna, <i>Kalpesh Krishna</i>\*, Anhad Mohananey\*, Steven Schwarcz
 
 * [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](https://arxiv.org/abs/2407.10817)  
 Tu Vu\*, <i>Kalpesh Krishna</i>\*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui, Yun-Hsuan Sung  
-**EMNLP 2024**
+**EMNLP 2024**  
 [arXiv](https://arxiv.org/abs/2407.10817) // [tweet](https://twitter.com/tuvllms/status/1813249272474968315)
 
 * [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)  
@@ -68,7 +68,7 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 
 * [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/abs/2406.14517)  
   Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer  
-  **EMNLP 2024**
+  **EMNLP 2024**  
   [arXiv](https://arxiv.org/abs/2406.14517) // [tweet](https://twitter.com/YapeiChang/status/1805256158103380243)
 
 * [GEE! Grammar Error Explanation with Large Language Models](https://arxiv.org/abs/2311.09517)  
