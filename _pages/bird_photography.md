@@ -13,11 +13,6 @@ In this page I've posted some bird photographs I clicked during my first year as
 
 <p style="text-align: center;">
 
-<p>White-eyed Buzzard (<i>Butastur teesa</i>)</p>
-<img src="{{ site.url }}/assets/birding/white_eyed_buzzard.jpg" />
-
-<br /><br />
-
 <p>Ruby-crowned Kinglet (<i>Regulus calendula</i>)</p>
 <img src="{{ site.url }}/assets/birding/kinglet.jpg" />
 
@@ -35,6 +30,11 @@ In this page I've posted some bird photographs I clicked during my first year as
 
 <p>American Robin (<i>Turdus migratorius</i>)</p>
 <img src="{{ site.url }}/assets/birding/robin.jpg" />
+
+<br /><br />
+
+<p>White-eyed Buzzard (<i>Butastur teesa</i>)</p>
+<img src="{{ site.url }}/assets/birding/white_eyed_buzzard.jpg" />
 
 <br /><br />
 
