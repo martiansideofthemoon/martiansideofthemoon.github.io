@@ -20,6 +20,7 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Dec 2024:</b></td><td>check out Gemini 2.0 Flash, a stronger model than Gemini 1.5 Pro, but at 2x the speed! (<a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/">official blogpost</a>)</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>check out our <a href="https://arxiv.org/abs/2409.12941">new preprint</a> on FRAMES, a challenging factual reasoning QA benchmark (<a href="https://huggingface.co/datasets/google/frames-benchmark">dataset link</a>)!</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>two papers to appear at EMNLP 2024, on <a href="https://arxiv.org/abs/2407.10817">foundational autoraters (FLAMe)</a> and <a href="https://arxiv.org/abs/2406.14517">posthoc watermarking of language models</a>.</td></tr>
   <tr><td><b>July 2024:</b></td><td>check out our <a href="https://arxiv.org/abs/2407.10817">new paper on foundational autoraters</a>, the best performing generative model on <a href="https://huggingface.co/spaces/allenai/reward-bench">RewardBench</a> trained solely on publicly available data!</td></tr>
