@@ -14,8 +14,8 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 * [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](https://arxiv.org/abs/2409.12941)  
 Satyapriya Krishna, <i>Kalpesh Krishna</i>\*, Anhad Mohananey\*, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui  
-[arXiv](https://arxiv.org/abs/2409.12941) // [dataset](https://huggingface.co/datasets/google/frames-benchmark)  
-arXiv 2024
+[arXiv](https://arxiv.org/abs/2409.12941) // [dataset](https://huggingface.co/datasets/google/frames-benchmark)
+**NAACL 2025**
 
 * [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](https://arxiv.org/abs/2407.10817)  
 Tu Vu\*, <i>Kalpesh Krishna</i>\*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui, Yun-Hsuan Sung  
