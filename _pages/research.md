@@ -13,7 +13,7 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 \* denotes equal contributions / lead authors.
 
 * [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](https://arxiv.org/abs/2409.12941)  
-Satyapriya Krishna, <i>Kalpesh Krishna</i>\*, Anhad Mohananey\*, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui
+Satyapriya Krishna, <i>Kalpesh Krishna</i>\*, Anhad Mohananey\*, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui  
  **NAACL 2025**  
 [arXiv](https://arxiv.org/abs/2409.12941) // [dataset](https://huggingface.co/datasets/google/frames-benchmark)  
 
@@ -24,13 +24,13 @@ Tu Vu\*, <i>Kalpesh Krishna</i>\*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui,
 
 * [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)  
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
-[technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) // [tweet](https://x.com/JeffDean/status/1791518997973762322)  
 arXiv 2024
+[technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) // [tweet](https://x.com/JeffDean/status/1791518997973762322)  
 
 * [Gemini: a family of highly capable multimodal models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)  
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor for Bard/Gemini Advanced)  
-[technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), see Section 6 onwards for Gemini Advanced work // [blogpost](https://blog.google/products/gemini/bard-gemini-advanced-app/)  
 arXiv 2024
+[technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), see Section 6 onwards for Gemini Advanced work // [blogpost](https://blog.google/products/gemini/bard-gemini-advanced-app/)  
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
 Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi  
