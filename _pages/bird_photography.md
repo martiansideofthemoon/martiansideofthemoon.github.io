@@ -5,9 +5,11 @@ permalink: /birding/
 order: 3
 ---
 
+Note: This page is not actively maintained. For my latest birding updates, please check my [eBird profile](https://ebird.org/profile/MTgwMDY0OQ/world) or [Instagram](https://www.instagram.com/kalpesh.krishna).
+
 I started my birding journey during the summer months of the 2020 pandemic watching backyard birds and I instantly fell in love with birds! One thing lead to another, and I bought a pair of binoculars, a camera, zoom lens and most importantly, joined [eBird](https://ebird.org/home). I love the challenge of growing [my life list](https://en.wikipedia.org/wiki/Life_list), learning about bird ID field marks, trying to photograph as many birds as possible and making friends with other bird watchers. I am also curious about ornithology, though admittedly I don't know much about it!
 
-So far, I've seen 1213 bird species worldwide, including 579 in India and 551 in USA (check out my full eBird profile [here](https://ebird.org/profile/MTgwMDY0OQ/world)). I am particularly fond of Indian birding, and in March 2023, I got a chance to speak at the [Hampshire Bird Club](https://hampshirebirdclub.org/) on my birding adventures in India. Check out the presentation on [this link](https://www.youtube.com/watch?v=X5hNkq-dBg4)!
+So far, I've seen 1217 bird species worldwide, including 579 in India and 557 in USA (check out my full eBird profile [here](https://ebird.org/profile/MTgwMDY0OQ/world)). I am particularly fond of Indian birding, and in March 2023, I got a chance to speak at the [Hampshire Bird Club](https://hampshirebirdclub.org/) on my birding adventures in India. Check out the presentation on [this link](https://www.youtube.com/watch?v=X5hNkq-dBg4)!
 
 In this page I've posted some bird photographs I clicked during my first year as a bird watcher (2020-21). My more recent photos are available on eBird ([link](https://media.ebird.org/catalog?mediaType=photo&searchField=user&userId=USER1800649&sort=rating_rank_desc&unconfirmed=incl)), I will post some of them here when I get a chance.
 
