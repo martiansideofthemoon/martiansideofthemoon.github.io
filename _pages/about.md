@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-I am currently a Senior Research Scientist in Google DeepMind, where I am working in the [Gemini](https://gemini.google.com/) team. Our team works on improving instruction following and general model quality of the Gemini models in the post-training phase.
+I am currently a Staff Research Scientist in Google DeepMind, where I am working in the [Gemini](https://gemini.google.com/) team. Our team works on improving instruction following and general model quality of the Gemini models in the post-training phase.
 
 I finished my PhD in August 2023 at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I was fortunate to be advised by [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) and worked on exciting problems in long-form text generation. I used to co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst (Fall 2019 - Spring 2022). I graduated with a Bachelors in Electrical Engineering at [IIT Bombay](http://iitb.ac.in) in 2018. I was a part of the [CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/) group and was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), working on problems in language modeling and sentiment classification.
 
