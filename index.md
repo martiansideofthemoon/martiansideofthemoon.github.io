@@ -11,7 +11,7 @@ I completed my PhD in 2023 in Computer Science at [UMass Amherst](http://cs.umas
 
 I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ)  
+[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [LinkedIn](https://www.linkedin.com/in/kalpesh-krishna-6b3827a6/)  
 Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)  
 
 #### Updates
@@ -20,6 +20,9 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Dec 2025:</b></td><td>check out Gemini 3.0 Flash, and Gemini 3.0 Pro: state-of-the-art models for multimodality, reasoning, and LMArena, at the pareto frontier of speed-performance! (<a href="https://blog.google/products/gemini/gemini-3-flash/">flash blogpost</a>, <a href="https://blog.google/products/gemini/gemini-3/">pro blogpost</a>)</td></tr>
+  <tr><td><b>Nov 2025:</b></td><td>one new preprint on interleaved reasoning in LLMs with planning steps (<a href="https://www.arxiv.org/abs/2512.03176">paper link</a>)</td></tr>
+  <tr><td><b>Mar 2025:</b></td><td>check out Gemini 2.5 Pro, a very strong reasoning model, and #1 on the LMArena! (<a href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking">official blogpost</a>, <a href="https://arxiv.org/abs/2507.06261">preprint</a>)</td></tr>
   <tr><td><b>Jan 2025:</b></td><td>one paper to appear at NAACL 2025: <a href="https://arxiv.org/abs/2409.12941">FRAMES</a>, a challenging factual reasoning QA benchmark (<a href="https://huggingface.co/datasets/google/frames-benchmark">dataset link</a>)! FRAMES has recently been used for as a long-context evaluation benchmark in the <a href="https://arxiv.org/abs/2412.19437">DeepSeek-v3</a> / <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">DeepSeek-R1</a> papers.</td></tr>
   <tr><td><b>Dec 2024:</b></td><td>check out Gemini 2.0 Flash, a stronger model than Gemini 1.5 Pro, but at 2x the speed! (<a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/">official blogpost</a>)</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>two papers to appear at EMNLP 2024, on <a href="https://arxiv.org/abs/2407.10817">foundational autoraters (FLAMe)</a> and <a href="https://arxiv.org/abs/2406.14517">posthoc watermarking of language models</a>.</td></tr>
