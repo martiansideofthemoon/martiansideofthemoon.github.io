@@ -12,6 +12,14 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 
 \* denotes equal contributions / lead authors.
 
+* [Plantain: Plan-Answer Interleaved Reasoning](https://www.arxiv.org/abs/2512.03176)  
+Anthony Liang, Jonathan Berant, Adam Fisch, Abhimanyu Goyal, <i>Kalpesh Krishna</i>\*, Jacob Eisenstein\*
+
+* [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
+Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
+arXiv 2025  
+[technical report](https://arxiv.org/abs/2507.06261)
+
 * [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](https://arxiv.org/abs/2409.12941)  
 Satyapriya Krishna, <i>Kalpesh Krishna</i>\*, Anhad Mohananey\*, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui  
  **NAACL 2025**  
@@ -24,12 +32,12 @@ Tu Vu\*, <i>Kalpesh Krishna</i>\*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui,
 
 * [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)  
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
-arXiv 2024
+arXiv 2024  
 [technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) // [tweet](https://x.com/JeffDean/status/1791518997973762322)  
 
 * [Gemini: a family of highly capable multimodal models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)  
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor for Bard/Gemini Advanced)  
-arXiv 2024
+arXiv 2024  
 [technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), see Section 6 onwards for Gemini Advanced work // [blogpost](https://blog.google/products/gemini/bard-gemini-advanced-app/)  
 
 * [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251)  
@@ -46,11 +54,6 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 *Kalpesh Krishna*, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, Kyle Lo  
 **EACL 2023**  (<a style="color:red" href="https://twitter.com/kalpeshk2011/status/1654133082247815169"><i>Outstanding Paper Award</i></a>)  
 [data + code](https://github.com/martiansideofthemoon/longeval-summarization) // [tweet](https://twitter.com/kalpeshk2011/status/1620781282044297216) // [video](https://underline.io/lecture/71499-longeval-guidelines-for-human-evaluation-of-faithfulness-in-long-form-summarization) // [external article](https://www.umass.edu/news/article/prize-winning-paper-umass-amherst-computer-scientists-release-guidelines-evaluating-ai)
-
-* [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
-*Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
-**EMNLP 2022**  
-[code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [video](https://underline.io/lecture/65012-rankgen-improving-text-generation-with-large-ranking-models) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 * [Hurdles to Progress in Long-form Question Answering](https://arxiv.org/abs/2103.06332)  
 *Kalpesh Krishna*, Aurko Roy, Mohit Iyyer  
@@ -91,6 +94,11 @@ Ankita Gupta, Marzena Karpinska, Wenlong Zhao, *Kalpesh Krishna*, Jack Merullo, 
 Kaustubh D. Dhole and *others*  
 **NEJLT 2023**    
 [code](https://github.com/GEM-benchmark/NL-Augmenter)
+
+* [RankGen: Improving Text Generation with Large Ranking Models](https://arxiv.org/abs/2205.09726)  
+*Kalpesh Krishna*, Yapei Chang, John Wieting, Mohit Iyyer  
+**EMNLP 2022**  
+[code](https://github.com/martiansideofthemoon/rankgen) // [tweet](https://twitter.com/kalpeshk2011/status/1529097437402517504) // [video](https://underline.io/lecture/65012-rankgen-improving-text-generation-with-large-ranking-models) // [external summary](https://dblalock.substack.com/p/2022-5-22-arxiv-roundup-rankgen-deep?s=w)
 
 * [SLING: Sino Linguistic Evaluation of Large Language Models](https://arxiv.org/abs/2210.11689)  
 Yixiao Song, *Kalpesh Krishna*, Rajesh Bhatt, Mohit Iyyer  
