@@ -13,7 +13,8 @@ I am broadly interested in Natural Language Processing (especially Text Generati
 \* denotes equal contributions / lead authors.
 
 * [Plantain: Plan-Answer Interleaved Reasoning](https://www.arxiv.org/abs/2512.03176)  
-Anthony Liang, Jonathan Berant, Adam Fisch, Abhimanyu Goyal, <i>Kalpesh Krishna</i>\*, Jacob Eisenstein\*
+Anthony Liang, Jonathan Berant, Adam Fisch, Abhimanyu Goyal, <i>Kalpesh Krishna</i>\*, Jacob Eisenstein\*  
+ **ICML 2026** (<a style="color:red" href=""><i>Spotlight</i></a>)   
 
 * [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
 Gemini Team, Google (*Kalpesh Krishna* is a Core Contributor)  
